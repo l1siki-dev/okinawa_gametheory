@@ -82,6 +82,7 @@ Just check where you are interested in.
 When you feel that what I'm saying here is interesting or right, spread this report.  
 
 ---
+# Table of Contents
 
 * TOC
 {:toc}
