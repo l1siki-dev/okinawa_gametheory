@@ -178,7 +178,7 @@ Did Tokyo plan the forever dependency plan 50 years ago? Maybe, maybe not. **It 
 Nobody in the ruling party will tell you "We had". And they are the only ones who know the truth. 
 It might even the LDP doesn't know about this. It's been a long time. The initial members have gone.  
 
-But I'm sure after 2010, when the Aid Curse became the norm among political elites, Tokyo has been sending aid with the intent.  
+But I'm sure after 2010, when the Aid Curse became the common knowleadge among political elites, Tokyo has been sending aid with the intent.  
 Whether it is started intentionally or not, the result is the same. The machine is wasting our money today.  
 Bureaucrats in Tokyo are happy because they control the island with money. As long as voters don't notice the mechanism.  
 Politicians in Okinawa are happy because they get elected on anger.  
