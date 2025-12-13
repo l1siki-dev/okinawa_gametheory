@@ -692,9 +692,9 @@ Before the story, let's see the population growth data I calculated from trustwo
 | Period / Year | Regime | Pop Growth | Annual Growth | Data Type |
 | :--- | :--- | :--- | :--- |:--- |
 | **1429 - 1609** | **Ryukyu Kingdom under Ming** | 70K ➔ 86K  | 0.11% | Only main island |
-| **1609 – 1880** | **Ryukyu Kingdom under Satsuma** | 100K ➔ 353K | 0.47% | Exclude Amami |
-| **1880 – 1935** | **Okinawa in Japan(Constitutional Monarchy)** | **353K ➔ 590k** | 0.94% | Exclude Amami |
-| **1880 – 2025** | **Okinawa in Japan(All)** | **353K ➔ 1,467k** | 0.99% | Exclude Amami |
+| **1609 – 1880** | **Ryukyu Kingdom under Satsuma** | 100K ➔ 353K | 0.47% | Amami excluded |
+| **1880 – 1935** | **Okinawa in Japan(Constitutional Monarchy)** | **353K ➔ 590k** | 0.94% | Amami excluded |
+| **1880 – 2025** | **Okinawa in Japan(All)** | **353K ➔ 1,467k** | 0.99% | Amami excluded |
 
 * (Source: 70K is a widely accepted academic estimate. Which is 60K - 80K. I took the middle.)
 * (Source: 86K is based on estimation from 100K(1609, academic standard) and the 1647 Yaeyama data. Assuming Miyako has a double population of Yaeyama, which is a widely accepted standard. Assuming under Satsuma, in this case 1609 - 1647, the annual growth rate is fixed at 0.47% for all islands and the given period, back-casting the 1609 population.  I subtracted the estimated Sakishima population(1609: 14K) from 100K for the main island comparison.)
