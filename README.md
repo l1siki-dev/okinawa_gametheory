@@ -755,6 +755,12 @@ People of Okinawa pay tax for the "infinite conflict machine" that keeps them su
 
 These "Beautiful Ryukyu Kingdom" stories are all lies. It's a fantasy.  
 
+* It was not peaceful
+* It was not a great trader
+* It was not utopia.
+* It was not sovereign from the start.
+* It was not even a Kingdom in a practical sense.
+
 ### Start from the data: population growth.  
 Before the story, let's see the population growth data I calculated from trustworthy data.  
 
@@ -995,6 +1001,35 @@ And if a Ryukyu ship carrying sulfur gets attacked by pirates on the way to Chin
 That is Ryukyu's loss, not the Emperor's.  
 The Ming effectively outsourced the logistics risk to Chusan.  
 
+### Ryukyu is never had been soverign from the start in practical sense. 
+
+It was all Ming's doing.  
+That was business of Ming. Whatever legal difinition is.  
+Ming was the boss who decide what Ryukyu do, and Ryukyu "King" was just a local manager who got business licence.  
+
+### Ryukyu is not even Kingdom in practical sense
+
+| Rank | Kingdom / Empire | Largest Extent Area | Peak Population | **Area relative to Ming** | **Pop. relative to Ming** |
+| :-- | :--- | :--- | :--- | :--- | :--- |
+| **1** | **Ming Dynasty** | **6,500,000 km²** | **160,000,000** | **100% (Baseline)** | **100% (Baseline)** |
+| 2 | **Spanish Empire** | 13,700,000 km² | ~30,000,000 | **211%** (2.1x larger) | **19%** (1/5th size) |
+| 3 | **Mughal Empire** | 4,000,000 km² | 150,000,000 | **62%** | **94%** |
+| 4 | **Russian Tsardom** | 5,500,000 km² | 14,000,000 | **85%** | **9%** |
+| 5 | **Ottoman Empire** | 5,200,000 km² | 35,000,000 | **80%** | **22%** |
+| 6 | **Safavid Empire** | 2,850,000 km² | 10,000,000 | **44%** | **6%** |
+| 7 | **Holy Roman Empire**| 1,000,000 km² | 25,000,000 | **15%** | **16%** |
+| 8 | **Polish-Lithuanian**| 1,000,000 km² | 11,000,000 | **15%** | **7%** |
+| 9 | **Kingdom of France**| 500,000 km² | 20,000,000 | **8%** | **12.5%** |
+| 10 | **Tokugawa Shogunate**| 370,000 km² | 30,000,000 | **6%** | **19%** |
+| 11 | **Ryukyu Kingdom** | 2,270 km² | 100,000 | **0.03%** | **0.06%** |
+
+It's the same with calling a 10-year-old boy who play baseball "baseball player".  
+Yes technicaly.  
+but not what you imagine when you hear "baseball player".  
+You imagine the famouse one like Ohtani.
+
+The "Kingdom" title was given by Ming to run Dejima business.  
+Calling Ryukyu "Kingdom" is deceptive.
 
 ### **Sotetsu-Jigoku is not a hell.** It was a Recession
 Let’s look at the population statistics of Okinawa Prefecture.  
