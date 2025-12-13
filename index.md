@@ -1296,7 +1296,7 @@ As Sun Tzu said, "Know the Enemy and Yourself, you will not know defeat". (Not a
 * Okinawa's history is important/interesting than you think.  
 
 ---
-### Lie 7: The US wouldn't agree with it
+# Lie 7: The US wouldn't agree with it
 
 **The Reality:** If the US loses Japan, it is "Game Over" for American hegemony.  
 Their most important grand strategy is to control the Pacific to contain China. This is impossible without Japan.  
