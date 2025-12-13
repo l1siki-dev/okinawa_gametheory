@@ -1172,14 +1172,14 @@ Let's dive deeper to find out.
 You notice that all pages are hard to read.  
 But "沖縄の歴史と文化31" is exceptionally harder to read.  
 
-### 1. "沖縄の歴史と文化19", "沖縄の歴史と文化30", "沖縄の歴史と文化32", and other "Safe" pages 
+1. "沖縄の歴史と文化19", "沖縄の歴史と文化30", "沖縄の歴史と文化32", and other "Safe" pages 
 *   **Estimated Resolution:** ~200 DPI (dots per inch).  
 *   **Text Sharpness:** Relatively High. The edges of the Kanji are crisp. You can clearly distinguish complex strokes (like in "琉球石灰岩").  
 *   **Contrast:** High. The text is **Black**, and the background is **White**.  
 *   **Compression:** Low. There are very few "blocks" or digital noise around the letters.  
 *   **Verdict:** discourage reading.  
 
-### 2. "沖縄の歴史と文化31": The "Dangerous" page (Dismantling the myth) 
+2. "沖縄の歴史と文化31": The "Dangerous" page (Dismantling the myth) 
 *   **Estimated Resolution:** ~72 DPI (or lower), possibly upscaled.  
 *   **Text Sharpness:** Very Low. The edges are fuzzy. The serifs on the Mincho font are disappearing.  
 *   **Contrast:** Low. The text is **Dark Gray** and the background is **Muddy Gray**.  
