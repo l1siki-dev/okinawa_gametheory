@@ -642,7 +642,7 @@ You can't see these numbers in other prefectures, and likely anywhere in the wor
 Japan is a country with a strong nationwide newspaper; Yomiuri has a Guinness World Record for circulation. 
 In that country with a strong national paper, a prefecture completely wiping out the national papers is unheard of.  
 
-"新聞広告を介した情報流通の地域的差異性 福井一喜 2013" [https://www.jstage.jst.go.jp/article/jags/6/2/6_141/_article/-char/ja](https://www.jstage.jst.go.jp/article/jags/6/2/6_141/_article/-char/ja)
+"新聞広告を介した情報流通の地域的差異性 福井一喜 2013" [https://www.jstage.jst.go.jp/article/jags/6/2/6_141/_article/-char/ja](https://www.jstage.jst.go.jp/article/jags/6/2/6_141/_article/-char/ja)  
 This paper has a graph that shows the Okinawa abnormality.  
 The data is a bit old, but I confirmed that the data from ABC (2024) has no big difference from it.  
 Other strong local newspaper prefectures hover around 90% share. Ishikawa, Tokushima, and Kouchi are the top 3 if we exclude Okinawa.  
@@ -831,8 +831,8 @@ This celebration marks the true end of the "Internal Colonialism" that began und
 
 **2. The Battle for Abolition: Reformers vs. The Old Guard**
 [https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E5%8D%81%E4%BD%9C
-](https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E5%8D%81%E4%BD%9C
-)The path to this liberation reveals who the real oppressors were.  
+](https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E5%8D%81%E4%BD%9C)  
+The path to this liberation reveals who the real oppressors were.  
 *   **The Heroes:** The movement was led by **Nakamura Jusaku** (a Japanese Mainlander from Niigata) and **Gusukuma Seian** (an Okinawan from Naha). They joined forces with peasant leaders to petition the government.  
 *   **The Villains:** Who fought to keep the tax? It was the **Former Ryukyu Samurai (Shuri Gentry)**.  
     *   As detailed in Higa Chuncho’s *History of Okinawa*, the local bureaucrats—the remnants of the Ryukyu feudal class—actively petitioned the Imperial Diet *against* the peasants.  
@@ -899,7 +899,7 @@ We are here because of Okinawa.
 
 ### Population data: Satsuma-Ryukyu partners in crime.: Tax-Evading Bros
 "薩摩藩と近世琉球国の人口" by 尾口義男 page 8.  
-[https://www.pref.kagoshima.jp/ab23/reimeikan/siroyu/documents/6757_20220514171645-1.pdf](https://www.pref.kagoshima.jp/ab23/reimeikan/siroyu/documents/6757_20220514171645-1.pdf)
+[https://www.pref.kagoshima.jp/ab23/reimeikan/siroyu/documents/6757_20220514171645-1.pdf](https://www.pref.kagoshima.jp/ab23/reimeikan/siroyu/documents/6757_20220514171645-1.pdf)  
 You see the beautiful table. But the data is fake. (Not to blame the author, he did a great job.)
 Only the last two rows are trustworthy.  
 
@@ -998,7 +998,7 @@ The Ming effectively outsourced the logistics risk to Chusan.
 ### **Sotetsu-Jigoku is not a hell.** It was a Recession
 Let’s look at the population statistics of Okinawa Prefecture.  
 [https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C%E3%81%AE%E4%BA%BA%E5%8F%A3%E7%B5%B1%E8%A8%88
-](https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C%E3%81%AE%E4%BA%BA%E5%8F%A3%E7%B5%B1%E8%A8%88)
+](https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C%E3%81%AE%E4%BA%BA%E5%8F%A3%E7%B5%B1%E8%A8%88)  
 The term Sotetsu-Jigoku (Cycad Hell) usually refers to the economic crisis around 1920–1930, following the collapse of sugar prices after WWI.  
 This term, along with "Black Sugar Hell," should be renamed. Using the word "Hell" is an insult to those who endured actual historical hells.  
 
@@ -1163,7 +1163,7 @@ You might think, "Maybe the Okinawa government is just bad at making websites."
 Maybe. 
 Let's dive deeper to find out.  
 
-* "沖縄の歴史と文化19" https://web.archive.org/web/20250808005311/https://www.pref.okinawa.jp/bunkakoryu/bunkageijutsu/1009556/1009653/1009658/1002497/1002514.html
+* "沖縄の歴史と文化19" [https://archive.is/J2rQT](https://archive.is/J2rQT)
 * "沖縄の歴史と文化30" [https://archive.md/WFHqh](https://archive.md/WFHqh) (mirror: [https://ghostarchive.org/archive/Ioboq](https://ghostarchive.org/archive/Ioboq))
 * **"沖縄の歴史と文化31"** [https://archive.md/uxBAE](https://archive.md/uxBAE) (mirror: [https://ghostarchive.org/archive/2Sjv5](https://ghostarchive.org/archive/2Sjv5))
 * "沖縄の歴史と文化32" [https://archive.is/a6mLp](https://archive.is/a6mLp) (mirror: [https://ghostarchive.org/archive/bwF5N](https://ghostarchive.org/archive/bwF5N))
@@ -1829,8 +1829,8 @@ Today, 1.4 million Okinawans live on the island. Okinawans are thriving on the i
 2020 U.S. Census, only 0.2 million people identified as "Native Hawaiian alone."
 Remember? They had an 8 times larger population than Ryukyu.  
 
-Things get darker.  
-[https://ohadatabook.com/Quantum-01.pdf](https://ohadatabook.com/Quantum-01.pdf)
+Things get darker.  "The Office of Hawaiian Affairs’ (OHA) Native Hawaiian Data Book"  
+[https://ohadatabook.com/Quantum-01.pdf](https://ohadatabook.com/Quantum-01.pdf)  
 In 1984, only 8,244 were counted as "100% Hawaiian".  
 Given the high rates of intermarriage and the aging of that specific generation, demographers and organizations generally estimate that this number has dropped below 8,000 in the decades since.  
 The estimated unmixed blood native Hawaiian population today is "Fewer than 8,000". 
@@ -1958,7 +1958,7 @@ And "その他(others)" 18.8%?, with no explanation?
 Because they don't explain it, I'll explain it. It's Social Security from Tokyo.  
 They presented the data in a way that obscures the truth. By dumping huge reliance on Tokyo into vague categories like 'Others' or separating Social Security from 'Aid,' they dilute the visual impact of the dependency.  
 
-[https://www.pref.okinawa.jp/toukeika/accounts/accounts_index.html](https://www.pref.okinawa.jp/toukeika/accounts/accounts_index.html)
+[https://www.pref.okinawa.jp/toukeika/accounts/accounts_index.html](https://www.pref.okinawa.jp/toukeika/accounts/accounts_index.html)  
 You can find it in "平成 25 年度県民経済計- 1.社会保障負担の明細表（県民ベースの家計及び雇主の支払)", which is Excel.  
 The graph(from the PDF page 14)refers to 2013 data, but I only got access to 2022 data. 
 * "社会保障給付: 現物社会移転以外の社会給付": 552,203 百万円 (552B)
@@ -2402,7 +2402,7 @@ Without the two exceptional minds, I couldn't figure out Okinawa.
 ### Bruce Bueno de Mesquita(BDM), professor at New York University: The man who solved politics by math.  
 For those who want to know about the scientific analysis of politics, including corporate politics, I recommend "The Logic of Political Survival" by Bruce Bueno de Mesquita.  
 It's free and available online.  
-* [https://www.researchgate.net/publication/227458612_The_Logic_of_Political_Survival](https://www.researchgate.net/publication/227458612_The_Logic_of_Political_Survival)
+* [https://www.researchgate.net/publication/227458612_The_Logic_of_Political_Survival](https://www.researchgate.net/publication/227458612_The_Logic_of_Political_Survival)   
 This research book cited over 6,903 in Google Scholar. The usual citation in this field is under 50. 
 This is the foundational research in political science. Must read if you are interested in the scientific analysis of politics.  
 
@@ -2413,7 +2413,7 @@ The full text of the original book might be on the Online Burma/Myanmar Library,
 I'm not sure if it's official or not, maybe unauthorized OCR. But good enough for double-checking the translation for free.  
 
 Another free source is CGP Grey's YouTube video "The Rules for Rulers". The video is based on the book.  
-* [https://www.youtube.com/watch?v=rStL7niR7gs](https://www.youtube.com/watch?v=rStL7niR7gs)
+* [https://www.youtube.com/watch?v=rStL7niR7gs](https://www.youtube.com/watch?v=rStL7niR7gs)  
 23M views. I checked, and it's pretty good.  
 It has a Japanese Dub. Click the bottom right cog icon. It's low quality with inconsistent talk speed. But it's good enough if you are motivated.  
 You may need to watch it multiple times to understand, because of poor dub quality.  
