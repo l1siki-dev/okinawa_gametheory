@@ -756,7 +756,8 @@ People of Okinawa pay tax for the "infinite conflict machine" that keeps them su
 These "Beautiful Ryukyu Kingdom" stories are all lies. It's a fantasy.  
 
 ### Start from the data: population growth.  
-Before the story, let's see the population growth data I calculated from trustworthy data. 
+Before the story, let's see the population growth data I calculated from trustworthy data.  
+
 | Period / Year | Regime | Pop Growth | Annual Growth | Data Type |
 | :--- | :--- | :--- | :--- |:--- |
 | **1429 - 1609** | **Ryukyu Kingdom under Ming** | 70K ➔ 86K  | 0.11% | Only main island |
