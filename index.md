@@ -1667,7 +1667,7 @@ Kyoto has 1,000 years of history. That is a **Monopoly.** You cannot find anothe
 Okinawa does not have that monopoly.  
 Also, season. Kyoto can operate 365 days. Okinawa beaches can operate about 140 – 150 Days a year, because of winter and weather.  
 
-### Beach comparison: Okinawa, Bali, and Hawaii
+### Beach comparison: Okinawa, Bali, and Hawaii: The wall never able to climb.
 
 | Feature | **Okinawa (Japan)** | **Bali (Indonesia)** | **Honolulu(Hawaii)** |
 | :--- | :--- | :--- | :--- |
@@ -1682,7 +1682,7 @@ We can't change the weather.
 Okinawa has the clearest sea among the three. So it's great for diving.  
 The problem is that most people do not dive; it requires a license. 
 
-### **Who comes to Okinawa?**
+### **Who comes to Okinawa?**: Only from pyshicaly close countries without beaches. 
 
 Mainly tourists from Taiwan and Korea, they make up roughly 90% of inbound tourists.  
 Why? Not because it’s the "Best Beach in the World."
@@ -1694,14 +1694,14 @@ There is no room for growth here.
 You cannot attract wealthy Europeans or Americans to fly 20 hours just for a beach they can find in Florida or Spain.  
 We are trapped in a "Regional Budget Tourism" market.  
 
-### **The math simply doesn't work**
+### **The math simply doesn't work**: too many people to feed by the Taiwanese and Koreans.
 
 Okinawa has a population of **1.46 Million.**
 You cannot feed 1.46 million people by selling shaved ice to budget tourists from Taiwan.  
 Tourism works for a small island of 50,000 people. It creates poverty for a prefecture of 1.5 million.  
 We need something scalable. We need something global. We need something Okinawa can sell to the entire world.  
 
-### Tourism is the reason for the poverty 
+### Tourism is the reason for the poverty: Creating low-wage workers
 Financial Capability Index (財政力指数). Okinawa is consistently ranked #47 (Dead last) or close to it.  
 Okinawa has the lowest minimum wage in Japan (currently ~896-950 JPY range, depending on recent hikes, always fighting for last place).  
 Tourism creates jobs that pay so little that the workers pay almost no Residence Tax (住民税) or Income Tax (所得税).  
@@ -1721,7 +1721,7 @@ We are not running an industry. We are running a Deficit Machine.
 Not only people, but the tourism infrastructure creates the deficit. 
 The more tourists we accept, the poorer the prefecture becomes because every new low-wage job increases the social burden without increasing the tax revenue.  
 
-### The profit estimation: ROI disaster
+### The profit estimation: ROI disaster (Estimated tourism profit is 68.2 Billion Yen)
 > 沖縄県の観光収入はコロナ禍からV字回復し、2024年度速報値で過去最高額の9835億円を記録
 
 Let's estimate the profit.  
@@ -1935,7 +1935,7 @@ Fukuoka is not even trying to be a "Tourism Kingdom".
 Apologists will say Fukuoka counts cruise ships and business travelers. But that is the point. Fukuoka has a real economy that attracts business travelers. Okinawa has only a resort economy that cannot even beat a regional city's side-hustle tourism.  
 People come where real life exists; Kyoto, Tokyo, and Fukuoka are examples. Artificial tourism rarely works.  
 
-### Statistical illusion to reframe the aid size
+### Statistical illusion to reframe the aid size: deceptive "Tourism is bigger than military base rent"
 They don't provide proof that "tourism works."
 But I find the proof that "tourism isn't working."
 第5次沖縄県観光振興基本計画改定版 page 14.  
@@ -1953,7 +1953,7 @@ With their made-up conceptual statistical data.
 And "近年は、概ね横ばいである。" 
 The document says tourism isn't working. 
 
-###  "その他(others)" is actually aid from Tokyo.  
+###  "その他(others)" is actually aid from Tokyo.: Stasstical deception to hide aid.  
 And "その他(others)" 18.8%?, with no explanation? 
 Because they don't explain it, I'll explain it. It's Social Security from Tokyo.  
 They presented the data in a way that obscures the truth. By dumping huge reliance on Tokyo into vague categories like 'Others' or separating Social Security from 'Aid,' they dilute the visual impact of the dependency.  
@@ -1973,7 +1973,7 @@ But seems they are not counted in the graph.
 Also, I'm sure that they actually got more external aid in a different form. And they are not calculating that.  
 And after all the bureaucratic camouflage, they still proved that tourism isn't working.  
 
-### The profit vs. The revenue: the illusion
+### The profit vs. The revenue: Stasstical deception to mix different figures.
 The graph from page 14 has another deceptive mechanism.  
 They are mixing the profit and revenue in the same graph.  
 県外から財政への移転(Fiscal Transfers): Pure Profit (Net Cash Injection)
