@@ -1655,7 +1655,7 @@ We can't do this anymore. Japan is a falling economic power. We have to be effic
 Politicians love to scream "Tourism Nation!"
 But let’s look at the cold, hard reality of Okinawa’s tourism "weapon."
 
-### **The only weapon Okinawa has is "The Beach."**
+### **The only weapon Okinawa Tourism has is "The Beach."**
 
 And that is the problem.  
 In the global market, a beach is a **Commodity.** It is not unique.  
