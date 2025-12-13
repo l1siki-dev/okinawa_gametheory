@@ -2113,7 +2113,7 @@ We replace it with a **Special Tax-Free Zone.**
 We use the "Aid" money to cover the tax gap.  
 This will attract talent from Tokyo, Taiwan, and Singapore.  
 
-### Future 6. The media: dismisses the cartel
+### Future 6. dismisses the media cartel
 
 The current generation of people of Okinawa is 'educated' from birth by local media under total control.  
 The invisible hand can't fix this 'educated' market.  
