@@ -2220,7 +2220,7 @@ It's time for Okinawa to get real economic independence.
 So we have to cut the promotion budget even if they scream. We had to.  
 Of course, don't cut the regular aid that keeps the Okinawa government running.  
 
-### Conclusion: **Result**
+### Conclusion: Creative Digital Industry with beautiful Beaches
 *   Okinawa stops relying on the "Cheap Beach" trade.  
 *   Okinawans do not have to pay for expensive cars.  
 *   Okinawans get high-paying creative jobs.  
