@@ -36,7 +36,7 @@ So, like we don't learn English, Okinawa doesn't develop industry.
 
 Have you ever heard of the Yubari city economic collapse?
 That's "aid curse" in working. Tokyo sends massive aid to compensate for its energy policy shift that would hurt the coal city. And Yubari spends that money to build the massive tourism infrastructure. But aid was one-time, and the running cost of the tourism facility was on Yubari. And they went bankrupt.  
-If Tokyo didn't send aid, they didn't crush that hard.  
+If Tokyo didn't send the aid, Yubari didn't crush that hard.  
 This was city-level and short-term.  
 Okinawa is a **prefecture-level** and has been **over 50 years**.  
 Yes, Okinawa is Yubari, but worse, and bigger. They haven't gone bankrupt yet because Tokyo is sending our tax money to cover the deficit.  
@@ -50,14 +50,14 @@ The money is sent to make Okinawa poor and dependent. So Tokyo can control Okina
 ### Conclusion: Stop the aid.  
 
 * The aid is hurting the Okinawa economy rather than developing it.  
-* 14.8 Trillion Yen's result is the poorest prefecture in Japan.  
+* 14.8 Trillion Yen created the poorest prefecture in Japan.  
 * Aid is taking away the reason to develop the local economy in Okinawa.  
-* Okinawa is big Yubari. It built tourism infrastructure using aid from Tokyo and went bankrupt in the end. 
+* Okinawa is big Yubari. It built tourism infrastructure using aid from Tokyo and creating the deficit. 
 
 ---
 # 2: "This is the cost of National Security. We have to pay it."
 
-If this is about National Security, we shouldn't pay a single yen to Okinawa.  
+If this is about National Security, we shouldn't pay 300 Billion Yen to Okinawa.  
 
 ### We are losing the war before it even begins. 
 
@@ -114,7 +114,7 @@ That isn't "Defense Spending." That is **Defense Undermining.**
 
 ### Conclusion: Stop the aid.  
 
-* Because it's not about national security. Even if so, it has a negative effect on national security.  
+* Because the aid has a negative effect on national security.  
 * Tokyo's politicians are neglecting their duty by enabling the local politicians to disrupt national security.  
 * It's creating a vulnerability while consuming precious resources.  
 * Let's get more missiles so China will think that it'll be costly to attack us. 
