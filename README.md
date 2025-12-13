@@ -559,9 +559,9 @@ Okinawa alone can't implement the system that is required to be a viable economy
 ---
 # Lie 5: "Okinawa local newspaper is on Okinawans' side."
 
-"Okinawa media is on Okinawans' side."
-This is a lie. 
-You might guess, "Are they secretly on Tokyo's side?"
+"Okinawa media is on Okinawans' side."  
+This is a lie.  
+You might guess, "Are they secretly on Tokyo's side?"  
 If so, it would be fun. But no.  
 
 The truth is, **They are on their own side**.  
@@ -669,7 +669,7 @@ Don't be distracted by another lie that claims "logistics to deliver newspapers 
 The combined circulation of these four papers fell by **2,469 copies**, a staggering decrease of **nearly 64%**.  
 
 It was a gold rush. It was a gift from god. Or from the American soldiers.  
-They got the righteous casus belli to eradicate their competitor.  
+They got the righteous casus belli to eradicate their competitors.  
 
 ### Under the 99.4% narrative monopoly
 
@@ -677,7 +677,7 @@ Local newspapers become the only truth in Okinawa.
 To stand against them, you hate Okinawa.  
 
 They have total authority about **"What Okinawa is"**
-Even the governor dares to challenge them. 
+Even the governor doesn't dares to challenge them. 
 
 The governor who tried to solve the problem was branded as a "traitor" by them. And he lost his political life.  
 "Okinawa Vision" was the governor's initiative to gain economic independence for Okinawa. Theoretically, this could solve the Okinawa problem. 
