@@ -465,7 +465,7 @@ The "Anti-Base" movement dies because people are too busy being rich.
 
 **In the current system, Economic Success is Political Suicide.**
 
-### The Art of Wasting Money: Let's waste money that can develop local industry. It does only good for politicians.  
+### The Art of Wasting Money: Let's waste money that can develop local industry.
 
 Why do they build useless concrete boxes? Why do they pave roads that don't need paving?
 Why does the poorest prefecture have the longest fee-free bridge that has a massive maintenance cost? 
