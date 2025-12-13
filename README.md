@@ -926,7 +926,7 @@ And if a Ryukyu ship carrying sulfur gets attacked by pirates on the way to Chin
 That is Ryukyu's loss, not the Emperor's.  
 The Ming effectively outsourced the logistics risk to Chusan.  
 
-### Ryukyu is never had been soverign from the start in practical sense. 
+### Ryukyu is never had been soverign in practical sense. 
 
 It was all Ming's doing.  
 That was business of Ming. Whatever legal difinition is.  
