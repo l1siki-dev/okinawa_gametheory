@@ -1003,7 +1003,7 @@ It sounds just like how Genghis Khan "united" the Eurasian steppe.
 You are right. I confused you. 
 Sho Hashi wasn't a peaceful negotiator. Think of him as Genghis Khan in Okinawa. He united the main island through iron.  
 
-Actually, the government's page confused you.  
+But who confused you is actually the Okinawa government.
 It describes him as a "Peaceful negotiator", but the fact is he was a "Ruthless invader."
 
 Using 有力者 is skillful rhetoric here. This implies interaction between the king and the person. It implies a social interaction between the two.  
