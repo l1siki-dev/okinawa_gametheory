@@ -341,6 +341,8 @@ You can see that the WW2 winners have low scores on the "Egalitarian component i
 The UK and France are between the two groups. Because they are "Officially the winner, but practically the loser" of WW2. Their colonial empire collapsed because of the war.  
 Yes, Japanese can live longer than US citizens because we lost WW2.  
 
+Sometimes, people say “Japan isn’t allowed to have Nationalism”.
+The data shows that having no Nationalism is good for your health. We are lucky to not have one.
 
 ### Conclusion: Stop the aid.  
 
