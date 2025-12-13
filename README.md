@@ -45,7 +45,7 @@ The reason why does Tokyo do this?
 Tokyo got the switch to ruin Okinawa.  
 "If you don't obey, I can make you bankrupt by just stopping the aid."
 The money is sent to make Okinawa poor and dependent. So Tokyo can control Okinawa. (e.g., bases)
-"Okinawa Promotion" is a lie.  
+"Okinawa Promotion" is a facade.  
 
 ### Conclusion: Stop the aid.  
 
@@ -110,7 +110,7 @@ By keeping Okinawa weak and dependent, and resentful, Tokyo is practically **gif
 A rich, industrial, self-sufficient Okinawa that doesn't need Tokyo's money—and doesn't need Beijing's tourists—is the ultimate defense.  
 
 We are spending 300 Billion Yen a year to maintain a weak point in our armor.  
-That isn't "Defense Spending." That is **Defense Sabotage.**
+That isn't "Defense Spending." That is **Defense Undermining.**
 
 ### Conclusion: Stop the aid.  
 
@@ -490,7 +490,7 @@ Okinawa alone can't implement the system that is required to be a viable economy
 # 5: "Okinawa local newspaper is on Okinawans' side."
 
 "Okinawa media is on Okinawans' side."  
-This is a lie.  
+This is a fantasy.  
 You might guess, "Are they secretly on Tokyo's side?"  
 If so, it would be fun. But no.  
 
@@ -585,7 +585,7 @@ Before 1995(when the Henoko became a problem), National papers had some share in
 Asashi was the strongest among national newspapers, likely because of its relatively critical stance against Tokyo.  
 But even that, Asahi lost about 75% of its sales after the problem arose.  
 You can see Nikkei only lost 8% of its share, while others lost large amounts of their share. Because Nikkei is "compatible" with local newspapers. Who provides narratives that are incompatible with national newspapers?
-Don't be distracted by another lie that claims "logistics to deliver newspapers is difficult". As Nikkei in 1993 had no partnership with Simpo on local production, and still had large sales, that claim is false or too weak. 
+Don't be distracted by another bait that claims "logistics to deliver newspapers is difficult". As Nikkei in 1993 had no partnership with Simpo on local production, and still had large sales, that claim is false or too weak. 
 
 | Newspaper | 1993 Circulation (Morning Edition) | 2024 Circulation (Morning Edition) | Change (1993-2024) |
 | :--- | :--- | :--- | :--- |
@@ -678,7 +678,7 @@ People of Okinawa pay tax for the "infinite conflict machine" that keeps them su
 * "Ryukyu Kingdom was a great trader."
 * "Ryukyu Kingdom was a utopia."
 
-These "Beautiful Ryukyu Kingdom" stories are all lies. It's a fantasy.  
+These "Beautiful Ryukyu Kingdom" stories are all fantasy.  
 
 * It was not peaceful
 * It was not a great trader
@@ -708,7 +708,7 @@ We can observe:
 2. Under Ryukyu/Satsuma(1609 – 1880), the growth rate increased massively. (0.47%) 
 3. Under Japan(1880 – 2025), the growth rate become even higher.(0.99%)
 
-We've already dismantled "Ryukyu Utopia" and "Golden Age".  
+We've already dismissed "Ryukyu Utopia" and "Golden Age".  
 
 ### Pop growth under Ming(0.11%) and under Satsuma(0.47%): Resource Curse from Ming
 
@@ -1060,7 +1060,7 @@ A more accurate name would be the "Great Warehouse Era."
 ### Plausible deniability of "for child" on pref.okinawa.jp
 
 We did just 2 lines. But I think that was enough to give you the idea.  
-The official story is a lie.  
+The official story is a fantasy.  
 
 Let's move to meta-analysis.  
 
@@ -1192,19 +1192,19 @@ The reason is obvious if you are familiar with Ryukyu's history.
 "沖縄の歴史と文化31" has too many inconvenient truths in it.  
 
 **この繁栄の背景には冊封・朝貢体制を築いていた明国の海禁政策があります。**  
--> * This dismantles the "Great Trade kingdom" by the Ryukyu initiative. That was just the result of Ming's policy. 
+-> * This dismisses the "Great Trade kingdom" by the Ryukyu initiative. That was just the result of Ming's policy. 
 
 **1. 地方按司（=有力者）からの武器の没収と首里城下への移住**  
--> * This dismantles the "Peaceful Ryukyu people that voluntarily discarded weapons".* And "Satsuma taken away weapons", which is popular with combined with Karate. 
+-> * This dismisses the "Peaceful Ryukyu people that voluntarily discarded weapons".* And "Satsuma taken away weapons", which is popular with combined with Karate. 
 
 **2. 身分制度の確立**  
--> * This dismantles the "Ryukyu Utopia," The Third Pillar of Ryukyu identity*. Most people are treated as serfs(slaves in modern standard, servants), the property of the King. And the majority was a "servant of a servant/Yaa-nin" who had almost zero rights. 
+-> * This dismisses the "Ryukyu Utopia," The Third Pillar of Ryukyu identity*. Most people are treated as serfs(slaves in modern standard, servants), the property of the King. And the majority was a "servant of a servant/Yaa-nin" who had almost zero rights. 
 
 **3. 聞得大君/ノロ**  
 -> * This is "Police State" *,  The king converted Noro (local priest) into his surveillance camera.  
 
 **4. 八重山や与那国における反乱を鎮め、離島の支配の強化（5代目尚元王の代には奄美諸島も配下に置く）**  
--> *This dismantles the "Peaceful Ryukyu Kingdom"*, it was a colonial empire. And it shows Amami was conquered by 5代目尚元王, contradicting the 1429 Kingdom "united" narrative.  
+-> *This dismisses the "Peaceful Ryukyu Kingdom"*, it was a colonial empire. And it shows Amami was conquered by 5代目尚元王, contradicting the 1429 Kingdom "united" narrative.  
 
 Page 31 lists the facts that the "Okinawa Cartel" is desperate to hide.  
 
@@ -2113,7 +2113,7 @@ We replace it with a **Special Tax-Free Zone.**
 We use the "Aid" money to cover the tax gap.  
 This will attract talent from Tokyo, Taiwan, and Singapore.  
 
-### Future 6. The media: dismantle the cartel
+### Future 6. The media: dismisses the cartel
 
 The current generation of people of Okinawa is 'educated' from birth by local media under total control.  
 The invisible hand can't fix this 'educated' market.  
@@ -2202,8 +2202,8 @@ I know this report was long and emotional. You must be tired.
 But you are here. You are here because you care about Japan and its people.  
 This is the final chapter. 
 
-We have walked through the lies together.  
-We have seen how our money is wasted, how our security is sabotaged, and how Okinawa is kept poor by design.  
+We have walked through together.  
+We have seen how our money is wasted, how our security is undermined, and how Okinawa is kept poor by design.  
 
 We saw a bright hope that Okinawa can be the beacon of creativity, with beautiful beaches for extra.  
 
@@ -2341,7 +2341,7 @@ Or you can ask LLM (ChatGPT, Gemini) if my report is trustworthy or not.
 Google provides a high-quality LLM for free for developers, but anyone can use it. (https://aistudio.google.com/)
 LLM Chatbot is the fastest way to get a rough idea today. 
 But be cautious, they don't tell you the truth every time.  
-Especially in the environment media is spreading lies, LLM often presents you the biased information.  
+Especially in the environment media is spreading misinformation, LLM often presents you the biased information.  
 If you are not sure, ask them a proof of their claim.  
 
 If you liked only some parts of my analysis, just share only those parts. 
