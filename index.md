@@ -100,7 +100,7 @@ Only he knows how to spend money.
 Whose fault?
 It's our fault. We have to stop this.  
 
-### Aid Curse
+### Aid Curse: good things sometime hurt local development
 This phenomenon is well known among politicians and academics. It's called "Aid Curse". (a variant of the Resource Curse)
 The observation became famous in "Dead Aid: Why Aid Is Not Working and How There Is a Better Way for Africa" by Dambisa Moyo, published in 2009.  
 This book fundamentally changed the public debate on development by arguing that systemic government-to-government aid has been a "curse" rather than a blessing for African countries.  
