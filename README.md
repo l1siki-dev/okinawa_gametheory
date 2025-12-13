@@ -3,9 +3,6 @@
 ## **The Reality that Japanese Are Being Exploited 300 Billion Yen a year Without Knowing It. And why China is the accidental winner**
 by 伊波りしき (IHA Lisiki)
 
-* TOC
-{:toc}
-
 For decades, you have felt a twinge of guilt whenever you saw the words "Okinawa Bases."
 
 * You were told that because of the War and because of the Bases, you owe Okinawa an apology.  
@@ -83,6 +80,11 @@ And that will save Japan, save Okinawa, save us.
 You don't have to read this entire report. It's too long for a busy person.  
 Just check where you are interested in.  
 When you feel that what I'm saying here is interesting or right, spread this report.  
+
+---
+
+* TOC
+{:toc}
 
 ---
 
