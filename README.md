@@ -1,6 +1,6 @@
-# **Failing Successfully: Why Okinawa is the poorest prefecture after 14.8 Trillion Yen aid. From a perspective of incentive structure.**
+# **Failing Successfully: Why Okinawa is the poorest prefecture after 14.8 Trillion Yen aid. From a perspective of game theory.**
 by 伊波りしき (IHA Lisiki)
-
+Based on selectorate theory, game theory, resource curse, aid curse, incentive analysis, and rational choice theory.
 ---
 # Table of Contents
 
@@ -9,7 +9,7 @@ by 伊波りしき (IHA Lisiki)
 
 ---
 
-# Lie 1: "The money you sent to Okinawa is for the Okinawa economy growth."
+# 1: "The money you sent to Okinawa is for the Okinawa economy growth."
 Every year, Tokyo hands Okinawa about 300 Billion Yen. They call it the "Okinawa Promotion Budget."
 It's been over **50 years**.  
 The total became roughly 14.8 Trillion Yen.  
@@ -53,7 +53,7 @@ The money is sent to make Okinawa poor and dependent. So Tokyo can control Okina
 * Okinawa is big Yubari. It built tourism infrastructure using aid from Tokyo and went bankrupt in the end. 
 
 ---
-# Lie 2: "This is the cost of National Security. We have to pay it."
+# 2: "This is the cost of National Security. We have to pay it."
 
 If this is about National Security, we shouldn't pay a single yen to Okinawa.  
 
@@ -91,7 +91,7 @@ To treat National Survival as a "local petition" is not Democracy.
 It is a **dereliction of Sovereign Duty.**
 
 The current situation doesn't make sense if the money is about National Security or "rent".  
-As we learned in "Lie 1", this is the money to keep Okinawa weak and dependent.  
+As we learned in "1", this is the money to keep Okinawa weak and dependent.  
 
 Let me repeat the current situation because it's so absurd:
 **This 300 Billion Yen is not buying Security. It is buying Vulnerability.**
@@ -118,7 +118,7 @@ That isn't "Defense Spending." That is **Defense Sabotage.**
 * Let's get more missiles so China will think that it'll be costly to attack us. 
 
 ---
-# Lie 3: "Politicians of Tokyo want to improve the economy of Okinawa."
+# 3: "Politicians of Tokyo want to improve the economy of Okinawa."
 
 You already know Nagata-cho actually wants the opposite, weak Okinawa. So they can be controlled.  
 Here, we will explore **why** they want **absolute** control so badly. 
@@ -165,7 +165,7 @@ This is why. **It's their duty to weaken Okinawa**. Or at least that's what they
 **If the world consisted only of Japan. The dependent Okinawa plan is perfect.**
 But the world is not only Japan. And we have a **non-democratic China now richer than Japan**.  
 50 years ago, the plan might have looked perfect. But today, it looks catastrophic.  
-As I explained in "Lie 2/Poverty is a hole in our armor", poor citizens are vulnerable to influence from China.  
+As I explained in "2/Poverty is a hole in our armor", poor citizens are vulnerable to influence from China.  
 
 Nagata-cho succeeded in securing a favorable economic balance between Okinawa and Tokyo by weakening Okinawa. But that's also shifting the economic balance between Okinawa and Beijing.  
 
@@ -271,7 +271,7 @@ The data shows that having no Nationalism is good for your health. We are lucky 
 * Democracy is good.  
 
 ---
-# Lie 4: "Politicians of Naha want to improve the economy of Okinawa."
+# 4: "Politicians of Naha want to improve the economy of Okinawa."
 
 Because tax revenue from the Okinawa economy is so tiny compared to money from Tokyo, they have zero, even negative, incentive to develop the local economy.  
 That's why they are obsessed with outsiders(where money comes from), but rarely provide real improvements for the people of Okinawa.  
@@ -421,7 +421,7 @@ If Okinawa becomes rich, ruling politicians in Naha will lose jobs.
 The local media is the true engine for their power, they too lose it's main reason to dominate the narrative.  
 
 ### The malfunctioning tourism industry is beneficial for politicians
-(how malfunctioning is explained in: "Lie 9")  
+(how malfunctioning is explained in: "9")  
 This also explains the 50-year obsession with Tourism.  
 Why Tourism?
 And why don't they change the strategy despite a 50-year continuous failure?
@@ -431,13 +431,13 @@ It's the optimal choice for politicians and media.
 Successful industry = no aid.  
 Successful Okinawa = no resentment = no media dominance.  
 
-Tourism is their 'Trash Bin'. As shown in "Lie 9"(later chapter), it generates a fraction of the profit of military rent and has a disastrous ROI. It doesn't produce real wealth.  
+Tourism is their 'Trash Bin'. As shown in "9"(later chapter), it generates a fraction of the profit of military rent and has a disastrous ROI. It doesn't produce real wealth.  
 It just burns aid money.  
 And Naha politicians and local media are all happy.  
 
 ### Not only the Aid Curse and Nationalism: here is the Budget trap
 
-In "Lie 1", we learned about the Aid Curse, that aid takes away the need for Okinawa to develop industry.  
+In "1", we learned about the Aid Curse, that aid takes away the need for Okinawa to develop industry.  
 In this chapter, I talked about the Naha politicians' incentives and why they want to waste the aid.  
 
 And that's not all, we have more factors that hinder the Okinawa's development. 
@@ -470,7 +470,7 @@ Food production is a clear role that Hokkaido has. And Hokkaido has the second-l
 
 Now look at Okinawa.  
 They don't even know what industry is viable. 
-They just believe tourism work (which doesn't. Refer to "Lie 9"). (And if we assume they really believe it rather than knowing it doesn't work, and let money burn, which is more likely from incentive analysis.)
+They just believe tourism work (which doesn't. Refer to "9"). (And if we assume they really believe it rather than knowing it doesn't work, and let money burn, which is more likely from incentive analysis.)
 They ended up just like Yubari, having no idea what to do with the aid. Creating Tourism infrastructures that generate a deficit.  
 They just have no idea what to do with the money Tokyo sent.  
 
@@ -485,7 +485,7 @@ Okinawa alone can't implement the system that is required to be a viable economy
 * Give Okinawa a clear role like Hokkaido has.  
 
 ---
-# Lie 5: "Okinawa local newspaper is on Okinawans' side."
+# 5: "Okinawa local newspaper is on Okinawans' side."
 
 "Okinawa media is on Okinawans' side."  
 This is a lie.  
@@ -671,7 +671,7 @@ People of Okinawa pay tax for the "infinite conflict machine" that keeps them su
 * Petition the Japan Fair Trade Commission (公正取引委員会) to investigate the connection between the Newspapers, the TV Stations, and politicians in Okinawa. 
 
 ---
-# Lie 6: "Ryukyu Kingdom was a peaceful Kingdom."
+# 6: "Ryukyu Kingdom was a peaceful Kingdom."
 
 * "Ryukyu Kingdom was a great trader."
 * "Ryukyu Kingdom was a utopia."
@@ -1257,7 +1257,7 @@ As Sun Tzu said, "Know the Enemy and Yourself, you will not know defeat". (Not a
 * Okinawa's history is important/interesting than you think.  
 
 ---
-# Lie 7: The US wouldn't agree with it
+# 7: The US wouldn't agree with it
 
 **The Reality:** If the US loses Japan, it is "Game Over" for American hegemony.  
 Their most important grand strategy is to control the Pacific, current mid-term goal is to contain China. This is impossible without Japan.  
@@ -1343,7 +1343,7 @@ Japan's message should not be "Anti-American," but rather **"Pro-Alliance Modern
 * We have the strongest negotiation card in history. It is time to play it.  
 
 ---
-# Lie 8: "If we help, they'll like us."
+# 8: "If we help, they'll like us."
 
 Sadly, **this is not true.**
  
@@ -1563,7 +1563,7 @@ Yes, as long as they choose to place themselves as "peer" of China or Japan, the
 ### Okinawa Pref's official story: CAE offset festival.  
 [https://www.pref.okinawa.jp/kyoiku/kodomo/1002705/1002706.html](https://www.pref.okinawa.jp/kyoiku/kodomo/1002705/1002706.html) [(mirror https://ghostarchive.org/archive/7orrA)](https://ghostarchive.org/archive/7orrA)
 
-We talked about this page in "Lie 6."
+We talked about this page in "6."
 
 | CAE | How | Line | 
 | :--- | :--- | :--- |
@@ -1580,7 +1580,7 @@ We talked about this page in "Lie 6."
 * The aid creates the environment in which nationalism thrives, and it requires hating outsiders just to exist because Okinawa is surrounded by real cultural superpowers, and nationalism demands acting like a peer of them.  
 
 ---
-# Lie 9: Okinawa tourism is the future
+# 9: Okinawa tourism is the future
 
 If a core business strategy hasn't turned a profit in 50 years, yet you refuse to change course and demand more money to double down... that is not a 'Plan.' It is a Religion.  
 
@@ -2014,7 +2014,7 @@ The Basic Plan is the confession. They have given up.
 We have talked enough about the problem. Let’s talk about the future.  
 
 ### Future 1. Tourism is a side business.  
-As we saw in "Lie 9", it has no future.  
+As we saw in "9", it has no future.  
 No investment in tourism from today.  
 But, natural visitors likely stay strong. Just let the market handle it.  
 
