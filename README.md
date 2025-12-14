@@ -1577,6 +1577,74 @@ We talked about this page in "6."
 | -E | Victimhood | 太平洋戦争が終わりをむかえようとする、1945（昭和20）年3月、アメリカ軍が沖縄に上陸しました。はげしい戦いが行われ、沖縄に住んでいた人々約10万人をふくむ、たくさんの人たちが亡くなりました。これが「沖縄戦」です。|
 | -E | Victimhood | 戦争が終わると、1972（昭和47）年5月15日に日本へ復帰（ふっき）するまで、沖縄はアメリカの統治（とうち）が27年間続きました。その間に米軍基地（べいぐんきち）が建設され、今もなお存在しています。|
 
+### Prefecture have high development aid dependency tends has high localnewspaper share.
+
+correlation: 0.579
+
+| Prefectures | Local newspaper share | aid/tax  |
+| ---- | ---- | --------------------------- |
+| 沖縄   | 97%  | 100%                        |
+| 島根   | 64%  | 69%                         |
+| 高知   | 86%  | 61%                         |
+| 鹿児島  | 82%  | 60%                         |
+| 福島   | 69%  | 56%                         |
+| 長崎   | 57%  | 55%                         |
+| 鳥取   | 72%  | 52%                         |
+| 宮崎   | 65%  | 52%                         |
+| 岩手   | 65%  | 51%                         |
+| 秋田   | 71%  | 50%                         |
+| 大分   | 60%  | 43%                         |
+| 青森   | 81%  | 42%                         |
+| 徳島   | 85%  | 42%                         |
+| 佐賀   | 70%  | 39%                         |
+| 熊本   | 74%  | 39%                         |
+| 山形   | 54%  | 38%                         |
+| 新潟   | 66%  | 34%                         |
+| 和歌山  | 0%   | 34%                         |
+| 北海道  | 72%  | 34%                         |
+| 山梨   | 66%  | 34%                         |
+| 福井   | 83%  | 32%                         |
+| 山口   | 10%  | 29%                         |
+| 愛媛   | 63%  | 27%                         |
+| 富山   | 71%  | 26%                         |
+| 石川   | 88%  | 26%                         |
+| 宮城   | 68%  | 25%                         |
+| 長野   | 73%  | 24%                         |
+| 奈良   | 0%   | 21%                         |
+| 岐阜   | 81%  | 20%                         |
+| 広島   | 58%  | 19%                         |
+| 香川   | 54%  | 19%                         |
+| 岡山   | 64%  | 19%                         |
+| 滋賀   | 26%  | 17%                         |
+| 群馬   | 41%  | 16%                         |
+| 三重   | 54%  | 16%                         |
+| 栃木   | 44%  | 16%                         |
+| 兵庫   | 27%  | 15%                         |
+| 茨城   | 15%  | 14%                         |
+| 福岡   | 36%  | 13%                         |
+| 静岡   | 71%  | 11%                         |
+| 京都   | 42%  | 10%                         |
+| 千葉   | 3%   | 10%                         |
+| 埼玉   | 3%   | 8%                          |
+| 大阪   | 0%   | 7%                          |
+| 愛知   | 75%  | 6%                          |
+| 神奈川  | 11%  | 5%                          |
+| 東京   | 6%   | 3%                          |
+
+
+(aid/tax is normalized by Okinawa)  
+(Source: aid/tax is data form e-Stat, 1989-2017 , calculated by (国庫支出金:普通建設事業費支出金 + 国庫支出金:その他)/地方税)
+(Source: Local newspaper share is from 新聞広告を介した情報流通の地域的差異性 福井一喜 2013. I counted the pixels. the paper is based on 2006～2007年（日本 ABC 協会第24回公査レポート))
+
+There could be many factors here. Business Logic of national newspapers are likely the most strongest one.
+CAE can also provide a explnation, that likely affecting in many cases.
+Getting aid(+E) hurts C., so if they want to feel better about themselves, they need to create their story(+C).
+Sometime Okinawa newspaper is described as a tool of aid acquisition. But not only that, it can be a mechanism to stay sane in a situation where local pride is undermined. 
+You can see these mechnism is working anywhere in someextent.
+
+Economic power prefecture doesn't need to maintain its pride. (C = A - E). They already have big enough A and have little aid from outside. Their identities are psychologically comfortable without creating a story.
+And still they can have an additional story, like Aichi. They do not require to have local story to be comfortable. That's why the high dependency prefectures almost always have a high local newspaper share.
+
 ### Conclusion: Stop the aid.  
 * The aid makes Okinawa hate Tokyo.  
 * The aid creates the environment in which nationalism thrives, and it requires hating outsiders just to exist because Okinawa is surrounded by real cultural superpowers, and nationalism demands acting like a peer of them.  
