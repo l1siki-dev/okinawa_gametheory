@@ -1639,11 +1639,12 @@ correlation: 0.579
 There could be many factors here. Business Logic of national newspapers are likely the most strongest one.
 CAE can also provide a explnation, that likely affecting in many cases.
 Getting aid(+E) hurts C., so if they want to feel better about themselves, they need to create their story(+C).
-Sometime Okinawa newspaper is described as a tool of aid acquisition. But not only that, it can be a mechanism to stay sane in a situation where local pride is undermined. 
-You can see these mechnism is working anywhere in someextent.
+Sometime Okinawa newspaper is described as a tool of aid acquisition. But not only that, it can be a mechanism to stay sane in a situation where local pride is undermined. They need the narrative to keep them sane. If we want to address the media duopoly there, we need to give them replacement of the pride source.
 
 Economic power prefecture doesn't need to maintain its pride. (C = A - E). They already have big enough A and have little aid from outside. Their identities are psychologically comfortable without creating a story.
 And still they can have an additional story, like Aichi. They do not require to have local story to be comfortable. That's why the high dependency prefectures almost always have a high local newspaper share.
+
+
 
 ### Conclusion: Stop the aid.  
 * The aid makes Okinawa hate Tokyo.  
