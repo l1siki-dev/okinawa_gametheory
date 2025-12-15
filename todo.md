@@ -6,4 +6,4 @@
 * Focus on spreaders as the target audience. not the mass.
 
 * Use AI to legitimate my report.
-  Opening line is "I ask the AI to analyse Okinawa using BDM's theory"
+  * Opening line is "I ask the AI to analyse Okinawa using BDM's theory"
