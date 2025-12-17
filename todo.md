@@ -1,13 +1,17 @@
-* completely rewite by making "resource curse" the center of the report. Since it's likely the shortest way to prove the aid is halmful.
-  * Prove resource curce using worldwide data
-  * prove aid curce has the same mechanism as recource curce
-  * Okinawa's economical/political similality with resouce curse state
  
 * Focus on spreaders as the target audience. not the mass.
 
 * Use AI to legitimate my report.
   * Opening line is "Ask ChatGPT to analyse Okinawa politics using sientific method"
   * It will "anchor" the perception of the reader hard. I don't have to hastle moving their common sense.
+
+1. 表データ、ロジックをすべてmermaidjsで視覚化する。そして視覚化されたデータを軸にした構成に直す。
+2. 日本語に訳す
+
+* Prove resource curce using worldwide data
+  * prove aid curce has the same mechanism as recource curce
+  * Okinawa's economical/political similality with resouce curse state
+  * Life-expectancy comparison
 
 input prompt example.
 ```
