@@ -7,6 +7,8 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 
 ---
 
+Analysis on relocation project
+;todo: make this broader scope
 
 | Player                 | Stated Goal (What they SAY)           | Current Strategy (What they DO)                       | SAY and DO align? | Current Goal (What they truely WANT from current state)                                        | 
 | :--------------------- | :------------------------------------ | :---------------------------------------------------- | :---------------- | :--------------------------------------------------------------------------------------------- | 
