@@ -1,15 +1,16 @@
- * Use AI to mitigate halo effect.
-  * Opening line is "Ask ChatGPT to analyse Okinawa politics using sientific method"
-  * It will "anchor" the perception of the reader hard. I don't have to hastle moving their common sense.
-
 * mermaidjs
+    * visualize table data
 
-* create repo for Japanese audience.
+ * Use AI to mitigate halo effect.
+    * Opening line is "Ask ChatGPT to analyse Okinawa politics using sientific method"
+    * It will "anchor" the perception of the reader hard. I don't have to hastle moving their common sense.
 
 * Prove resource curce using worldwide data
-  * prove aid curce has the same mechanism as recource curce
-  * Okinawa's economical/political similality with resouce curse state
-  * Life-expectancy comparison
+    * prove aid curce has the same mechanism as recource curce
+    * Okinawa's economical/political similality with resouce curse state
+    * Life-expectancy comparison
+
+* create repo for Japanese audience.
 
 input prompt example.
 ```
