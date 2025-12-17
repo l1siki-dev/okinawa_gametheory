@@ -1,5 +1,6 @@
 * mermaidjs
     * visualize table data
+    * separate table data to different file
 
  * Use AI to mitigate halo effect.
     * Opening line is "Ask ChatGPT to analyse Okinawa politics using sientific method"
