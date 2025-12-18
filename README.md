@@ -44,6 +44,8 @@ pie showData
     "Okinawa Papers (99.43%)" : 247893
     "National Papers (0.57%)" : 1418
 ```
+![Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['Okinawa','National'],datasets:[{data:[99.43,0.57],backgroundColor:['#205295','#d62828']}]},options:{plugins:{legend:{labels:{font:{color:'white'}}},datalabels:{color:'white'}}}})
+
 National papers are invisible.
 Nikkei was excluded because of a narrative comparison on politics. 
 [Explanation and full data here](#estimation-of-okinawa-local-newspaper-market-share-9943)    
