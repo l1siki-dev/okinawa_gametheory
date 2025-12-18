@@ -21,6 +21,7 @@ xychart-beta
 ```
 (Fukushima, 95%, is omitted because of the meltdown recovery.)
 [Explanation here](#okinawa-is-the-permanent-disaster-zone-financially)    
+
 ---
 
 ### Actions and statements are not aligned
