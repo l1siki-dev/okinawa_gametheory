@@ -19,15 +19,14 @@ xychart-beta
     bar [3, 3, 4, 4, 4, 6, 7, 8, 8, 9, 9, 9, 10, 10, 10, 10, 11, 11, 12, 13, 14, 14, 15, 16, 17, 17, 18, 19, 19, 20, 21, 22, 23, 24, 24, 25, 26, 27, 32, 32, 34, 36, 38, 38, 39, 41, 108]
 
 ```
-(Fukushima, 95%, is omitted because of the meltdown recovery.)
+(Fukushima, 95%, is omitted because of the meltdown recovery.)  
 [Explanation and full data here](#okinawa-is-the-permanent-disaster-zone-financially)    
 
 ---
 ### Okinawa local newspaper's political narrative marketshare: 99.43%
 ![Chart](https://quickchart.io/chart?bkg=&c=%7B%0A%20%20type%3A%20%27pie%27%2C%0A%20%20data%3A%20%7B%0A%20%20%20%20datasets%3A%20%5B%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%22backgroundColor%22%3A%20%5B%22%23FF3784%22%2C%20%22%2336A2EB%22%2C%20%22%234BC0C0%22%2C%20%22%23F77825%22%2C%20%22%239966FF%22%5D%2C%0A%20%20%20%20%20%20%20%20%22data%22%3A%20%5B247893%2C%201418%5D%2C%0A%20%20%20%20%20%20%20%20%22borderWidth%22%3A%200%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22labels%22%3A%20%5B%22Okinawa%20Newspapers(99.43%25)%22%2C%20%22National%20Newspapers(0.57%25)%22%5D%2C%0A%20%20%7D%2C%0A%7D%0A)
 
-National papers are invisible.
-Nikkei was excluded because of a narrative comparison on politics. 
+Nikkei was excluded because of a narrative comparison on politics.   
 [Explanation and full data here](#estimation-of-okinawa-local-newspaper-market-share-9943)    
 
 ---
