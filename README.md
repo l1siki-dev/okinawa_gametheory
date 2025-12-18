@@ -2005,7 +2005,7 @@ Quick summary for those who don't want to read the PDF:
 This is not a "Plan."
 This is a diary.  
 It lacks the information that determines what action they should take.  
-I was filled with wishful thinking and words.  
+It was filled with wishful thinking and words.  
 
 I looked for their "Market Assessment." I really tried.  
 I read their "Basic Plan"—all (82 + 78) pages of it. (That was painful.)
