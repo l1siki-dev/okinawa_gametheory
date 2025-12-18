@@ -6,7 +6,8 @@
 Based on selectorate theory, game theory, resource curse, aid curse, incentive analysis, and rational choice theory.
 
 ---
-### ### Reality-bending dependency. Naha politicians' optimal financial strategy is vastly different from that of other prefectural governors.
+### Reality-bending dependency
+Naha politicians' optimal financial strategy is vastly different from that of other prefectural governors.
 
 ```mermaid
 xychart-beta
