@@ -2550,7 +2550,7 @@ Click the bottom right cog icon to change the audio or sub.
   // Initialize mermaid
   mermaid.initialize({ 
     startOnLoad: false,
-    theme: 'default' 
+    theme: 'neutral' 
   });
 
   // Find all code blocks with "language-mermaid" class (what Jekyll creates)
