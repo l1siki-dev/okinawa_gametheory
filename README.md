@@ -215,7 +215,7 @@ Look at Taiwan. They speak Chinese. But they are fighting fiercely to protect th
 Because they love democracy. It's precious. It's hard to come by. We often forget that because we luckily have that from birth.  
 Also, they are rich; communist China could confiscate their asset. That's unthinkable for Taiwanese.  
 
-People of Okinawa have no great memory of democracy. (Actually, they had been benefiting from it massively, but they don't know. Because the symbolic event is not there. And there is no public attention on the benefit. We will explore this later in this report.)
+People of Okinawa have no great memory of democracy. (Actually, they had been benefiting from it massively.)
 They vote for anti-bases, and politicians achieve nothing.  
 That's all they know about democracy.  
 
