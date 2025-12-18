@@ -206,7 +206,7 @@ It is a 'Perfect Crime' where no one has to be the villain, but everyone is an a
 
 My solution is this: Make Okinawa love **democracy** and make them wealthy as mainland Japanese.  
 What **China will never be able to give Okinawa is democracy**. And we have that. 
-Okinawans will never get the majority in geopolitics. **A good democracy that can reflect the minority's will is the only answer** for their prosperity.  
+Okinawans will never get the majority in geopolitics. **A good democracy that can reflect the minority's will is the only answer** for their prosperity.(This is historically proven; we will learn about it in the history chapter in this report.)  
 **We can provide that, and China can't.** 
 
 But currently, we are failing to do that.  
