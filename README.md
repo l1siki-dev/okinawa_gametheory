@@ -1438,18 +1438,18 @@ It will be more effective if the student says, "I haven't slept, so I'm not in g
 
 "We are capable" is the first mantra of nationalism. Yes, it's the most important thing for them.  
 Make the student equation a national level. Combine the effort and the natural intelligence into "Capability", that is the root of nationalism.  
-* **Percieved National Capability = Percieved National Achievement - Percieved Environmental Factors**
+* **Percieved Capability = Percieved Achievement - Percieved Factors**
 
 $$
 C_p = A_p - E_p
 $$
 
 To short C = A - E
-* National Capability(C) means the total perceived capability of a nation. This is the pride of nationalism. This is also a combined variable of National Natural Ability and National Effort.  
-* Environmental Factor(E) means perceived factors that help an achievement, but not from the nationals. This includes Foreign Aid and Natural resources or anything useful, but not the people. This often acts as the parameter when actors manipulate the national esteem.  
-* National Achievement(A) means the perceived greatness of national achievement. This is relatively hard to move, unless they reframe the achievement.  
+* Perceived National Capability(C) means the total perceived capability of a nation. This is the pride of nationalism. This is also a combined variable of National Natural Ability and National Effort.  
+* Perceived National Achievement(A) means the perceived greatness of national achievement. This is relatively hard to move, unless they reframe the achievement.  
+* Perceived Environmental Factor(E) means perceived factors that help an achievement, but not from the nationals. This includes Foreign Aid and Natural resources or anything useful, but not the people. This often acts as the parameter when actors manipulate the national esteem.  
 
-This simple "National Capability" model helps you understand any nationalism in our world.  
+This simple "Perceived National Capability" model helps you understand any nationalism in our world.  
 
 This explains why Russians hate the US, why the Americans love "agency" and ignore the natural resource advantage they have.  
 Okinawa is not an exception. Using this equation, we can explain why Okinawans hate Tokyo/the US. And wasting the aid can be optimal for their identity.  
