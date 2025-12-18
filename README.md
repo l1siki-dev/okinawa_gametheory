@@ -1,9 +1,24 @@
 [https://lisiki-jp.github.io/okinawa_gametheory/](https://lisiki-jp.github.io/okinawa_gametheory/)  
 
-# **Succeeded at failing: Why Okinawa is the poorest prefecture after 14.8 Trillion Yen aid. From a perspective of game theory.**   
+# **Succeeded at failing: Why Okinawa is the poorest prefecture after 14.8 Trillion Yen aid. From a perspective of game theory.**
 © 2025 伊波りしき. This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Based on selectorate theory, game theory, resource curse, aid curse, incentive analysis, and rational choice theory.
+
+---
+
+Analysis on relocation project
+;todo: make this broader scope
+
+| Player                 | Stated Goal (What they SAY)           | Current Strategy (What they DO)                       | SAY and DO align? | Current Goal (What they WANT; estimated from observing)                                        | 
+| :--------------------- | :------------------------------------ | :---------------------------------------------------- | :---------------- | :--------------------------------------------------------------------------------------------- | 
+| **US Regime**          | Ensure regional stability             | Apply consistent pressure to Japan                    | **YES**           | **Status Quo** (Functional base & geopolitical "tripwire", keep Japan dependent on US)         | 
+| **Japan Regime**       | Resolve the "Futenma danger"          | Contain the issue to not spread into the majority Japanese voters; run an impossibly slow project     | **NO**            | **Status Quo** (Alliance managed, secure political position, keep Okinawa dependent on Tokyo)  | 
+| **Okinawa Regime**     | Stop the base                         | Appeal to anti-base voters without effective action   | **NO**            | **Status Quo** (Maintain secure political position)                                            | 
+| **Okinawa Newspapers** | Reflect the public will               | Focus on ineffective narratives; localize the problem | **NO**            | **Status Quo** (Protect monopoly market)                                                       | 
+| **Japan Newspapers**   | Inform the public objectively         | Provide periodic, low-key coverage                    | **Partially**     | **Status Quo** (Safest, low-cost option)                                                       | 
+| **Japanese Citizens**  | (No single consensus)                 | Remain largely passive and disengaged                 | **N/A**           | **N/A**                                                                                        | 
+| **Okinawa Citizens**   | Stop the base                         | Engage in localized, direct protest                   | **YES**           | **Solve** (Stop the base)                                                                      | 
 
 ---
 # Table of Contents
