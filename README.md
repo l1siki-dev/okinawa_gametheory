@@ -2497,7 +2497,7 @@ I'm not sure if it's official or not, maybe unauthorized OCR. But good enough fo
 
 Another free source is CGP Grey's YouTube video "The Rules for Rulers". The video is based on the book.  
 * [https://www.youtube.com/watch?v=rStL7niR7gs](https://www.youtube.com/watch?v=rStL7niR7gs)  
-23M views. I checked, and it's pretty good.  
+23M views. I checked, and it's pretty good for introduction.  
 It has a Japanese Dub. Click the bottom right cog icon. It's low quality with inconsistent talk speed. But it's good enough if you are motivated.  
 You may need to watch it multiple times to understand, because of poor dub quality.  
 
