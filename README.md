@@ -1419,11 +1419,11 @@ When the student says, "I didn't study for the exam." He is making the right-han
 That makes his "Natural intelligence" high. That's why students love to say it.  
 It will be more effective if the student says, "I haven't slept, so I'm not in good condition". Which again the right-hand side becomes bigger by claiming "Environmental Factor" was minus. 
 
-### Introducing the CAE equation: how the Offset Nationalism model works
+### Introducing the CAE equation: how the Percieved Capability Model works
 
 "We are capable" is the first mantra of nationalism. Yes, it's the most important thing for them.  
 Make the student equation a national level. Combine the effort and the natural intelligence into "Capability", that is the root of nationalism.  
-* **National Capability = National Achievement - Environmental Factors**
+* **Percieved National Capability = Percieved National Achievement - Percieved Environmental Factors**
 
 To short C = A - E
 National Capability(C) means the total perceived capability of a nation. This is the pride of nationalism. This is also a combined variable of National Natural Ability and National Effort.  
@@ -1444,7 +1444,7 @@ To raise Nationalism, which is closely related to National Capability (C), you c
 
 Let's see how the equation helps us to understand the situation.  
 You are Putin (I'm sorry to say that), and you want to bolster nationalism because that keeps you in power.  
-**National Capability = National Achievement - Environmental Factors**
+**Percieved National Capability = Percieved National Achievement - Percieved Environmental Factors**
 According to the equation, you can boost nationalism(= perceived capability) by National Achievement. You decided to invade Ukraine. Not only that, you want to "capture Kyiv in 3 days" because it makes the National Achievement more impressive.  
 You start it. And it seems things are not going as you planned. You actually accidentally proved Russia is less capable by achieving "Stalemate with a much weaker country". National Achievement is declining rapidly, and so is National Capability.  
 
