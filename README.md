@@ -23,7 +23,7 @@ xychart-beta
 [Explanation and full data here](#okinawa-is-the-permanent-disaster-zone-financially)    
 
 ---
-### Okinawa local media's political narrative dominance: 99.43%
+### Okinawa local newspaper's political narrative dominance: 99.43%
 ```mermaid
 %%{init: {
   "theme": "base",
@@ -42,7 +42,7 @@ xychart-beta
 }}%%
 pie showData
     title Local vs. National in Okinawa
-    "Okinawa (99.43%)" : 247893
+    "Okinawa Papers (99.43%)" : 247893
     "National Papers (0.57%)" : 1418
 ```
 National papers are invisible.
