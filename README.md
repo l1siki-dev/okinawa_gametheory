@@ -2545,23 +2545,37 @@ Click the bottom right cog icon to change the audio or sub.
 
 ---
 ignore this. this is just a trick to load mermaidjs in Github Pages.
+
+<!-- Load Mermaid.js v10+ -->
 <script type="module">
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  
+  // Initialize mermaid
   mermaid.initialize({ 
     startOnLoad: false,
-    theme: 'dark' 
+    theme: 'default' 
   });
+
+  // Find all code blocks with "language-mermaid" class (what Jekyll creates)
+  // and replace them with the rendered chart
   document.addEventListener('DOMContentLoaded', async () => {
     const elements = document.querySelectorAll('pre code.language-mermaid');
+    
+    // We need to unwrap the code from the pre/code tags and place it in a div
     for (const element of elements) {
       const graphDefinition = element.innerText;
       const newDiv = document.createElement('div');
       newDiv.classList.add('mermaid');
       newDiv.textContent = graphDefinition;
-    element.parentElement.parentElement.replaceChild(newDiv, element.parentElement);
+      
+      // Replace the <pre> parent with the new <div>
+      element.parentElement.parentElement.replaceChild(newDiv, element.parentElement);
     }
+    
+    // Run mermaid on the new divs
     await mermaid.run({
       querySelector: '.mermaid'
     });
   });
 </script>
+
