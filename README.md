@@ -36,7 +36,8 @@ Nikkei was excluded because of a narrative comparison on politics.
 ---
 ### Actions and statements are not aligned
 The three players in the Henoko project show the behavior not align with their stated intention.  
-Let's explore their logic behind it.  
+We have to know the real intent of these three.
+
 
 | Player                 | Stated Goal (What they SAY)           | Current Strategy (What they DO)                       | SAY and DO align? | Current Goal (What they WANT; estimated from observing)                                        | 
 | :--------------------- | :------------------------------------ | :---------------------------------------------------- | :---------------- | :--------------------------------------------------------------------------------------------- | 
