@@ -26,7 +26,7 @@ xychart-beta
 
 ---
 
-# Actions and statements are not aligned
+### Actions and statements are not aligned
 The three players in the Henoko project show the behavior not align with their stated intention.  
 Let's explore their logic behind it.  
 
