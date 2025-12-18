@@ -7,8 +7,9 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 
 ---
 
-Analysis on relocation project
-;todo: make this broader scope
+# Actions and statements are not aligned
+The three players in the Henoko project show the behavior not align with their stated intention.  
+Let's explore their logic behind it.  
 
 | Player                 | Stated Goal (What they SAY)           | Current Strategy (What they DO)                       | SAY and DO align? | Current Goal (What they WANT; estimated from observing)                                        | 
 | :--------------------- | :------------------------------------ | :---------------------------------------------------- | :---------------- | :--------------------------------------------------------------------------------------------- | 
