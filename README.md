@@ -1686,7 +1686,7 @@ And still they can have an additional story, like Aichi. They do not require to 
 
 ### Psychological need of Okinawa people
 
-They read the local papers not for information, but for validation. They need a daily confirmation that they are the protagonists of a tragedy (The Ryukyu Kingdom Struggle), not the recipients of a subsidy.
+They read the local papers not for information, but for validation. They need a daily confirmation that they are the protagonists of a tragedy, not the recipients of a subsidy.
 
 The 99.4% share is the measure of how desperate that psychological need is.
 
