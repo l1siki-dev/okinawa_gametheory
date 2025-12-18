@@ -697,12 +697,12 @@ People of Okinawa pay tax for the "infinite conflict machine" that keeps them su
 * "Ryukyu Kingdom was a utopia."
 
 These "Beautiful Ryukyu Kingdom" stories are all fantasy.  
-
-* It was not peaceful
-* It was not a great trader
-* It was not utopia.
-* It was not sovereign.
-* It was not even a Kingdom in a practical sense.
+The historical evidence tells that 
+* Ryukyu was not peaceful.
+* Ryukyu was not a great trader.
+* Ryukyu was not a utopia.
+* Ryukyu was not sovereign from day one (1429).
+* Ryukyu was not even a Kingdom in a practical sense.
 
 ### Start from the data: population growth.  
 Before the story, let's see the population growth data I calculated from trustworthy data.  
