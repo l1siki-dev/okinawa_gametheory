@@ -2425,7 +2425,8 @@ If you know an influential figure—a YouTuber, a politician, a professor, a jou
 
 While writing this report, I realized that e-Stat is so outdated. This isn't real transparency.  
 We need a 'Right to Know' law like Sweden's. But more importantly, we need to stop being passive. Politicians won't fix this because it doesn't benefit them. It benefits us.  
-We pay the taxes. We own the data. We have the right to know.
+We pay the taxes. We own the data. We have the right to know.  
+Stop trusting them blindly. They have a reason to hide the data.  
 
 I wrote this entire report in a kitchen, standing, because I'm too broke to buy a desk. 
 And I find this is a pretty great place for writing. I can stack pots to adjust the height of the laptop. 
