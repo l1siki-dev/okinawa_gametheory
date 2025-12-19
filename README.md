@@ -7,7 +7,7 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 
 ---
 ## Key data
-### Desicion-currupting dependency (Okinawa 108%; National avg 12%)
+### Desicion-currupting dependency (Okinawa 107.6%; National avg 11.5%)
 Naha politicians' optimal financial strategy is vastly different from that of other prefectural governors.  
 Naha has small (or negative to get more aid) incentives to take care of the local economy, or a healthy local society that produces tax revenue.  
 
