@@ -1,15 +1,37 @@
-.header-share-btn {
-    background: none;
-    border: none;
-    cursor: pointer;
-    font-size: 0.6em;
-    margin-left: 10px;
-    opacity: 0.3;
-    transition: opacity 0.2s;
-    vertical-align: middle;
+/* Position the button next to the header */
+article h1, article h2, article h3 {
+    display: flex;
+    align-items: center;
 }
 
-h2:hover .header-share-btn, 
-h3:hover .header-share-btn {
+.share-button {
+    margin-left: 10px;
+    cursor: pointer;
+    opacity: 0; /* Hidden by default */
+    transition: opacity 0.25s, color 0.25s;
+    border: none;
+    background: transparent;
+    width: 1.2em;
+    height: 1.2em;
+    padding: 0;
+    color: var(--md-default-fg-color--light);
+}
+
+/* Show on hover */
+article h1:hover .share-button,
+article h2:hover .share-button,
+article h3:hover .share-button {
     opacity: 1;
+}
+
+/* Material hover effect */
+.share-button:hover {
+    color: var(--md-primary-fg-color);
+}
+
+/* Hide from print */
+@media print {
+    .share-button {
+        display: none;
+    }
 }
