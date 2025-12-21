@@ -25,11 +25,11 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 
 ---
 # Bar Chart Example
-<div style="position: relative; width: 100%; max-width: 800px;">
+<div style="position: relative; width: fit-content; margin: 0 auto;">
 <div id="chart-container" style="width: 600px;height:400px;"></div>
     <button class="md-button md-button--primary" 
         onclick="shareChart('chart-container')"
-        style="position: absolute; top: 10px; right: 100px; z-index: 10; padding: 6px 12px; font-size: 0.8rem; line-height: 1.2; min-width: auto;">
+        style="position: absolute; top: 10px; right: 10px; z-index: 10; padding: 6px 12px; font-size: 0.8rem; line-height: 1.2; min-width: auto;">
     Share Graph
     </button>
 </div>
@@ -186,6 +186,7 @@ We have to know the real intent of these three.
 | **Japan Newspapers**   | Inform the public objectively         | Provide periodic, low-key coverage                    | **Partially**     | **Status Quo** (Safest, low-cost option)                                                       | 
 | **Japanese Citizens**  | (No single consensus)                 | Remain largely passive and disengaged                 | **N/A**           | **N/A**                                                                                        | 
 | **Okinawa Citizens**   | Stop the base                         | Engage in localized, direct protest                   | **YES**           | **Solve** (Stop the base)                                                                      | 
+
 
 
 
