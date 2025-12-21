@@ -17,10 +17,38 @@ Here is the data for this month:
 <script>
   var myChart = echarts.init(document.getElementById('ransom-stats'));
   var option = {
-      xAxis: { type: 'category', data: ['A', 'B', 'C'] },
-      yAxis: { type: 'value' },
-      series: [{ data: [120, 200, 150], type: 'bar' }]
-  };
+      title: {
+        text: 'ECharts Bar Chart'
+      },
+      backgroundColor: '#ffffff', 
+      graphic: [
+        {
+          type: 'text',
+          right: 10,  // Position: Bottom Right
+          bottom: 10,
+          style: {
+            text: '© MyOSINTReport.com | @MyHandle', // YOUR BRAND
+            fill: '#888888', // Subtle Grey
+            fontSize: 12,
+            fontWeight: 'bold'
+          }
+        }
+      ],
+      tooltip: {},
+      legend: {
+        data: ['Sales']
+      },
+      xAxis: {
+        data: ['Shirt', 'Cardigan', 'Chiffon Shirt', 'Pants', 'Heels', 'Pumps']
+      },
+      yAxis: {},
+      series: [
+        {
+          name: 'Sales',
+          type: 'bar',
+          data: [5, 20, 36, 10, 10, 20]
+        }
+      ]  };
   myChart.setOption(option);
 </script>
 
