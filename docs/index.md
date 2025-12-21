@@ -8,46 +8,43 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 
 ---
 
-# My Statistics
+# Bar Chart Example
 
-Here is a breakdown of our user growth:
+<div id="chart-container" style="width: 600px;height:400px;"></div>
 
-<div id="main-chart" style="width: 100%; height: 400px;"></div>
-<script type="text/javascript">
-  // Initialize the chart
-  var myChart = echarts.init(document.getElementById('main-chart'));
+<script>
+  // Initialize the ECharts instance upon page load
+  document.addEventListener('DOMContentLoaded', (event) => {
+    var chartDom = document.getElementById('chart-container');
+    var myChart = echarts.init(chartDom);
+    var option;
 
-  // Specify configuration items and data
-  var option = {
-    title: {
-      text: 'Weekly Users'
-    },
-    tooltip: {},
-    legend: {
-      data: ['Sales']
-    },
-    xAxis: {
-      data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
-    },
-    yAxis: {},
-    series: [
-      {
-        name: 'Sales',
-        type: 'bar',
-        data: [5, 20, 36, 10, 10, 20, 9]
-      }
-    ]
-  };
+    // Specify the configuration and data for the chart
+    option = {
+      title: {
+        text: 'ECharts Bar Chart'
+      },
+      tooltip: {},
+      legend: {
+        data: ['Sales']
+      },
+      xAxis: {
+        data: ['Shirt', 'Cardigan', 'Chiffon Shirt', 'Pants', 'Heels', 'Pumps']
+      },
+      yAxis: {},
+      series: [
+        {
+          name: 'Sales',
+          type: 'bar',
+          data: [5, 20, 36, 10, 10, 20]
+        }
+      ]
+    };
 
-  // Display the chart
-  myChart.setOption(option);
-  
-  // Responsive resize
-  window.addEventListener('resize', function() {
-    myChart.resize();
+    // Render the chart using the configuration
+    myChart.setOption(option);
   });
 </script>
-
 
 
 ---
@@ -106,6 +103,7 @@ We have to know the real intent of these three.
 | **Japan Newspapers**   | Inform the public objectively         | Provide periodic, low-key coverage                    | **Partially**     | **Status Quo** (Safest, low-cost option)                                                       | 
 | **Japanese Citizens**  | (No single consensus)                 | Remain largely passive and disengaged                 | **N/A**           | **N/A**                                                                                        | 
 | **Okinawa Citizens**   | Stop the base                         | Engage in localized, direct protest                   | **YES**           | **Solve** (Stop the base)                                                                      | 
+
 
 
 
