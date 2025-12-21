@@ -1,66 +1,76 @@
-/* Container for alignment */
-article h2, article h3 {
-    display: flex;
+/* Layout headers to allow the button to act as a bullet */
+article h1, article h2, article h3 {
+    display: flex !important;
     align-items: center;
-    justify-content: flex-start;
+    position: relative;
+    /* Move slightly to the left to make room for the bullet if you want 
+       hanging indentation, otherwise leave as is. */
 }
 
-/* Reusing your Indigo Button Style */
+/* The Indigo Bullet Button */
 .share-button {
     background-color: #3f51b5; /* Indigo */
     color: white !important;
     border: none;
-    width: 32px; /* Slightly larger for charts for better target appeal */
-    height: 32px;
+    cursor: pointer;
+    
+    /* Sizes */
+    width: 26px;
+    height: 26px;
+    min-width: 26px; /* Prevent shrinking in flexbox */
+    
+    /* Spacing - acting as a bullet point */
+    margin-right: 12px;
+    
     border-radius: 50%;
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    cursor: pointer;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.16);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15);
     transition: transform 0.2s, background-color 0.2s, box-shadow 0.2s;
+    z-index: 5;
+}
+
+/* Adjust button size slightly for the main H1 title */
+article h1 .share-button {
+    width: 32px;
+    height: 32px;
+    min-width: 32px;
+    margin-right: 15px;
 }
 
 .share-button svg {
+    width: 14px;
+    height: 14px;
+}
+article h1 .share-button svg {
     width: 18px;
     height: 18px;
 }
 
-/* Hover effects for strong appeal */
+/* Hover & Animation */
 .share-button:hover {
     background-color: #303f9f;
-    transform: scale(1.15);
-    box-shadow: 0 5px 10px rgba(0,0,0,0.25);
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.25);
 }
 
 .share-button:active {
     transform: scale(0.9);
 }
 
-/* Specific adjustment for chart wrapper buttons */
-.chart-action-btn {
-    /* Ensures they stay on top of any graph elements */
-    z-index: 100;
-}
-/* Ensure the permalink symbol (¶) doesn't interfere */
+/* Ensure MkDocs permalink (¶) stays at the end */
 .headerlink {
-    order: 3; /* Puts the default MkDocs link after our button */
-    margin-left: 8px !important;
+    margin-left: auto; /* Moves ¶ to the far right (optional) */
+    opacity: 0.3;
 }
 
-/* Animation for the "Next" arrow nudge */
-@keyframes nudge-right {
-  0%, 100% { transform: translateX(0); }
-  50% { transform: translateX(6px); }
-}
-
-/* Apply to the icon in the Next button */
-.md-footer__link--next .md-footer__direction {
-  animation: nudge-right 3s infinite ease-in-out;
-  display: inline-block; /* Ensures transform works */
-}
-
-/* Pause animation when user is hovering to avoid clicking a moving target */
-.md-footer__link--next:hover .md-footer__direction {
-  animation-play-state: paused;
+/* On small screens, ensure the title doesn't overlap */
+@media screen and (max-width: 400px) {
+    article h1, article h2, article h3 {
+        align-items: flex-start;
+    }
+    .share-button {
+        margin-top: 4px; /* Align with first line of text */
+    }
 }
