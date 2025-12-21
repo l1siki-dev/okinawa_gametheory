@@ -1,78 +1,105 @@
+/**
+ * Final Viral Chart Script
+ * 1. Generates Image
+ * 2. Copies Text/URL to Clipboard (Fix for Android/Twitter)
+ * 3. Opens Native Share
+ */
 async function shareChart(elementId) {
     var dom = document.getElementById(elementId);
     if (!dom) return;
 
     var chartInstance = echarts.getInstanceByDom(dom);
     if (!chartInstance) {
-        alert("Chart not initialized!");
+        alert("Chart not loaded yet.");
         return;
     }
 
-    // 1. Get Image Data
+    // 1. Get Image Data (High Res)
     var dataURL = chartInstance.getDataURL({
         type: 'png',
         pixelRatio: 2,
         backgroundColor: '#ffffff'
     });
 
-    // 2. Prepare the File
+    // 2. Prepare Data
     var blob = await (await fetch(dataURL)).blob();
-    var file = new File([blob], "osint_graph.png", { type: "image/png" });
+    var file = new File([blob], "osint_analysis.png", { type: "image/png" });
+    
+    // The viral text with your URL
+    var shareText = `Read more: ${window.location.href}`;
 
-    // 3. Prepare the Text + URL
-    // We combine them because some apps ignore the 'url' param when an image is attached.
-    var shareTitle = document.title || 'OSINT Report';
-    var shareText = `Check out this data 💀 detected in the latest report.\n\nRead more: ${window.location.href}`;
+    // 3. ANDROID FIX: Copy text to clipboard silently first
+    try {
+        await navigator.clipboard.writeText(shareText);
+        showToast("Caption copied! Paste it in your post 📋");
+    } catch (err) {
+        console.log("Clipboard failed (non-HTTPS site?)");
+    }
 
     // 4. Share
     if (navigator.canShare && navigator.canShare({ files: [file] })) {
         try {
+            // We still send text for apps that DO support it (like Email/Telegram)
             await navigator.share({
-                title: shareTitle,
-                text: shareText,      // URL is baked into the text here
-                files: [file]
+                files: [file],
+                title: 'OSINT Report',
+                text: shareText 
             });
-        } catch (err) {
-            console.log("Share canceled", err);
+        } catch (error) {
+            console.log("Share closed", error);
         }
     } else {
-        // Fallback for Desktop (Clipboard)
+        // Desktop Fallback
         try {
             const item = new ClipboardItem({ 'image/png': blob });
             await navigator.clipboard.write([item]);
-            // Since we can't copy text AND image to clipboard at the same time easily,
-            // we alert the user.
-            alert("Image copied to clipboard! \n(Don't forget to paste the link manually)");
+            alert("Image copied! \n(Caption is also in your clipboard)");
         } catch (err) {
             alert("Browser does not support sharing.");
         }
     }
 }
+
+// Helper: Shows a little popup notification (No CSS file needed)
+function showToast(message) {
+    var toast = document.createElement("div");
+    toast.innerText = message;
+    toast.style.position = "fixed";
+    toast.style.bottom = "20px";
+    toast.style.left = "50%";
+    toast.style.transform = "translateX(-50%)";
+    toast.style.backgroundColor = "rgba(0,0,0,0.8)";
+    toast.style.color = "#fff";
+    toast.style.padding = "10px 20px";
+    toast.style.borderRadius = "20px";
+    toast.style.zIndex = "9999";
+    toast.style.fontSize = "14px";
+    toast.style.transition = "opacity 0.5s";
+    
+    document.body.appendChild(toast);
+    
+    // Fade out after 3 seconds
+    setTimeout(function() {
+        toast.style.opacity = "0";
+        setTimeout(function() { document.body.removeChild(toast); }, 500);
+    }, 3000);
+}
+
+// -------------------------------------------------------------
+// HELPER: Auto-Render Logic (Keep this from previous step)
+// -------------------------------------------------------------
 function renderOsintChart(id, option) {
-    // 1. Define the runner function
     var run = function() {
         var dom = document.getElementById(id);
         if (dom && typeof echarts !== 'undefined') {
-            // Check if already initialized to prevent duplicates
             if (echarts.getInstanceByDom(dom)) return; 
-            
             var myChart = echarts.init(dom);
-            
-            // Inject your default "Clean Theme" styles here
-            // This means you don't have to repeat them in every markdown file!
+            // Default Padding for Share Button
             if (!option.grid) option.grid = { top: 60, right: 20, bottom: 20, left: 40, containLabel: true };
-            
             myChart.setOption(option);
-            
-            // Auto-resize on window change
             window.addEventListener('resize', function() { myChart.resize(); });
         }
     };
-
-    // 2. Run immediately if ready, otherwise wait for window load
-    if (document.readyState === 'complete') {
-        run();
-    } else {
-        window.addEventListener('load', run);
-    }
+    if (document.readyState === 'complete') run();
+    else window.addEventListener('load', run);
 }
