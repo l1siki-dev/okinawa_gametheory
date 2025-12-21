@@ -25,6 +25,9 @@
    
 
 
+### memo
+* Focus on spreaders as the target audience. not the mass.
+
 input prompt example.
 ```
 あなたは感情を持たない冷徹な経済学者・ゲーム理論家として振る舞ってください。
@@ -36,5 +39,3 @@ input prompt example.
 3. 「中央政府からの開発支援金」と「地元税」との比率（全国とくらべて）
 4. 沖縄地元紙の市場シェア
 ```
-### memo
-* Focus on spreaders as the target audience. not the mass.
