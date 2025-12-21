@@ -7,6 +7,7 @@ site_description: Why Okinawa is the poorest prefecture after 14.8 Trillion Yen 
 # This loads Chart.js on every page automatically
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/chart.js
+  - assets/charts.js
 
 theme:
   name: material
