@@ -2,7 +2,7 @@
 title: Intended Failure
 ---
 # Intended Failure
-Why is Okinawa the poorest after 14.8 trillion yen in special development aid?
+Why is Okinawa the poorest after 14.8 trillion yen in special development aid?  
 © 2025 伊波りしき. This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Based on selectorate theory, game theory, resource curse, aid curse, incentive analysis, and rational choice theory.
@@ -71,6 +71,7 @@ We have to know the real intent of these three.
 | **Japan Newspapers**   | Inform the public objectively         | Provide periodic, low-key coverage                    | **Partially**     | **Status Quo** (Safest, low-cost option)                                                       | 
 | **Japanese Citizens**  | (No single consensus)                 | Remain largely passive and disengaged                 | **N/A**           | **N/A**                                                                                        | 
 | **Okinawa Citizens**   | Stop the base                         | Engage in localized, direct protest                   | **YES**           | **Solve** (Stop the base)                                                                      | 
+
 
 
 
