@@ -18,7 +18,7 @@
     * Okinawa's economical/political similality with resouce curse state
     * Life-expectancy comparison
 
-## future features
+## future plan
 * multilanguage support
 * patoreon
 * youtube video
