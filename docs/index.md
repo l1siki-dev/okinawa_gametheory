@@ -31,10 +31,38 @@ Here is the data for this month:
   var myChart = echarts.init(document.getElementById('my-graph-id'));
   var option = {
       // Don't forget: No 'toolbox' here anymore!
-      grid: { top: 60, right: 30 }, // Add top padding so the button doesn't cover the highest bar
-      xAxis: { type: 'category', data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri'] },
-      yAxis: { type: 'value' },
-      series: [{ data: [820, 932, 901, 934, 1290], type: 'bar' }]
+      title: {
+        text: 'ECharts Bar Chart'
+      },
+      backgroundColor: '#ffffff', 
+      graphic: [
+        {
+          type: 'text',
+          right: 10,  // Position: Bottom Right
+          bottom: 10,
+          style: {
+            text: '© MyOSINTReport.com | @MyHandle', // YOUR BRAND
+            fill: '#888888', // Subtle Grey
+            fontSize: 12,
+            fontWeight: 'bold'
+          }
+        }
+      ],
+      tooltip: {},
+      legend: {
+        data: ['Sales']
+      },
+      xAxis: {
+        data: ['Shirt', 'Cardigan', 'Chiffon Shirt', 'Pants', 'Heels', 'Pumps']
+      },
+      yAxis: {},
+      series: [
+        {
+          name: 'Sales',
+          type: 'bar',
+          data: [5, 20, 36, 10, 10, 20]
+        }
+      ]
   };
   myChart.setOption(option);
 </script>
@@ -202,6 +230,7 @@ We have to know the real intent of these three.
 | **Japan Newspapers**   | Inform the public objectively         | Provide periodic, low-key coverage                    | **Partially**     | **Status Quo** (Safest, low-cost option)                                                       | 
 | **Japanese Citizens**  | (No single consensus)                 | Remain largely passive and disengaged                 | **N/A**           | **N/A**                                                                                        | 
 | **Okinawa Citizens**   | Stop the base                         | Engage in localized, direct protest                   | **YES**           | **Solve** (Stop the base)                                                                      | 
+
 
 
 
