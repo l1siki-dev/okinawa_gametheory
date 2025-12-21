@@ -47,3 +47,20 @@ article h1, article h2, article h3 {
     order: 3; /* Puts the default MkDocs link after our button */
     margin-left: 8px !important;
 }
+
+/* Animation for the "Next" arrow nudge */
+@keyframes nudge-right {
+  0%, 100% { transform: translateX(0); }
+  50% { transform: translateX(6px); }
+}
+
+/* Apply to the icon in the Next button */
+.md-footer__link--next .md-footer__direction {
+  animation: nudge-right 3s infinite ease-in-out;
+  display: inline-block; /* Ensures transform works */
+}
+
+/* Pause animation when user is hovering to avoid clicking a moving target */
+.md-footer__link--next:hover .md-footer__direction {
+  animation-play-state: paused;
+}
