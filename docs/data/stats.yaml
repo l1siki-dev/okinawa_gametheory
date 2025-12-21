@@ -1,0 +1,13 @@
+overview_aidtax_ratio:
+  tooltip: 
+    trigger: axis
+    axisPointer:
+      type: shadow
+  yAxis:
+    type: category
+    data: ["Tokyo (3.1%)","Kanagawa (3.2%)","Osaka (4.2%)","Aichi (4.4%)","Saitama (4.5%)","Shizuoka (6.5%)","Ibaraki (6.9%)","Hyogo (7.7%)","Chiba (8.3%)","Gunma (8.6%)","Tochigi (8.9%)","Shiga (8.9%)","Kyoto (9.6%)","Hiroshima (9.7%)","Okayama (10.0%)","Fukuoka (10.4%)","Nagano (10.8%)","Mie (11.2%)","Nationwide (11.5%)","Gifu (12.8%)","Kagawa (13.5%)","Ehime (14.4%)","Ishikawa (15.2%)","Nara (15.7%)","Yamanashi (16.6%)","Yamaguchi (17.4%)","Toyama (17.6%)","Fukui (18.6%)","Tokushima (19.4%)","Miyagi (20.3%)","Niigata (21.4%)","Aomori (22.4%)","Saga (23.4%)","Wakayama (23.8%)","Yamagata (24.4%)","Oita (24.6%)","Hokkaido (25.6%)","Kochi (27.2%)","Tottori (31.7%)","Shimane (31.8%)","Akita (34.3%)","Iwate (35.6%)","Miyazaki (37.5%)","Nagasaki (37.9%)","Kagoshima (38.7%)","Kumamoto (41.1%)","Okinawa (107.6%)"]
+  xAxis:
+    type: value
+  series:
+    - type: bar
+      data: [3.1, 3.2, 4.2, 4.4, 4.5, 6.5, 6.9, 7.7, 8.3, 8.6, 8.9, 8.9, 9.6, 9.7, 10.0, 10.4, 10.8, 11.2, 11.5, 12.8, 13.5, 14.4, 15.2, 15.7, 16.6, 17.4, 17.6, 18.6, 19.4, 20.3, 21.4, 22.4, 23.4, 23.8, 24.4, 24.6, 25.6, 27.2, 31.7, 31.8, 34.3, 35.6, 37.5, 37.9, 38.7, 41.1, 107.6]
