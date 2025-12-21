@@ -81,13 +81,15 @@ function showToast(message) {
     }, 3000);
 }
 
-async function copyPageUrl() {
-    try {
-        await navigator.clipboard.writeText(window.location.href);
-        showToast("Page link copied! 🔗");
-    } catch (err) {
-        prompt("Copy this link:", window.location.href);
-    }
+// Function to copy URL with specific ID tag
+function copyPageUrl(id) {
+    // Construct URL: Origin + Path + #ID
+    const url = window.location.origin + window.location.pathname + "#" + id;
+    
+    navigator.clipboard.writeText(url).then(() => {
+        // Optional: Replace with a Material toast if you have one
+        alert("Deep-link copied to clipboard!");
+    });
 }
 
 // -------------------------------------------------------------
