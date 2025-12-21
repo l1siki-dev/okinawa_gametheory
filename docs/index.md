@@ -8,12 +8,6 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 
 ---
 
-
-    <!-- 2. The Floating Button: Top-Right Corner -->
-    <!-- Added inline styles to size it perfectly for the corner -->
-
-    <!-- 3. The Chart: Standard ECharts div -->
-    <div id="my-graph-id" style="width: 100%; height: 400px; background-color: #fff; border-radius: 8px;"></div>
     
 
 <script>
@@ -31,14 +25,14 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 
 ---
 # Bar Chart Example
-<div id="my-graph-id" style="position: relative; width: 100%; max-width: 800px;">
+<div style="position: relative; width: 100%; max-width: 800px;">
 <div id="chart-container" style="width: 600px;height:400px;"></div>
-</div>
 <button class="md-button md-button--primary" 
         onclick="shareChart('chart-container')"
         style="position: absolute; top: 10px; right: 10px; z-index: 10; padding: 6px 12px; font-size: 0.8rem; line-height: 1.2; min-width: auto;">
     📤 Share
 </button>
+</div>
 
 <script>
   // Initialize the ECharts instance upon page load
@@ -203,6 +197,7 @@ We have to know the real intent of these three.
 | **Japan Newspapers**   | Inform the public objectively         | Provide periodic, low-key coverage                    | **Partially**     | **Status Quo** (Safest, low-cost option)                                                       | 
 | **Japanese Citizens**  | (No single consensus)                 | Remain largely passive and disengaged                 | **N/A**           | **N/A**                                                                                        | 
 | **Okinawa Citizens**   | Stop the base                         | Engage in localized, direct protest                   | **YES**           | **Solve** (Stop the base)                                                                      | 
+
 
 
 
