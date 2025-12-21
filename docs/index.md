@@ -1,5 +1,5 @@
 ---
-title: Succeeded at Failing
+title: Overview
 ---
 # Summary
 © 2025 伊波りしき. This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
@@ -8,7 +8,23 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 
 ---
 
-    
+# Ransomware Trends
+
+Here is the data for this month:
+
+{{ viral_chart('ransom-stats') }}
+
+<script>
+  var myChart = echarts.init(document.getElementById('ransom-stats'));
+  var option = {
+      xAxis: { type: 'category', data: ['A', 'B', 'C'] },
+      yAxis: { type: 'value' },
+      series: [{ data: [120, 200, 150], type: 'bar' }]
+  };
+  myChart.setOption(option);
+</script>
+
+---
 
 <script>
   // Standard ECharts setup
@@ -186,6 +202,7 @@ We have to know the real intent of these three.
 | **Japan Newspapers**   | Inform the public objectively         | Provide periodic, low-key coverage                    | **Partially**     | **Status Quo** (Safest, low-cost option)                                                       | 
 | **Japanese Citizens**  | (No single consensus)                 | Remain largely passive and disengaged                 | **N/A**           | **N/A**                                                                                        | 
 | **Okinawa Citizens**   | Stop the base                         | Engage in localized, direct protest                   | **YES**           | **Solve** (Stop the base)                                                                      | 
+
 
 
 
