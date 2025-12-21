@@ -48,3 +48,31 @@ async function shareChart(elementId) {
         }
     }
 }
+function renderOsintChart(id, option) {
+    // 1. Define the runner function
+    var run = function() {
+        var dom = document.getElementById(id);
+        if (dom && typeof echarts !== 'undefined') {
+            // Check if already initialized to prevent duplicates
+            if (echarts.getInstanceByDom(dom)) return; 
+            
+            var myChart = echarts.init(dom);
+            
+            // Inject your default "Clean Theme" styles here
+            // This means you don't have to repeat them in every markdown file!
+            if (!option.grid) option.grid = { top: 60, right: 20, bottom: 20, left: 40, containLabel: true };
+            
+            myChart.setOption(option);
+            
+            // Auto-resize on window change
+            window.addEventListener('resize', function() { myChart.resize(); });
+        }
+    };
+
+    // 2. Run immediately if ready, otherwise wait for window load
+    if (document.readyState === 'complete') {
+        run();
+    } else {
+        window.addEventListener('load', run);
+    }
+}
