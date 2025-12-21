@@ -31,7 +31,7 @@ async function shareChart(elementId) {
     // 3. ANDROID FIX: Copy text to clipboard silently first
     try {
         await navigator.clipboard.writeText(shareText);
-        showToast("Caption copied! Paste it in your post 📋");
+        showToast("URL copied! Paste it in your post 📋");
     } catch (err) {
         console.log("Clipboard failed (non-HTTPS site?)");
     }
@@ -73,7 +73,7 @@ function showToast(message) {
     toast.style.padding = "10px 20px";
     toast.style.borderRadius = "20px";
     toast.style.zIndex = "9999";
-    toast.style.fontSize = "14px";
+    toast.style.fontSize = "20px";
     toast.style.transition = "opacity 0.5s";
     
     document.body.appendChild(toast);
