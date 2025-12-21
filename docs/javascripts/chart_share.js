@@ -103,3 +103,13 @@ function renderOsintChart(id, option) {
     if (document.readyState === 'complete') run();
     else window.addEventListener('load', run);
 }
+
+async function copyPageUrl() {
+    try {
+        await navigator.clipboard.writeText(window.location.href);
+        showToast("Page link copied! 🔗");
+    } catch (err) {
+        // Fallback for rare browsers
+        prompt("Copy this link:", window.location.href);
+    }
+}
