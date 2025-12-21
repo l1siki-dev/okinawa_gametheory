@@ -1,14 +1,6 @@
 site_name: "Succeeded at failing: Solving Okinawa by Game Theory"
 site_description: Why Okinawa is the poorest prefecture after 14.8 Trillion Yen aid. From a perspective of game theory.
 
-# This sets your files (Optional). 
-# If you DELETE this 'nav' section, it will auto-discover files alphabetically!
-
-# This loads Chart.js on every page automatically
-extra_javascript:
-  - https://cdn.jsdelivr.net/npm/chart.js
-  - assets/charts.js
-
 theme:
   name: material
   features:
