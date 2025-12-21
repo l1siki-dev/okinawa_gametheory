@@ -17,7 +17,7 @@ def define_env(env):
                 </button>
                 <button class="md-button md-button--primary" onclick="shareChart('{id}')"
                         style="padding: 4px 10px; font-size: 0.7rem; min-width: auto;">
-                    📤 Share Graph
+                    ⌲ Share Graph
                 </button>
             </div>
             
