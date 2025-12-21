@@ -1,7 +1,40 @@
 import json
 import textwrap
+import os
 
 def define_env(env):
+    """
+    Automatically loads all JSON files from docs/json/ into global variables.
+    Variable name = filename (without extension).
+    """
+    
+    # 1. Define the path to your data folder
+    # env.project_dir guarantees we find the folder relative to mkdocs.yml
+    json_dir = os.path.join(env.project_dir, 'docs', 'json')
+
+    # 2. Check if directory exists to avoid errors
+    if not os.path.exists(json_dir):
+        return
+
+    # 3. Iterate over every file in that directory
+    for filename in os.listdir(json_dir):
+        if filename.endswith('.json'):
+            # Create variable name: "my_stats.json" -> "my_stats"
+            var_name = os.path.splitext(filename)[0]
+            file_path = os.path.join(json_dir, filename)
+
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    # Load the JSON and inject it into the environment
+                    env.variables[var_name] = json.load(f)
+                    # Optional: Print to console to confirm it loaded
+                    print(f" -> Loaded data variable: {var_name}")
+            except Exception as e:
+                print(f"Error loading {filename}: {e}")
+    
+    """
+    Viral compatible chart generation.
+    """
     @env.macro
     def viral_chart(id, options, height="500px"):
         json_options = json.dumps(options)
