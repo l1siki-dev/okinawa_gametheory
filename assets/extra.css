@@ -1,0 +1,28 @@
+/* Viral Share Button */
+.share-btn {
+  background-color: #1da1f2; /* Twitter/X Blue */
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 20px; /* Pill shape */
+  cursor: pointer;
+  transition: background-color 0.2s, transform 0.1s;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px; /* Space between icon and text */
+  text-decoration: none; /* In case you use <a> tag */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.share-btn:hover {
+  background-color: #0c85d0; /* Darker blue on hover */
+  transform: translateY(-1px); /* Slight lift */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.share-btn:active {
+  transform: translateY(1px); /* Click effect */
+  box-shadow: none;
+}
