@@ -8,7 +8,7 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 
 ---
 
-<div style="position: relative; width: 100%; max-width: 800px;">
+<div id="my-graph-id" style="position: relative; width: 100%; max-width: 800px;">
 
     <!-- 2. The Floating Button: Top-Right Corner -->
     <!-- Added inline styles to size it perfectly for the corner -->
@@ -210,6 +210,7 @@ We have to know the real intent of these three.
 | **Japan Newspapers**   | Inform the public objectively         | Provide periodic, low-key coverage                    | **Partially**     | **Status Quo** (Safest, low-cost option)                                                       | 
 | **Japanese Citizens**  | (No single consensus)                 | Remain largely passive and disengaged                 | **N/A**           | **N/A**                                                                                        | 
 | **Okinawa Citizens**   | Stop the base                         | Engage in localized, direct protest                   | **YES**           | **Solve** (Stop the base)                                                                      | 
+
 
 
 
