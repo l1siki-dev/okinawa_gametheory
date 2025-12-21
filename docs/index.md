@@ -11,40 +11,19 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 # Ransomware Trends
 
 Here is the data for this month:
-<h1 id="ransomware-trends">Ransomware Trends</h1>
-<p>Here is the data for this month:</p>
 
-<!-- 1. The Macro Generates the HTML Container -->
 {{ viral_chart('ransom-stats') }}
 
-<!-- 2. The Script (Wrapped to wait for load) -->
 <script>
-  // We use a self-executing function or event listener to wait
-  window.addEventListener('load', function() {
-      
-      // Use a unique variable name OR local scope to avoid conflicts
-      var dom = document.getElementById('ransom-stats');
-      if (dom) {
-          var myChart = echarts.init(dom);
-          var option = {
-              grid: { top: 50, right: 20, bottom: 30, left: 40 }, // Adjust padding for button
-              xAxis: { type: 'category', data: ['A', 'B', 'C'] },
-              yAxis: { type: 'value' },
-              series: [{ 
-                  data: [120, 200, 150], 
-                  type: 'bar',
-                  itemStyle: { color: '#bdbdbd' } // Grey bars
-              }]
-          };
-          myChart.setOption(option);
-          
-          // Make it responsive
-          window.addEventListener('resize', function() {
-              myChart.resize();
-          });
-      }
-  });
+  var myChart = echarts.init(document.getElementById('ransom-stats'));
+  var option = {
+      xAxis: { type: 'category', data: ['A', 'B', 'C'] },
+      yAxis: { type: 'value' },
+      series: [{ data: [120, 200, 150], type: 'bar' }]
+  };
+  myChart.setOption(option);
 </script>
+
 
 
 
@@ -104,6 +83,7 @@ We have to know the real intent of these three.
 | **Japan Newspapers**   | Inform the public objectively         | Provide periodic, low-key coverage                    | **Partially**     | **Status Quo** (Safest, low-cost option)                                                       | 
 | **Japanese Citizens**  | (No single consensus)                 | Remain largely passive and disengaged                 | **N/A**           | **N/A**                                                                                        | 
 | **Okinawa Citizens**   | Stop the base                         | Engage in localized, direct protest                   | **YES**           | **Solve** (Stop the base)                                                                      | 
+
 
 
 
