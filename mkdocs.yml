@@ -58,7 +58,9 @@ theme:
 
 plugins:
   - search
-  - macros
+  - macros:
+      include_yaml:
+        - docs/data/stats.yaml
 
 hooks:
   - assets/hook_strip_number.py
