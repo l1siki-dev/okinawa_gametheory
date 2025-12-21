@@ -5,13 +5,13 @@ document.addEventListener("DOMContentLoaded", function() {
     headers.forEach(header => {
         // Create the share button
         const shareBtn = document.createElement("button");
-        shareBtn.innerHTML = "🔗"; // You can use an SVG icon here instead
+        shareBtn.innerHTML = "⌲"; // You can use an SVG icon here instead
         shareBtn.className = "header-share-btn";
         shareBtn.title = "Share this section";
 
         shareBtn.onclick = () => {
             const url = window.location.origin + window.location.pathname + "#" + header.id;
-            const title = header.innerText.replace("🔗", "").trim();
+            const title = header.innerText.replace("⌲", "").trim();
 
             if (navigator.share) {
                 navigator.share({
