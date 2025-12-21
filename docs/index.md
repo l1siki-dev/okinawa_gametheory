@@ -72,9 +72,11 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 </script>
 
 <!-- The Button -->
-<a href="javascript:void(0)" onclick="shareChart('ransomware-graph')" class="md-button md-button--primary">
-    📤 Share Graph
-</a>
+<button class="share-btn" onclick="shareChart('chart-container')">
+    <!-- You can paste an SVG icon here for maximum pro look, or just emoji -->
+    <span style="font-size: 1.2em;">📤</span> 
+    Share Analysis
+</button>
 
 <script>
 async function shareChart() {
@@ -179,6 +181,7 @@ We have to know the real intent of these three.
 | **Japan Newspapers**   | Inform the public objectively         | Provide periodic, low-key coverage                    | **Partially**     | **Status Quo** (Safest, low-cost option)                                                       | 
 | **Japanese Citizens**  | (No single consensus)                 | Remain largely passive and disengaged                 | **N/A**           | **N/A**                                                                                        | 
 | **Okinawa Citizens**   | Stop the base                         | Engage in localized, direct protest                   | **YES**           | **Solve** (Stop the base)                                                                      | 
+
 
 
 
