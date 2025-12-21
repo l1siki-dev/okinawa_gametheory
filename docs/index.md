@@ -25,6 +25,43 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
         text: 'ECharts Bar Chart'
       },
       backgroundColor: '#ffffff', 
+      toolbox: {
+        show: true,
+        feature: {
+          saveAsImage: {
+            show: true,
+            title: 'Download Graph',
+            pixelRatio: 2, // High Resolution (Retina) for crisp text
+            name: 'OSINT_Report_Graph' // Filename when downloaded
+          }
+        }
+      },
+      graphic: [
+      {
+        type: 'text',
+        right: 10,  // Position: Bottom Right
+        bottom: 10,
+        style: {
+          text: '© MyOSINTReport.com | @MyHandle', // YOUR BRAND
+          fill: '#888888', // Subtle Grey
+          fontSize: 12,
+          fontWeight: 'bold'
+        }
+      },
+    {
+      type: 'text',
+      left: 10, // Position: Top Left (Title in image)
+      top: 10,
+      style: {
+        text: 'APT Activity by Nation State (2025)', // Context
+        fill: '#333',
+        fontSize: 16,
+        fontWeight: 'bold'
+      }
+    }
+  ],
+
+
       tooltip: {},
       legend: {
         data: ['Sales']
@@ -105,6 +142,7 @@ We have to know the real intent of these three.
 | **Japan Newspapers**   | Inform the public objectively         | Provide periodic, low-key coverage                    | **Partially**     | **Status Quo** (Safest, low-cost option)                                                       | 
 | **Japanese Citizens**  | (No single consensus)                 | Remain largely passive and disengaged                 | **N/A**           | **N/A**                                                                                        | 
 | **Okinawa Citizens**   | Stop the base                         | Engage in localized, direct protest                   | **YES**           | **Solve** (Stop the base)                                                                      | 
+
 
 
 
