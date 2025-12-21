@@ -6,7 +6,10 @@
     * visualize table data
     * separate table data to different file
 
- * Use AI to mitigate halo effect.
+* viral compatibility
+   * sns integration 
+
+* Use AI to mitigate halo effect.
     * Opening line is "Ask ChatGPT to analyse Okinawa politics using sientific method"
     * It will "anchor" the perception of the reader hard. I don't have to hastle moving their common sense.
 
@@ -15,7 +18,12 @@
     * Okinawa's economical/political similality with resouce curse state
     * Life-expectancy comparison
 
-* create repo for Japanese audience.
+## future features
+* multilanguage support
+* patoreon
+* youtube video
+   
+
 
 input prompt example.
 ```
