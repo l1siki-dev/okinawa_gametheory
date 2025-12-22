@@ -46,7 +46,7 @@ def define_env(env):
         <div class="chart-wrapper" style="position: relative; width: 100%; overflow-x: auto; margin: 2em auto; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 8px; background: #fff;">
             
             <!-- UNIFIED INDIGO BUTTONS -->
-            <div style="position: absolute; top: 12px; left: 12px; z-index: 10; display: flex; gap: 10px;">
+            <div style="position: absolute; top: 10px; left: 10px; z-index: 10; display: flex; gap: 10px;">
                 <button class="share-button chart-action-btn" onclick="shareChart('{id}')" title="Share Chart">
                     {icon_share}
                 </button>
