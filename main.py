@@ -56,7 +56,7 @@ def define_env(env):
                 </button>
             </div>
             
-            <div id="{id}" class="lazy-chart" style="width: 800px; height: 800px;"></div>
+            <div id="{id}" class="lazy-chart" style="width: 600px; height: 600px;"></div>
         </div>
 
         <script>
