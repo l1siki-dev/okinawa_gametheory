@@ -2,17 +2,43 @@
   "backgroundColor": "#ffffff",
   "title": [
     {
-      "text": "Incoming Development Aid / Local Tax Revenue ratio",
+      "text": "Incoming Development Aid / Local Tax ratio [latest from e-Stat]",
       "subtext": "Okinawa's anomalistic dependency on external cash is taking away the incentive to take care local economy/society.",
-      "left": 10,
-      "top": 10,
+      "left": "center",
+      "top": 20,
+      "textStyle": {
+        "fontSize": 24,
+        "fontWeight": "bold",
+        "color": "#333333"
+      },
+      "subtextStyle": {
+        "fontSize": 14,
+        "color": "#666666"
+      }
     },
     {
-      "subtext": "Note: Fukushima, 95%, is omitted because of the meltdown recovery. (the data is FY2017, latest on e-Stat at 2025/12)\nNote: Development aid = Natl. Treasury for Construction + Others\nNote: 開発援助 = 国庫支出金:普通建設事業費支出金 + 国庫支出金:その他\nData Source: 政府統計の総合窓口（e-Stat）\nCreated by: りしき | github.com/lisiki-jp\nRead: lisiki-jp.github.io/okinawa_gametheory",
-      "link": "https://lisiki-jp.github.io/okinawa_gametheory",
-      "bottom": 0,
+      "text": "Note: Fukushima, 95%, is omitted because of the meltdown recovery. (the data is FY2017, latest on e-Stat)\nNote: Development aid = Natl. Treasury for Construction + Others\nNote: 開発援助 = 国庫支出金:普通建設事業費支出金 + 国庫支出金:その他\nData Source: 政府統計の総合窓口（e-Stat）",
+      "bottom": 10,
       "left": 10,
+      "textStyle": {
+        "fontSize": 12,
+        "color": "#888888",
+        "fontWeight": "normal",
+        "lineHeight": 16
+      }
     },
+    {
+      "text": "Created by: りしき | github.com/lisiki-jp\nRead: lisiki-jp.github.io/okinawa_gametheory",
+      "bottom": 10,
+      "right": 10,
+      "textStyle": {
+        "fontSize": 12,
+        "color": "#888888",
+        "fontWeight": "normal"
+      },
+      "link": "https://lisiki-jp.github.io/okinawa_gametheory",
+      "target": "blank"
+    }
   ],
   "tooltip": {
     "trigger": "axis",
@@ -127,7 +153,8 @@
         "label": {
           "show": true,
           "formatter": "Nationwide Avg\n(11.5%)",
-          "position": "insideEndTop",
+          "position": "end",
+          "rotate": 0,
           "color": "green"
         },
         "lineStyle": {
@@ -212,4 +239,3 @@
     }
   ]
 }
-
