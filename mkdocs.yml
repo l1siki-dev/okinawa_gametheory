@@ -59,6 +59,9 @@ theme:
 plugins:
   - search
   - macros
+  - redirects:
+      redirect_maps:
+        index.md: 01_Analysis/index.md
 
 hooks:
   - assets/hook_strip_number.py
