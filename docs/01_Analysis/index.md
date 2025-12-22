@@ -13,7 +13,7 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 
 Here is the breakdown of active groups.
 
-{{ viral_chart('aidtax_ratio_chart2', test2, 700) }}
+{{ viral_chart('aidtax_ratio_chart2', test2) }}
 
 ---
 ## Key data
