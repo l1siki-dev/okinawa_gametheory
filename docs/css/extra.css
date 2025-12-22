@@ -80,19 +80,3 @@ article h1 .share-button svg {
         margin-top: 4px; /* Align with first line of text */
     }
 }
-/* Animation for the "Next" arrow nudge */
-@keyframes nudge-right {
-  0%, 100% { transform: translateX(0); }
-  50% { transform: translateX(6px); }
-}
-
-/* Apply to the icon in the Next button */
-.md-footer__button .md-footer__title {
-  animation: nudge-right 3s infinite ease-in-out;
-  display: inline-block; /* Ensures transform works */
-}
-
-/* Pause animation when user is hovering to avoid clicking a moving target */
-.md-footer__button:hover .md-footer__title {
-  animation-play-state: paused;
-}
