@@ -11,26 +11,6 @@
     "axisLabel": {
       "color": "#bbbbbb"
     },
-    "markLine": {
-      "symbol": "none", 
-      "data": [
-        {
-          "xAxis": 11.5,
-          "name": "Nationwide Average",
-          "label": {
-            "formatter": "Nationwide Average\n(11.5%)",
-            "position": "insideEndTop",
-            "color": "red"
-          }
-        }
-      ],
-      "lineStyle": {
-        "color": "green",
-        "type": "dashed",
-        "width": 2
-      },
-      "z": 100
-    },
     "data": [
       {
         "value": "Okinawa (107.6%)",
@@ -115,6 +95,25 @@
   "series": [
     {
       "type": "bar",
+      "markLine": {
+      "symbol": "none", 
+      "data": [
+        {
+          "xAxis": 11.5,
+          "name": "Nationwide Average",
+          "label": {
+            "formatter": "Nationwide Average\n(11.5%)",
+            "position": "insideEndTop",
+          }
+        }
+      ],
+      "lineStyle": {
+        "color": "green",
+        "type": "dashed",
+        "width": 2
+      },
+      "z": 100
+    },
       "data": [
         {
           "value": 107.6,
