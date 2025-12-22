@@ -68,4 +68,103 @@ def define_env(env):
 
 
     # ==============================================================================
-    # 3. DASHBOAR
+    # 3. DASHBOARD MACRO (Automated Grid)
+    # ==============================================================================
+    @env.macro
+    def render_dashboard():
+        """
+        Scans files, finds charts, and renders them in a grid using your 'viral_chart' function.
+        """
+        docs_dir = env.conf['docs_dir']
+        dashboard_items = []
+        
+        md_files = sorted(glob.glob(os.path.join(docs_dir, '**', '*.md'), recursive=True))
+
+        for file_path in md_files:
+            if os.path.basename(file_path) == 'index.md' and os.path.dirname(file_path) == docs_dir:
+                continue
+
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+            except:
+                continue
+
+            # 1. Get Title
+            page_title = os.path.basename(file_path)
+            h1 = re.search(r'^#\s+(.+)$', content, re.MULTILINE)
+            if h1:
+                page_title = h1.group(1).strip()
+
+            # 2. Get Link
+            rel_path = os.path.relpath(file_path, docs_dir).replace('\\', '/')
+            if rel_path.endswith('index.md'):
+                url = rel_path.replace('index.md', '')
+            else:
+                url = rel_path.replace('.md', '')
+
+            # 3. Find Charts
+            matches = re.findall(r"\{\{\s*viral_chart\s*\(\s*['\"](.*?)['\"]\s*,\s*([^,\)]+)(.*?)\)\s*\}\}", content)
+
+            for (chart_id, var_name, extra) in matches:
+                # Look up the variable in the environment (loaded by your JSON loader)
+                chart_data = env.variables.get(var_name)
+                
+                if chart_data:
+                    home_id = f"home_{chart_id}"
+                    
+                    # Call viral_chart "AS IS" (Uses default height or whatever logic you have)
+                    chart_html = viral_chart(home_id, chart_data)
+                    
+                    item = f"""
+                    <div class="dashboard-card">
+                        <div class="card-header"><a href="{url}">{page_title}</a></div>
+                        <div class="card-content">
+                            {chart_html}
+                        </div>
+                    </div>
+                    """
+                    dashboard_items.append(item)
+        
+        if not dashboard_items:
+            return "No charts found. Ensure your JSON files are in docs/json/ and matched in your markdown."
+
+        return '<div class="dashboard-grid">' + "\n".join(dashboard_items) + "</div>"
+
+
+    # ==============================================================================
+    # 4. TOC MACRO
+    # ==============================================================================
+    @env.macro
+    def render_global_toc():
+        docs_dir = env.conf['docs_dir']
+        toc_lines = []
+        md_files = sorted(glob.glob(os.path.join(docs_dir, '**', '*.md'), recursive=True))
+
+        for file_path in md_files:
+            if os.path.basename(file_path) == 'index.md' and os.path.dirname(file_path) == docs_dir:
+                continue
+
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+            except:
+                continue
+
+            rel_path = os.path.relpath(file_path, docs_dir).replace('\\', '/')
+            if rel_path.endswith('index.md'):
+                url = rel_path.replace('index.md', '')
+            else:
+                url = rel_path.replace('.md', '')
+
+            lines = content.split('\n')
+            for line in lines:
+                if line.startswith('# '):
+                    title = line.replace('# ', '').strip()
+                    toc_lines.append(f"- [{title}]({url})")
+                elif line.startswith('## '):
+                    sub = line.replace('## ', '').strip()
+                    anchor = sub.lower().replace(' ', '-').replace('?', '').replace(':', '')
+                    toc_lines.append(f"    - [{sub}]({url}#{anchor})")
+        
+        return "\n".join(toc_lines)
