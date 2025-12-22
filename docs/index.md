@@ -7,9 +7,9 @@ hide:
 # Designed to Fail: Dashboard
 
 ## Visual Data Summary
-{{ ALL_CHARTS }}
+{{ render_dashboard() }}
 
 ---
 
 ## Report Structure
-{{ GLOBAL_TOC }}
+{{ render_global_toc() }}
