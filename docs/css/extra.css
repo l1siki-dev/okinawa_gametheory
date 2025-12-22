@@ -94,25 +94,3 @@ article h1 .share-button svg {
     break-inside: avoid; /* Prevents cutting inside columns */
 }
 
-/* Container for the chart */
-.chart-container {
-    background: var(--md-code-bg-color); /* Light grey background */
-    border: 1px solid var(--md-default-fg-color--lightest);
-    border-radius: 8px;
-    padding: 10px;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
-}
-
-/* Force the chart inside the card to resize */
-.chart-container .lazy-chart {
-    width: 100% !important; /* Override hardcoded width */
-    height: 400px !important; /* Smaller height for dashboard view */
-    max-width: 100%;
-}
-
-.caption {
-    text-align: right;
-    font-size: 0.8rem;
-    margin-top: 0.5rem;
-    color: var(--md-default-fg-color--light);
-}
