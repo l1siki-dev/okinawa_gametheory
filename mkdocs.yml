@@ -52,7 +52,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon-32x32.png
+  favicon: docs/assets/icon_kikkosuperbold_kuro2.svg
   icon:
     logo: logo
 
