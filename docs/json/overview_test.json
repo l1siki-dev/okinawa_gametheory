@@ -5,19 +5,84 @@
       "type": "shadow"
     }
   },
-  "yAxis": {
-    "type": "category",
-    "data": [
-      "Tokyo (3.1%)", "Kanagawa (3.2%)", "Osaka (4.2%)", "Aichi (4.4%)", "Saitama (4.5%)",
-      "Shizuoka (6.5%)", "Ibaraki (6.9%)", "Hyogo (7.7%)", "Chiba (8.3%)", "Gunma (8.6%)",
-      "Tochigi (8.9%)", "Shiga (8.9%)", "Kyoto (9.6%)", "Hiroshima (9.7%)", "Okayama (10.0%)",
-      "Fukuoka (10.4%)", "Nagano (10.8%)", "Mie (11.2%)", "Nationwide (11.5%)", "Gifu (12.8%)",
-      "Kagawa (13.5%)", "Ehime (14.4%)", "Ishikawa (15.2%)", "Nara (15.7%)", "Yamanashi (16.6%)",
-      "Yamaguchi (17.4%)", "Toyama (17.6%)", "Fukui (18.6%)", "Tokushima (19.4%)", "Miyagi (20.3%)",
-      "Niigata (21.4%)", "Aomori (22.4%)", "Saga (23.4%)", "Wakayama (23.8%)", "Yamagata (24.4%)",
-      "Oita (24.6%)", "Hokkaido (25.6%)", "Kochi (27.2%)", "Tottori (31.7%)", "Shimane (31.8%)",
-      "Akita (34.3%)", "Iwate (35.6%)", "Miyazaki (37.5%)", "Nagasaki (37.9%)", "Kagoshima (38.7%)",
-      "Kumamoto (41.1%)", "Okinawa (107.6%)"
+  yAxis: {
+    type: 'category',
+    inverse: true,
+    // 1. Set the default color for all labels to a lighter grey
+    axisLabel: {
+      color: '#999999', 
+      formatter: function (value) {
+        // List of labels you want to highlight
+        const importantList = [
+          "Okinawa (107.6%)",
+          "Hokkaido (25.6%)",
+          "Nationwide (11.5%)",
+          "Tokyo (3.1%)"
+        ];
+        
+        // If the current label is in the list, apply the 'strong' style
+        if (importantList.includes(value)) {
+          return '{strong|' + value + '}';
+        }
+        return value;
+      },
+      // 2. Define the style for the highlighted labels
+      rich: {
+        strong: {
+          color: '#000',      // High contrast (Black)
+          fontWeight: 'bold', // Bold text
+          fontSize: 13        // Optional: slightly larger
+        }
+      }
+    },
+    data: [
+      "Okinawa (107.6%)",
+      "Kumamoto (41.1%)",
+      "Kagoshima (38.7%)",
+      "Nagasaki (37.9%)",
+      "Miyazaki (37.5%)",
+      "Iwate (35.6%)",
+      "Akita (34.3%)",
+      "Shimane (31.8%)",
+      "Tottori (31.7%)",
+      "Kochi (27.2%)",
+      "Hokkaido (25.6%)",
+      "Oita (24.6%)",
+      "Yamagata (24.4%)",
+      "Wakayama (23.8%)",
+      "Saga (23.4%)",
+      "Aomori (22.4%)",
+      "Niigata (21.4%)",
+      "Miyagi (20.3%)",
+      "Tokushima (19.4%)",
+      "Fukui (18.6%)",
+      "Toyama (17.6%)",
+      "Yamaguchi (17.4%)",
+      "Yamanashi (16.6%)",
+      "Nara (15.7%)",
+      "Ishikawa (15.2%)",
+      "Ehime (14.4%)",
+      "Kagawa (13.5%)",
+      "Gifu (12.8%)",
+      "Nationwide (11.5%)",
+      "Mie (11.2%)",
+      "Nagano (10.8%)",
+      "Fukuoka (10.4%)",
+      "Okayama (10.0%)",
+      "Hiroshima (9.7%)",
+      "Kyoto (9.6%)",
+      "Shiga (8.9%)",
+      "Tochigi (8.9%)",
+      "Gunma (8.6%)",
+      "Chiba (8.3%)",
+      "Hyogo (7.7%)",
+      "Ibaraki (6.9%)",
+      "Shizuoka (6.5%)",
+      "Saitama (4.5%)",
+      "Aichi (4.4%)",
+      "Osaka (4.2%)",
+      "Kanagawa (3.2%)",
+      "Tokyo (3.1%)"
     ]
   },
   "xAxis": {
