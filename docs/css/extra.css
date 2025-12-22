@@ -81,16 +81,35 @@ article h1 .share-button svg {
     }
 }
 
-/* Dashboard Grid Layout */
+/* --- Dashboard Grid Logic --- */
 .grid.cards {
     display: grid;
-    /* Responsive columns: at least 400px wide */
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); 
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     gap: 1.5rem;
-    margin-top: 1rem;
 }
 
-.grid-item {
-    break-inside: avoid; /* Prevents cutting inside columns */
+/* --- The Container Card --- */
+.homepage-chart-wrapper {
+    background: var(--md-code-bg-color);
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 8px;
+    padding: 10px;
 }
 
+/* --- THE MAGIC FIX --- */
+/* We target .lazy-chart ONLY when it is inside .homepage-chart-wrapper */
+.homepage-chart-wrapper .lazy-chart {
+    /* Force width to fit the grid card */
+    width: 100% !important; 
+    
+    /* Force height to be smaller for the dashboard */
+    height: 350px !important; 
+    
+    /* Ensure no overflow */
+    max-width: 100%;
+}
+
+/* Hide the 'Share' button on the dashboard to reduce clutter (optional) */
+.homepage-chart-wrapper .share-button {
+    display: none;
+}
