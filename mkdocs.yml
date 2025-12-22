@@ -52,16 +52,13 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: docs/assets/icon_kikkosuperbold_kuro2.svg
+  favicon: assets/icon_kikkosuperbold_kuro2.svg
   icon:
     logo: logo
 
 plugins:
   - search
   - macros
-  - redirects:
-      redirect_maps:
-        index.md: 01_Analysis/index.md
 
 hooks:
   - docs/python/strip_number_hook.py
