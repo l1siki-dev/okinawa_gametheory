@@ -9,7 +9,7 @@
 * viral compatibility
    * sns integration 
 
-* Use AI to mitigate halo effect.
+* Use AI to mitigate halo effect. -> use youtube
     * Opening line is "Ask ChatGPT to analyse Okinawa politics using sientific method"
     * It will "anchor" the perception of the reader hard. I don't have to hastle moving their common sense.
 
