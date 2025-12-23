@@ -23,7 +23,7 @@ article h1, article h2, article h3 {
     z-index: 2; 
     background-color: #3f51b5; /* Indigo */
     color: white !important;
-    opacity: 0.5;
+    opacity: 0.8;
     border: none;
     cursor: pointer;
 
