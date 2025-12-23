@@ -1,9 +1,11 @@
-# 6: "Ryukyu Kingdom was a peaceful Kingdom."
+# History Analysis: Ryukyu was bad, Satsuma was OK, Japan is the best. 
 
+* "Ryukyu Kingdom was a peaceful Kingdom."
 * "Ryukyu Kingdom was a great trader."
 * "Ryukyu Kingdom was a utopia."
 
 These "Beautiful Ryukyu Kingdom" stories are all fantasy.  
+
 The historical evidence tells that 
 * Ryukyu was not peaceful.
 * Ryukyu was not a great trader.

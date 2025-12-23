@@ -1,4 +1,4 @@
-# 9: Okinawa tourism is the future
+# Okinawa tourism isn't working
 
 If a core business strategy hasn't turned a profit in 50 years, yet you refuse to change course and demand more money to double down... that is not a 'Plan.' It is a Religion.  
 

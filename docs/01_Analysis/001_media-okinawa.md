@@ -1,6 +1,7 @@
-# 5: "Okinawa local newspaper is on Okinawans' side."
+# Incentive Analysis: Okinawa media dominate 99.43% narratives
 
-"Okinawa media is on Okinawans' side."  
+"Okinawa local newspaper is on Okinawans' side."
+
 This is a fantasy.  
 You might guess, "Are they secretly on Tokyo's side?"  
 If so, it would be fun. But no.  
@@ -10,7 +11,7 @@ They are newspaper companies.
 The profit is their goal.  
 Not the liberation of the Okinawa people.  
 
-## Estimation of Okinawa Local Newspaper Market Share: 99.43%
+## Start with Data: Estimation of Okinawa Local Newspaper Market Share: 99.43%
 **Data sources**
 * National Papers Data(Based on ABC data 2024/07 - 2024/12): [読売新聞: 読売新聞 MEDIA GUIDE　2025-2026（販売部数と読者データ）](https://adv.yomiuri.co.jp/media/files/9027_data2025.pdf)
 * Okinawa Times Data(2025, August): [株式会社タイムスアドネクスト: 沖縄タイムス部数のお知らせ](https://times-adnext.co.jp/news/detail/5914/)
@@ -95,7 +96,7 @@ If the problem is gone, their monopoly ends.
 Before 1995(when the Henoko became a problem), National papers had some share in Okinawa. This is from ABC, 1993 and 2025.  
 Asashi was the strongest among national newspapers, likely because of its relatively critical stance against Tokyo.  
 But even that, Asahi lost about 75% of its sales after the problem arose.  
-You can see Nikkei only lost 8% of its share, while others lost large amounts of their share. Because Nikkei is "compatible" with local newspapers. And national newspapers are imcompatible with local newspaper narratives.
+You can see Nikkei only lost 8% of its share, while others lost large amounts of their share. Because Nikkei is "compatible" with local newspapers. And national newspapers are incompatible with local newspaper narratives.
 Don't be distracted by another bait that claims "logistics to deliver newspapers is difficult". As Nikkei in 1993 had no partnership with Simpo on local production(started on 2008), and still had large sales, that claim is false or too weak. 
 
 | Newspaper | 1993 Circulation (Morning Edition) | 2024 Circulation (Morning Edition) | Change (1993-2024) |

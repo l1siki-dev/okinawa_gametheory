@@ -1,4 +1,6 @@
-# 4: "Politicians of Naha want to improve the economy of Okinawa."
+# Incentive Analysis: Politicians in Naha
+
+"Politicians of Naha want to improve the economy of Okinawa."
 
 Because tax revenue from the Okinawa economy is so tiny compared to money from Tokyo, they have zero, even negative, incentive to develop the local economy.  
 That's why they are obsessed with outsiders(where money comes from), but rarely provide real improvements for the people of Okinawa.  

@@ -1,4 +1,6 @@
-# 7: The US wouldn't agree with it
+# The US negotiation analysis: Japan have strong position
+
+The US wouldn't agree with it
 
 **The Reality:** If the US loses Japan, it is "Game Over" for American hegemony.  
 Their most important grand strategy is to control the Pacific, current mid-term goal is to contain China. This is impossible without Japan.  
@@ -14,6 +16,7 @@ In the past, the US moved the majority of its Marines to Okinawa. Why? Because O
 
 It is a declassified historical fact that the CIA secretly funded prominent Japanese politicians in the 1950s and 60s. Their goal was to keep anti-base socialists out of power and ensure the security treaty survived. **The US has always been terrified of Japanese public opinion turning against them.**
 
+## There will be no negotiation unless the majority of voters demand
 The only reason politicians don't negotiate for better terms today is simply that we, the Japanese majority, do not demand it.  
 As long as the majority stays silent, politicians have no incentive to rock the boat.  
 

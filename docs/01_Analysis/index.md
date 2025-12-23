@@ -1,13 +1,9 @@
----
-title: Designed to Fail
----
-# Designed to Fail: Why is Okinawa the poorest after 14.8 trillion yen in special development aid?
-© 2025 伊波りしき. This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+# Key data: the mechanism of Okinawa failures
 
 Based on selectorate theory, game theory, resource curse, aid curse, incentive analysis, and rational choice theory.
 
 ---
-## Key data: the mechanism of Okinawa failures 
+##  
 ## Desicion-corrupting dependency (Okinawa 107.6%; National avg 11.5%)
 Naha politicians' optimal financial strategy is vastly different from that of other prefectural governors.  
 Naha has small (or negative to get more aid) incentives to take care of the local economy, or a healthy local society that produces tax revenue.  

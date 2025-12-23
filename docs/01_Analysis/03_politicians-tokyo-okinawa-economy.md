@@ -1,6 +1,8 @@
-# 3: "Politicians of Tokyo want to improve the economy of Okinawa."
+# Why Nagata-chō want weak Okinawa
 
-You already know Nagata-cho actually wants the opposite, weak Okinawa. So they can be controlled.  
+"Politicians of Tokyo want to improve the economy of Okinawa."
+
+You already know Nagata-chō actually wants the opposite, weak Okinawa. So they can be controlled.  
 Here, we will explore **why** they want **absolute** control so badly. 
 They are not stupid. They know they could buy 1,000 long-range missiles every year for that money. 
 But they choose to weaken Okinawa, why? **What could be worth that amount of missiles?**
@@ -8,7 +10,7 @@ But they choose to weaken Okinawa, why? **What could be worth that amount of mis
 You might have guessed it, the bases.  
 You could be wrong.  
 
-Nagata-cho's fear is deeper than that.  
+Nagata-chō's fear is deeper than that.  
 The real reason they spent so much to ensure a weak Okinawa is to prevent **Okinawa independence**.  
 
 ## Rich = Independence ?: Catalonia case
@@ -31,7 +33,7 @@ It's the end of Japan's security. Important trades are going through near Okinaw
 The entire Pacific becomes a potential war zone because Okinawa is part of the "First Island Chain" that prevents the Chinese fleet from going Pacific.  
 Without maritime control, we have no future. We have no food. No oil. No resources. The stock price will vanish in one night. 
 
-This is the fundamental fear of Nagata-cho.  
+This is the fundamental fear of Nagata-chō.  
 This is why they want a weak and dependent Okinawa. 
 
 ## Preparing for the worst, we end up in a worse position
@@ -47,9 +49,9 @@ But the world is not only Japan. And we have a **non-democratic China now richer
 50 years ago, the plan might have looked perfect. But today, it looks catastrophic.  
 As I explained in "2/Poverty is a hole in our armor", poor citizens are vulnerable to influence from China.  
 
-Nagata-cho succeeded in securing a favorable economic balance between Okinawa and Tokyo by weakening Okinawa. But that's also shifting the economic balance between Okinawa and Beijing.  
+Nagata-chō succeeded in securing a favorable economic balance between Okinawa and Tokyo by weakening Okinawa. But that's also shifting the economic balance between Okinawa and Beijing.  
 
-Yes, preparing for the worst, Nagata-cho is stepping closer to the worst. 
+Yes, preparing for the worst, Nagata-chō is stepping closer to the worst. 
 And during the process, Japan was weakened because it was spending money to weaken Okinawa. While **China got weak Okinawa for free.**
 
 Did Tokyo plan the forever dependency plan 50 years ago? Maybe, maybe not. **It doesn't matter**.  

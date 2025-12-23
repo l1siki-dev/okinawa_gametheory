@@ -1,4 +1,6 @@
-# "The money you sent to Okinawa is for the Okinawa economy growth."
+# Incentive Analysis: Politicians in Tokyo
+
+"The money you sent to Okinawa is for the Okinawa economy growth."
 Every year, Tokyo hands Okinawa about 300 Billion Yen. They call it the "Okinawa Promotion Budget."
 It's been over **50 years**.  
 The total became roughly 14.8 Trillion Yen.  

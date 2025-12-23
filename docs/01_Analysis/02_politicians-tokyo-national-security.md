@@ -1,4 +1,6 @@
-# 2: "This is the cost of National Security. We have to pay it."
+# Not great way to ensure National Security
+
+"This is the cost of National Security. We have to pay it."
 
 If this is about National Security, we shouldn't pay 300 Billion Yen to Okinawa.  
 

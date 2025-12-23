@@ -1,4 +1,6 @@
-# 8: "If we help, they'll like us."
+# Psychology of Okinawa People 
+
+"If we help, they'll like us."
 
 Sadly, **this is not true.**
  
