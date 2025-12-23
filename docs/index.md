@@ -6,10 +6,9 @@ hide:
 
 # Designed to Fail: Dashboard
 
-## Visual Data Summary
 {{ render_dashboard() }}
 
 ---
 
-## Report Structure
+## Table of Contents
 {{ render_global_toc() }}
