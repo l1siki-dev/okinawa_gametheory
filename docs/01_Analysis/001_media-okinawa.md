@@ -11,6 +11,8 @@ They are newspaper companies.
 The profit is their goal.  
 Not the liberation of the Okinawa people.  
 
+And they want to keep the Okinawa problem forever to protect their business. 
+
 ## Start with Data: Estimation of Okinawa Local Newspaper Market Share: 99.43%
 **Data sources**
 * National Papers Data(Based on ABC data 2024/07 - 2024/12): [読売新聞: 読売新聞 MEDIA GUIDE　2025-2026（販売部数と読者データ）](https://adv.yomiuri.co.jp/media/files/9027_data2025.pdf)

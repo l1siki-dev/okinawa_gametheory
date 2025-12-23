@@ -1,4 +1,4 @@
-# Incentive Analysis: Politicians in Naha
+# Incentive Analysis: Naha doesn't care about local economy
 
 "Politicians of Naha want to improve the economy of Okinawa."
 
