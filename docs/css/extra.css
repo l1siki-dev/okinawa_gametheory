@@ -7,8 +7,14 @@ article h1, article h2, article h3 {
     /* Move slightly to the left to make room for the bullet if you want 
        hanging indentation, otherwise leave as is. */
 }
-
+/* 2. Ensure the wrapper handles the scroll bar */
+/* This overrides any inherited clipping */
 .chart-wrapper {
+    overflow-x: auto !important;
+    width: 100%;
+    
+    /* Optional: Smooth scrolling for touch devices */
+    -webkit-overflow-scrolling: touch; 
     z-index: 1; 
 }
 
@@ -92,8 +98,11 @@ article h1 .share-button svg {
     margin-top: 1rem;
 }
 
+/* 3. Fix the Dashboard Card clipping */
+/* The dashboard card was hiding the overflow content */
 /* The Card */
 .dashboard-card {
+    overflow: visible !important; /* Allow the inner scrollbar to work */
     background: var(--md-code-bg-color); /* Matches theme background */
     border: 1px solid var(--md-default-fg-color--lightest);
     border-radius: 0.5rem;
@@ -121,9 +130,8 @@ article h1 .share-button svg {
 
 /* Card Content (The Chart) */
 .card-content {
-    padding: 1rem;
-    /* If you want the chart to scroll if it's too wide for the card: */
-    overflow-x: auto; 
+    overflow-x: hidden; /* Prevent double scrollbars, let chart-wrapper handle it */
+    padding: 0.5rem;    /* Reduce padding on mobile to save space */
 }
 
 /* Optional: Ensure the internal chart wrapper doesn't have huge margins in the card */
@@ -131,3 +139,10 @@ article h1 .share-button svg {
     margin: 0 !important;
     border: none !important;
 }
+
+.lazy-chart {
+    min-width: 800px !important; 
+}
+
+
+
