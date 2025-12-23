@@ -78,7 +78,7 @@ I don't want to swim in SNS algorithm hell again.
 I didn't write this report in a vacuum.  
 Without the two exceptional minds, I couldn't figure out Okinawa.  
 
-### Bruce Bueno de Mesquita(BDM), professor at New York University: The man who solved politics by math.  
+## Bruce Bueno de Mesquita(BDM), professor at New York University: The man who solved politics by math.  
 For those who want to know about the scientific analysis of politics, including corporate politics, I recommend "The Logic of Political Survival" by Bruce Bueno de Mesquita.  
 It's free and available online.  
 * [https://www.researchgate.net/publication/227458612_The_Logic_of_Political_Survival](https://www.researchgate.net/publication/227458612_The_Logic_of_Political_Survival)   
@@ -102,7 +102,7 @@ The ability to read/write English is not enough.
 Translation is a low-paying, non-creative job. Those who possess high skills as an original author prefer more creative, high-paying jobs. 
 So, structurally, Japanese readers have a near-zero chance of accessing truly sophisticated foreign ideas with good translation. 
 
-### Perun: the PowerPoint Warrior.  
+## Perun: the PowerPoint Warrior.  
 
 If you want to understand the reality of Japan's defense without the 'Right vs. Left' 'Peace vs. War' ideology, you must watch Perun.  
 He strips away the emotion and asks: 'Does Japan actually have the money and the people to defend itself?'

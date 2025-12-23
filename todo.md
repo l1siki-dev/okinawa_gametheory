@@ -28,7 +28,7 @@
 
 
 
-### memo
+## memo
 * Focus on spreaders as the target audience. not the mass.
 
 input prompt example.

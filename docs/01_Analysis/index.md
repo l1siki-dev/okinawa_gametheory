@@ -8,7 +8,7 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 
 ---
 ## Key data: the mechanism of Okinawa failures 
-### Desicion-corrupting dependency (Okinawa 107.6%; National avg 11.5%)
+## Desicion-corrupting dependency (Okinawa 107.6%; National avg 11.5%)
 Naha politicians' optimal financial strategy is vastly different from that of other prefectural governors.  
 Naha has small (or negative to get more aid) incentives to take care of the local economy, or a healthy local society that produces tax revenue.  
 
@@ -20,7 +20,7 @@ Naha has small (or negative to get more aid) incentives to take care of the loca
 [Explanation and full data here](#okinawa-is-the-permanent-disaster-zone-financially)    
 
 ---
-### Malfunctioning Tourism: Profit comparison
+## Malfunctioning Tourism: Profit comparison
 
 Okinawa has been trying the 'Tourism Strategy' since the Ocean Expo in 1975. That is 50 Years.
 If a core business strategy hasn't turned into a profit in 50 years, yet you refuse to change course and demand more money to double down... that is not a 'Plan.' It is a Religion.  
@@ -33,7 +33,7 @@ The terminology here is following the document from Okinawa govt.
 [Explanation and full data here](#the-profit-vs-the-revenue-stasstical-deception-to-mix-different-figures)    
 
 ---
-### Okinawa local newspaper's political narrative market share: 99.43%
+## Okinawa local newspaper's political narrative market share: 99.43%
 
 They read the local papers not for information, but for validation. They need daily confirmation that they are the protagonists of a tragedy, not the recipients of a subsidy.
 The 99.4% share is the measure of how desperate that psychological need is.
@@ -46,7 +46,7 @@ Nikkei was excluded because of a narrative comparison on politics. Also, Nikkei 
 [Explanation and full data here](#estimation-of-okinawa-local-newspaper-market-share-9943)
 
 ---
-### Actions and statements are not aligned
+## Actions and statements are not aligned
 The three players in the Henoko project show behavior not aligned with their stated intention.  
 We have to know the real intent of these three.
 

@@ -2,12 +2,12 @@
 
 We have talked enough about the problem. Let’s talk about the future.  
 
-### Future 1. Tourism is a side business.  
+## Future 1. Tourism is a side business.  
 As we saw in "9", it has no future.  
 No investment in tourism from today.  
 But, natural visitors likely stay strong. Just let the market handle it.  
 
-### Future 2. The True Talent: "Masters of Fiction" that fuel the Creative Digital Industry.  
+## Future 2. The True Talent: "Masters of Fiction" that fuel the Creative Digital Industry.  
 So, what can Okinawa sell to the world?
 What natural resources of the Okinawans uniquely have?
 
@@ -41,7 +41,7 @@ These are products you can sell to New York, London, and Paris instantly.
 
 Software has no shipping costs. It doesn't care that Okinawa is an island. It doesn't need a deep-water port.  
 
-### Future 3. The Physical Bottleneck: Car-free living for people and business.  
+## Future 3. The Physical Bottleneck: Car-free living for people and business.  
 But to unleash this Digital Industry, we need the right environment.  
 A Digital City requires density. Programmers, artists, and designers need to meet, mix, and collaborate.  
 
@@ -59,7 +59,7 @@ People of Okinawa have to pay billions of yen to Toyota and Saudi Arabia every y
 
 To build a creative city on a small island, we must kill the Car Dependency.  
 
-### Future 4. Introduce Trains: Convert 2 lanes of Route 58 into a High-Speed Tram.  
+## Future 4. Introduce Trains: Convert 2 lanes of Route 58 into a High-Speed Tram.  
 
 Before I talk about this, I want to quickly mythbust "The most valuable land is taken by the US".  
 Southern Plateau (where Naha is): 150 - 200 km². The US Presence is near zero.  
@@ -87,7 +87,7 @@ Connect Naha to Chatan in 20 minutes.
 It requires no US permission. It requires no tunnels.  
 It only requires the courage to say 'No' to the Car society.  
 
-### Future 5. The "Tax-Free" Digital Zone
+## Future 5. The "Tax-Free" Digital Zone
 Once we have the Rail, we stop the "Construction Subsidies" (The 300 Billion Yen). Entirely.  
 We replace it with a **Special Tax-Free Zone.**
 
@@ -97,7 +97,7 @@ We replace it with a **Special Tax-Free Zone.**
 We use the "Aid" money to cover the tax gap.  
 This will attract talent from Tokyo, Taiwan, and Singapore.  
 
-### Future 6. dismisses the media cartel
+## Future 6. dismisses the media cartel
 
 The current generation of people of Okinawa is 'educated' from birth by local media under total control.  
 The invisible hand can't fix this 'educated' market.  
@@ -126,7 +126,7 @@ If a newspaper, or collective, has >80% market share in a prefecture, it should 
 Addressing media dominance is essential, and we can take numerous measures that I can't list here. 
 I leave that to you and professional regulators. 
 
-### Future 7. The Institution: Human Resource Exchange.  
+## Future 7. The Institution: Human Resource Exchange.  
 "第６次沖縄県観光振興基本計画" [https://ghostarchive.org/archive/2Sjv5](https://ghostarchive.org/archive/2Sjv5)   
 I talked about how bad this "Basic Plan" is. In short, it's not a plan. It's at best a diary.  
 After reading the PDF. I find the deeper problem. 
@@ -146,7 +146,7 @@ Okinawa needs a complete Human Resources overhaul.
 Okinawa needs to exchange its bureaucrats with other prefectures.  
 Okinawa needs cold, hard eyes from the outside to be audited.  
 
-### Future 8. The language: An International hub needs to be bilingual
+## Future 8. The language: An International hub needs to be bilingual
 
 This is optional.  
 
@@ -157,7 +157,7 @@ You might think "There is no room" to teach English, but statistics show bilingu
 It's likely beneficial to aim for bilingual, even if we consider the opportunity cost. 
 Japan's English education is outdated. Okinawa can become the frontier for real English education that boosts the productivity of all of Japan.  
 
-### Future 9. Abolish the development aid
+## Future 9. Abolish the development aid
 
 **Stop it.**
 This is the most important.  
@@ -166,7 +166,7 @@ It's time for Okinawa to get real economic independence.
 So we have to cut the promotion budget even if they scream. We had to.  
 Of course, don't cut the regular aid that keeps the Okinawa government running.  
 
-### Conclusion: Creative Digital Industry with beautiful Beaches
+## Conclusion: Creative Digital Industry with beautiful Beaches
 *   Okinawa stops relying on the "Cheap Beach" trade.  
 *   Okinawans do not have to pay for expensive cars.  
 *   Okinawans get high-paying creative jobs.  
@@ -194,7 +194,7 @@ We saw a bright hope that Okinawa can be the beacon of creativity, with beautifu
 I want to say the most important thing:
 **Do not hunt for villains.**
 
-### Do not hunt for villains. There are no villains, just true believers who believed bad data.  
+## Do not hunt for villains. There are no villains, just true believers who believed bad data.  
 
 As I explained, they are doing what's best for them. And that shouldn't be punished.  
 They believed they were doing the right thing. They are not evil people.  
@@ -220,7 +220,7 @@ We will not give them time to entrench.
 
 **We start dismantling this show today. Here and now.**
 
-### We start now, but how?: By entering the game.  
+## We start now, but how?: By entering the game.  
 
 I told you that we, "the Japanese majority," are the strongest player.  
 It means **you** are the boss.  
@@ -234,7 +234,7 @@ To make the majority support this idea, we have to deliver this idea to them.
 Japan is an old country. Not everyone has access internet, SNS, or YouTube.  
 We need mass media on our side. Nationwide TVs and nationwide newspapers are necessary to secure the majority.  
 
-### The Strategy: Setting the comfortable ground for the mass media
+## The Strategy: Setting the comfortable ground for the mass media
 
 Japanese newspapers have a unique system that makes them loosely collective. The system is called the Kisha Club.  
 If one media moves too fast, it will be punished by others.  

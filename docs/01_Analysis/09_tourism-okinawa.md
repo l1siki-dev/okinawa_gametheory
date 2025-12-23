@@ -19,7 +19,7 @@ Quick summary
 * The Okinawa government likely knows tourism will not work.  
 * Okinawa government's official plan for tourism, "第６次沖縄県観光振興基本計画", can be seen as a confession of giving up.  
 
-### The Hard Truth: Why Tourism is a Dead End
+## The Hard Truth: Why Tourism is a Dead End
 
 Okinawa has been trying the 'Tourism Strategy' since the Ocean Expo in 1975.  
 That is 50 Years.  
@@ -35,7 +35,7 @@ We can't do this anymore. Japan is a falling economic power. We have to be effic
 Politicians love to scream "Tourism Nation!"
 But let’s look at the cold, hard reality of Okinawa’s tourism "weapon."
 
-### **The only weapon Okinawa Tourism has is "The Beach."**: it can't attract wealthy Europeans(Americans)
+## **The only weapon Okinawa Tourism has is "The Beach."**: it can't attract wealthy Europeans(Americans)
 
 And that is the problem.  
 In the global market, a beach is a **Commodity.** It is not unique.  
@@ -47,7 +47,7 @@ Kyoto has 1,000 years of history. That is a **Monopoly.** You cannot find anothe
 Okinawa does not have that monopoly.  
 Also, season. Kyoto can operate 365 days. Okinawa beaches can operate about 140 – 150 Days a year, because of winter and weather.  
 
-### Beach comparison: Okinawa, Bali, and Hawaii: The wall too high to climb.
+## Beach comparison: Okinawa, Bali, and Hawaii: The wall too high to climb.
 
 | Feature | **Okinawa (Japan)** | **Bali (Indonesia)** | **Honolulu(Hawaii)** |
 | :--- | :--- | :--- | :--- |
@@ -62,7 +62,7 @@ We can't change the weather.
 Okinawa has the clearest sea among the three. So it's great for diving.  
 The problem is that most people do not dive; it requires a license. 
 
-### **Who comes to Okinawa?**: Only from pyshicaly close countries without beaches. 
+## **Who comes to Okinawa?**: Only from pyshicaly close countries without beaches. 
 
 Mainly tourists from Taiwan and Korea, they make up roughly 90% of inbound tourists.  
 Why? Not because it’s the "Best Beach in the World."
@@ -74,14 +74,14 @@ There is no room for growth here.
 You cannot attract wealthy Europeans or Americans to fly 20 hours just for a beach they can find in Florida or Spain.  
 We are trapped in a "Regional Budget Tourism" market.  
 
-### **The math simply doesn't work**: Too many people to feed. Taiwanese and Koreans can't do this.
+## **The math simply doesn't work**: Too many people to feed. Taiwanese and Koreans can't do this.
 
 Okinawa has a population of **1.46 Million.**
 You cannot feed 1.46 million people by selling shaved ice to budget tourists from Taiwan.  
 Tourism works for a small island of 50,000 people. It creates poverty for a prefecture of 1.5 million.  
 We need something scalable. We need something global. We need something Okinawa can sell to the entire world.  
 
-### Tourism is the reason for the poverty: Creating low-wage workers
+## Tourism is the reason for the poverty: Creating low-wage workers
 Financial Capability Index (財政力指数). Okinawa is consistently ranked #47 (Dead last) or close to it.  
 Okinawa has the lowest minimum wage in Japan (currently ~896-950 JPY range, depending on recent hikes, always fighting for last place).  
 Tourism creates jobs that pay so little that the workers pay almost no Residence Tax (住民税) or Income Tax (所得税).  
@@ -101,7 +101,7 @@ We are not running an industry. We are running a Deficit Machine.
 Not only people, but the tourism infrastructure creates the deficit. 
 The more tourists we accept, the poorer the prefecture becomes because every new low-wage job increases the social burden without increasing the tax revenue.  
 
-### The profit estimation: ROI disaster (Estimated tourism profit is 68.2 Billion Yen)
+## The profit estimation: ROI disaster (Estimated tourism profit is 68.2 Billion Yen)
 > 沖縄県の観光収入はコロナ禍からV字回復し、2024年度速報値で過去最高額の9835億円を記録
 
 Let's estimate the profit.  
@@ -150,7 +150,7 @@ This is called "Economic Leakage." For island economies, leakage is often 70-80%
 14.8 Trillion Yen (14兆8,000億円) invested since 1972. Okinawa spent it under the justification of tourism.  
 And it created the "best" industry in the prefecture that profits only 70B(700億) a year.  
 
-### Irabu Bridge: The Trojan Horse of "Luxury Tourism."
+## Irabu Bridge: The Trojan Horse of "Luxury Tourism."
 
 The Irabu Bridge is not just a bridge. It is the "Patient Zero" of the luxury tourism infection.  
 Opened in 2015, it connects Miyako Island to Irabu Island.  
@@ -187,7 +187,7 @@ The local tax revenue cannot cover it. So, Okinawa must beg Tokyo for more subsi
 This keeps Okinawa in a state of permanent dependency.  
 We are not building assets; we are building liabilities that chain us to Tokyo forever.  
 
-### **Luxury tourism is dangerous: Native Hawaiians can't live on the ancestor's island**
+## **Luxury tourism is dangerous: Native Hawaiians can't live on the ancestor's island**
 
 Some of you say, "Okay, cheap tourism is bad. So let's target the wealthy. Let's be like Hawaii."
 So many problems here, one is that Hawaii is too close; Okinawa has to compete with Hawaii if it chooses this path.  
@@ -229,7 +229,7 @@ Is that the dream? To be servants of the rich outsiders in the island where your
 
 Do you think the people of Okinawa deserve that?
 
-### **Luxury tourism is a tool of Assimilation**
+## **Luxury tourism is a tool of Assimilation**
 
 We often talk about "Assimilation" as something from the past—when they banned our dialect or forced us to bow to the Emperor.  
 But the modern tool of assimilation is much more efficient, and much more dangerous.  
@@ -259,7 +259,7 @@ Do you think the people of Okinawa deserve that?
 If you support the 'Hawaii Model,' you are not planning for Okinawa's prosperity.  
 You are planning for the replacement of Okinawans.  
 
-###  **Tourism is an excuse to not plan a real business plan**
+##  **Tourism is an excuse to not plan a real business plan**
 
 If you have ever started a business or worked on a new B2C project, you know the first thing you should do is determine how many potential customers there are.  
 The next thing you want to do is assess competitors.  
@@ -271,7 +271,7 @@ Likely explanation here is that they did, and they know that tourism doesn't wor
 Tourism lets you say, "We will draw people from everywhere. Because our land is beautiful!"
 It's a comfortable story. But not true. 50 years of failure is enough to prove that.  
 
-### **Okinawa government's "plan" is... diary?**
+## **Okinawa government's "plan" is... diary?**
 Actually, I find their "Basic Plan" for tourism.  
 I'm excited to hear the best pitch from the Tourism Prefecture of Okinawa.  
 Who has been practicing tourism as its main business for 50 years, since 1975, Ocean Expo.  
@@ -305,7 +305,7 @@ No Plan.
 They have no proof that tourism works.  
 
 
-###  Okinawa tourism is defeated by Fukuoka.  
+##  Okinawa tourism is defeated by Fukuoka.  
 
 This is the only meaningful data from the "第６次沖縄県観光振興基本計画" I could find.  
 "2019 年都道府県別でみる外国人観光客数ランキングの上位の 10 位内に福岡県が８位（206.8 万人）、沖縄県が 10 位（172.8 万人）にランクインしている。"
@@ -315,7 +315,7 @@ Fukuoka is not even trying to be a "Tourism Kingdom".
 Apologists will say Fukuoka counts cruise ships and business travelers. But that is the point. Fukuoka has a real economy that attracts business travelers. Okinawa has only a resort economy that cannot even beat a regional city's side-hustle tourism.  
 People come where real life exists; Kyoto, Tokyo, and Fukuoka are examples. Artificial tourism rarely works.  
 
-### Statistical illusion to reframe the aid size: deceptive "Tourism is bigger than military base rent"
+## Statistical illusion to reframe the aid size: deceptive "Tourism is bigger than military base rent"
 They don't provide proof that "tourism works."
 But I find the proof that "tourism isn't working."
 第5次沖縄県観光振興基本計画改定版 page 14.  
@@ -333,7 +333,7 @@ With their made-up conceptual statistical data.
 And "近年は、概ね横ばいである。" 
 The document says tourism isn't working. 
 
-###  "その他(others)" is actually aid from Tokyo.: Stasstical deception to hide aid.  
+##  "その他(others)" is actually aid from Tokyo.: Stasstical deception to hide aid.  
 And "その他(others)" 18.8%?, with no explanation? 
 Because they don't explain it, I'll explain it. It's Social Security from Tokyo.  
 They presented the data in a way that obscures the truth. By dumping huge reliance on Tokyo into vague categories like 'Others' or separating Social Security from 'Aid,' they dilute the visual impact of the dependency.  
@@ -353,7 +353,7 @@ But seems they are not counted in the graph.
 Also, I'm sure that they actually got more external aid in a different form. And they are not calculating that.  
 And after all the bureaucratic camouflage, they still proved that tourism isn't working.  
 
-### The profit vs. The revenue: Stasstical deception to mix different figures.
+## The profit vs. The revenue: Stasstical deception to mix different figures.
 The graph from page 14 has another deceptive mechanism.  
 They are mixing the profit and revenue in the same graph.  
 県外から財政への移転(Fiscal Transfers): Pure Profit (Net Cash Injection)
@@ -375,7 +375,7 @@ We will convert everything to **"Net Economic Gain"** (Profit/Surplus) to make t
     *   *Real Gain (~5% margin):* **3.3 Billion Yen**
 
 
-### I fixed the graph for them. Profit comparison: Tourism only generates 1.9%; money from Tokyo and Military rent is 97.9%.  
+## I fixed the graph for them. Profit comparison: Tourism only generates 1.9%; money from Tokyo and Military rent is 97.9%.  
 
 Here is what the relative share looks like when you compare Profit to Profit:
 
@@ -399,7 +399,7 @@ When you fix the math:
 
 This graph in the PDF is not just a mistake; it is fraudulent accounting designed to hide the fact that the entire tourism industry creates less net wealth for the island than the Military land rents do.  
 
-###  They know that tourism isn't working.: but insist to go further
+##  They know that tourism isn't working.: but insist to go further
 
 And we hand them **300 Billion Yen** to manage. Every year.  
 They say with a straight face, "Tourism is working!"
@@ -415,7 +415,7 @@ You see, no future for tourism.
 Even the Okinawa government knows it.  
 The Basic Plan is the confession. They have given up.  
 
-### Conclusion: Stop the aid. Also, stop using money on tourism.  
+## Conclusion: Stop the aid. Also, stop using money on tourism.  
 * The aid is one of the reasons that they use tourism to waste money.  
 * Military rent alone is generating a profit 6 times higher than tourism. The combined external aid is at least 51 times bigger than the tourism profit(and "combined" does not include every external aid, since I was using Okinawa prefecture's terminology).  
 * Return on Investment (ROI) is disastrous. Okinawa tourism industry's estimated operational profit is tiny ~68.2 Billion Yen(2024), despite substantial investment.  

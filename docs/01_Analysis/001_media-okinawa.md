@@ -10,7 +10,7 @@ They are newspaper companies.
 The profit is their goal.  
 Not the liberation of the Okinawa people.  
 
-### Estimation of Okinawa Local Newspaper Market Share: 99.43%
+## Estimation of Okinawa Local Newspaper Market Share: 99.43%
 **Data sources**
 * National Papers Data(Based on ABC data 2024/07 - 2024/12): [読売新聞: 読売新聞 MEDIA GUIDE　2025-2026（販売部数と読者データ）](https://adv.yomiuri.co.jp/media/files/9027_data2025.pdf)
 * Okinawa Times Data(2025, August): [株式会社タイムスアドネクスト: 沖縄タイムス部数のお知らせ](https://times-adnext.co.jp/news/detail/5914/)
@@ -48,7 +48,7 @@ Nikkei usually only provides economic stories, so it is not an obstacle for the 
 *   **Total "Political/General" Market**: 247,893 + 1,418 = **249,311** copies.  
 *   **Market Share (Local Papers vs. General Nationals)**: (247,893 / 249,311) * 100 = **99.43%**
 
-### The comparison with Tokushima: 99.4% vs. 90.7%
+## The comparison with Tokushima: 99.4% vs. 90.7%
 
 Tokushima is often cited for the strongest local newspaper presence in Japan, excluding Okinawa. (Edit: I realized that, after examining 福井一喜's paper, Kouchi is the second, but the numbers on Kouchi and Tokushima are very close. Okinawa is a sole outlier by a large margin, even if Kouchi is the barometer.)
 So I made the same calculations for Tokushima to make things clear. All data is from 読売新聞 MEDIA GUIDE　2025-2026. The same data source that used for the Okinawa estimation. And Tokushima Shinbun is the only local newspaper from Tokushima that is registered in NSK (日本新聞協会).  
@@ -70,7 +70,7 @@ So I made the same calculations for Tokushima to make things clear. All data is 
 
 **Comparison conclusion:** The gap is immense. A **90.7%** share in Tokushima is a sign of overwhelming local dominance. But, Tokushima Shinbun still has to compete to some degree. A **99.4%** share in Okinawa is a sign of something else entirely: the near-total exclusion of the mainland Japanese political narrative from the print media landscape.  
 
-### Okinawa local newspaper dominance is an anomaly in Japan.  
+## Okinawa local newspaper dominance is an anomaly in Japan.  
 
 The result is 99.4%. If we count Nikkei as the same as other national newspapers, 97.8%.  
 
@@ -90,7 +90,7 @@ They are incredibly successful. Other local papers would beg to ask them their s
 The secret is **this entire conflict**.  
 If the problem is gone, their monopoly ends.  
 
-### ABC Data shows the national newspaper presence collapsed after 1993
+## ABC Data shows the national newspaper presence collapsed after 1993
 
 Before 1995(when the Henoko became a problem), National papers had some share in Okinawa. This is from ABC, 1993 and 2025.  
 Asashi was the strongest among national newspapers, likely because of its relatively critical stance against Tokyo.  
@@ -112,7 +112,7 @@ The combined circulation of these four papers fell by **2,469 copies**, a stagge
 It was a gold rush. It was a gift from god. Or from the American soldiers.  
 They got the righteous casus belli to eradicate their competitors.  
 
-### Under the 99.4% narrative monopoly
+## Under the 99.4% narrative monopoly
 
 Local newspapers become the only truth in Okinawa. 
 To stand against them, you hate Okinawa.  
@@ -134,7 +134,7 @@ They love to promote the narrative of "Okinawa vs Japan" that is structurally un
 Yes, they actually don't want bases to be removed.  
 It's a rational corporate strategy.  
 
-### Not only newspapers. TV and the governor are owned by them.  
+## Not only newspapers. TV and the governor are owned by them.  
 
 And TV.  
 In Okinawa, there are three commercial TV broadcasters. They are not independent; they are family with the newspapers.  
@@ -148,7 +148,7 @@ Okinawa is literally a show run by local media.
 Governor, Newspaper, TV, all owned by the entity with a unified ideology.  
 I call this the "Okinawa Cartel".  
 
-### Okinawa is Little Russia; Politics resembles Putin's Russia
+## Okinawa is Little Russia; Politics resembles Putin's Russia
 
 You may think I am joking. You may feel angry if you are Okinawan. 
 It is one of the worst insults one could say today.  
@@ -175,7 +175,7 @@ Now the governor, who is from local media, sends tax money to these local media 
 They are so successful that they capture the prefecture.  
 People of Okinawa pay tax for the "infinite conflict machine" that keeps them suffering and poor.  
 
-### Conclusion: Stop the aid.  
+## Conclusion: Stop the aid.  
 * Cut the aid that is part of the reason for the media and poor Okinawa.  
 * Give Okinawans a real history education. They only get the national standard one, and nobody in Okinawa knows the real history of Okinawa. That's * why the media can say "we are the only truth and we are all saints". The history is not that long; 10 hours would suffice to cover the entirety in detail.  
 * Illegalize the extreme concentration of power, which Okinawa is currently doing. You don't want to have more Russia; one is already too much.  
