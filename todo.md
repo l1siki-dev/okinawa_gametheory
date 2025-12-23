@@ -1,4 +1,4 @@
-# v0.3
+# v0.3.1
 * ~Choose License~
 
 * ~mermaidjs~
