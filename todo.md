@@ -1,6 +1,8 @@
 # v0.3
 * ~Choose License~
 
+* read Smart Brevity
+
 * ~mermaidjs~
 * chart.js and mkdoc
     * visualize table data
