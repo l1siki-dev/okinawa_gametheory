@@ -4,11 +4,11 @@ hide:
   - toc
 ---
 
-# Designed to Fail: Key Data
+# Overview
 
 {{ render_dashboard() }}
 
 ---
 
-## Designed to Fail: Table of Contents
+## Table of Contents
 {{ render_global_toc() }}
