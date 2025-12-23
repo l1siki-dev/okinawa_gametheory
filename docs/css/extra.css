@@ -145,4 +145,8 @@ article h1 .share-button svg {
 }
 
 
+/* Hide the 'Share' button on the dashboard to reduce clutter (optional) */
+.dashboard-card .share-button {
+    display: none;
+}
 
