@@ -6,7 +6,10 @@
     * visualize table data
     * separate table data to different file
 
- * Use AI to mitigate halo effect.
+* viral compatibility
+   * sns integration 
+
+* Use AI to mitigate halo effect. -> use youtube
     * Opening line is "Ask ChatGPT to analyse Okinawa politics using sientific method"
     * It will "anchor" the perception of the reader hard. I don't have to hastle moving their common sense.
 
@@ -15,7 +18,18 @@
     * Okinawa's economical/political similality with resouce curse state
     * Life-expectancy comparison
 
-* create repo for Japanese audience.
+* create entrance page
+
+## future plan
+* multilanguage support
+* patoreon
+* youtube video
+   
+
+
+
+### memo
+* Focus on spreaders as the target audience. not the mass.
 
 input prompt example.
 ```
@@ -28,5 +42,3 @@ input prompt example.
 3. 「中央政府からの開発支援金」と「地元税」との比率（全国とくらべて）
 4. 沖縄地元紙の市場シェア
 ```
-### memo
-* Focus on spreaders as the target audience. not the mass.

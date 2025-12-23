@@ -1,0 +1,152 @@
+/* Layout headers to allow the button to act as a bullet */
+article h1, article h2, article h3 {
+    z-index: 1; 
+    display: flex !important;
+    align-items: center;
+    position: relative;
+    /* Move slightly to the left to make room for the bullet if you want 
+       hanging indentation, otherwise leave as is. */
+}
+/* 2. Ensure the wrapper handles the scroll bar */
+/* This overrides any inherited clipping */
+.chart-wrapper {
+    overflow-x: auto !important;
+    width: 100%;
+    
+    /* Optional: Smooth scrolling for touch devices */
+    -webkit-overflow-scrolling: touch; 
+    z-index: 1; 
+}
+
+/* The Indigo Bullet Button */
+.share-button {
+    z-index: 2; 
+    background-color: #3f51b5; /* Indigo */
+    color: white !important;
+    opacity: 0.8;
+    border: none;
+    cursor: pointer;
+
+    /* Sizes */
+    width: 26px;
+    height: 26px;
+    min-width: 26px; /* Prevent shrinking in flexbox */
+    
+    /* Spacing - acting as a bullet point */
+    margin-right: 12px;
+    
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+    transition: transform 0.2s, background-color 0.2s, box-shadow 0.2s;
+    z-index: 5;
+}
+
+/* Adjust button size slightly for the main H1 title */
+article h1 .share-button {
+    width: 32px;
+    height: 32px;
+    min-width: 32px;
+    margin-right: 15px;
+}
+
+.share-button svg {
+    width: 14px;
+    height: 14px;
+}
+article h1 .share-button svg {
+    width: 18px;
+    height: 18px;
+}
+
+/* Hover & Animation */
+.share-button:hover {
+    background-color: #303f9f;
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.25);
+}
+
+.share-button:active {
+    transform: scale(0.9);
+}
+
+/* Ensure MkDocs permalink (¶) stays at the end */
+.headerlink {
+    margin-left: auto; /* Moves ¶ to the far right (optional) */
+    opacity: 0.3;
+}
+
+/* On small screens, ensure the title doesn't overlap */
+@media screen and (max-width: 400px) {
+    article h1, article h2, article h3 {
+        align-items: flex-start;
+    }
+    .share-button {
+        margin-top: 4px; /* Align with first line of text */
+    }
+}
+
+/* Dashboard Grid */
+.dashboard-grid {
+    display: grid;
+    /* Create columns that are at least 500px wide. 
+       If screen is smaller, it wraps to 1 column. */
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    gap: 2rem;
+    margin-top: 1rem;
+}
+
+/* 3. Fix the Dashboard Card clipping */
+/* The dashboard card was hiding the overflow content */
+/* The Card */
+.dashboard-card {
+    overflow: visible !important; /* Allow the inner scrollbar to work */
+    background: var(--md-code-bg-color); /* Matches theme background */
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 0.5rem;
+    overflow: hidden; /* Keeps content inside rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    display: flex;
+    flex-direction: column;
+}
+
+/* Card Title */
+.card-header {
+    padding: 0.8rem 1rem;
+    background: rgba(0, 0, 0, 0.03);
+    font-weight: bold;
+    border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.card-header a {
+    text-decoration: none;
+    color: inherit;
+}
+.card-header a:hover {
+    color: var(--md-primary-fg-color);
+}
+
+/* Card Content (The Chart) */
+.card-content {
+    overflow-x: hidden; /* Prevent double scrollbars, let chart-wrapper handle it */
+    padding: 0.5rem;    /* Reduce padding on mobile to save space */
+}
+
+/* Optional: Ensure the internal chart wrapper doesn't have huge margins in the card */
+.dashboard-card .chart-wrapper {
+    margin: 0 !important;
+    border: none !important;
+}
+
+.lazy-chart {
+    min-width: 800px !important; 
+}
+
+
+/* Hide the 'Share' button on the dashboard to reduce clutter (optional) */
+.dashboard-card .share-button {
+    display: none;
+}
+

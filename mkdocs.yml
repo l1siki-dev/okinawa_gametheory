@@ -1,15 +1,12 @@
-site_name: "Succeeded at failing: Solving Okinawa by Game Theory"
-site_description: Why Okinawa is the poorest prefecture after 14.8 Trillion Yen aid. From a perspective of game theory.
-
-# This sets your files (Optional). 
-# If you DELETE this 'nav' section, it will auto-discover files alphabetically!
-
-# This loads Chart.js on every page automatically
-extra_javascript:
-  - https://cdn.jsdelivr.net/npm/chart.js
+site_name: "Okinawa is designed to fail"
+site_description: Why is Okinawa the poorest after 14.8 trillion yen in special development aid? From a perspective of game theory.
+site_url: https://lisiki-jp.github.io/okinawa_gametheory/
+site_author: りしき
 
 theme:
   name: material
+  logo: assets/icon_kikkosuperbold_kuro2.svg
+  favicon: assets/icon_kikkosuperbold_kuro2.svg
   features:
     - content.action.edit
     - content.action.view
@@ -59,9 +56,19 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon-32x32.png
-  icon:
-    logo: logo
+
+plugins:
+  - search
+  - macros
 
 hooks:
-  - assets/hook_strip_number.py
+  - docs/python/strip_number_hook.py
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js
+  - javascripts/chart_share.js
+  - javascripts/share-headers.js
+
+extra_css:
+  - css/extra.css
+
