@@ -1,7 +1,18 @@
 # v0.3
 * ~Choose License~
 
-* read Smart Brevity
+* ~read Smart Brevity~
+* read Made to Stick
+* read Contagious
+* read Storytelling with Data
+
+* create logo
+
+* separate report into sections and roll release them
+
+* use mkdocs feature to implement 3 layerd information depth
+
+* read mkdocs material manual
 
 * ~mermaidjs~
 * chart.js and mkdoc
