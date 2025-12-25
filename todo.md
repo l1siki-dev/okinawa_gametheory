@@ -14,6 +14,9 @@
 
 * read mkdocs material manual
 * create comic about "Allowance" addicted 50yo child Okinawa and spoiling Tokyo
+   * Tokyo hands 300 Bilion yen to Okinawa
+   * proudly 50yo Okinawa report that he earned 70 Billion yen using that 300 Bilion
+   
 
 * ~mermaidjs~
 * chart.js and mkdoc
