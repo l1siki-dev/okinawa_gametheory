@@ -17,7 +17,7 @@
    * Tokyo hands 300 Bilion yen to Okinawa, like past 50 years 
    * proudly 50yo Okinawa report that he earned 70 Billion yen using that 300 Bilion
    * Tokyo is satisfied about that Okinawa never be able to leave the house
-   
+   * (I might have miscalculated in favor of Okinawa in single magnitude, double check it.(the pie from the official document impllie that profit is 10 times smaller than the aid, 70/300 doesn't make sense))
 
 * ~mermaidjs~
 * chart.js and mkdoc
