@@ -14,8 +14,9 @@
 
 * read mkdocs material manual
 * create comic about "Allowance" addicted 50yo child Okinawa and spoiling Tokyo
-   * Tokyo hands 300 Bilion yen to Okinawa
+   * Tokyo hands 300 Bilion yen to Okinawa, like past 50 years 
    * proudly 50yo Okinawa report that he earned 70 Billion yen using that 300 Bilion
+   * Tokyo is satisfied about that Okinawa never be able to leave the house
    
 
 * ~mermaidjs~
