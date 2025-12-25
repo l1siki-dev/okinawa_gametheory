@@ -13,7 +13,7 @@
 * use mkdocs feature to implement 3 layerd information depth
 
 * read mkdocs material manual
-* create comic about "Allowance" addicted child Okinawa and spoiling Tokyo
+* create comic about "Allowance" addicted 50yo child Okinawa and spoiling Tokyo
 
 * ~mermaidjs~
 * chart.js and mkdoc
