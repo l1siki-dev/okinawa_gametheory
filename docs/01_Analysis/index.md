@@ -1,6 +1,6 @@
 # Key data: the mechanism of Okinawa failures
 
-Based on selectorate theory, game theory, resource curse, aid curse, incentive analysis, and rational choice theory.
+Based on Selectorate Theory, Game Theory, Foreign Aid Paradox, Resource Curse, Aid Curse, Incentive Analysis, and Rational Choice Theory.
 
 ---
 ##  
