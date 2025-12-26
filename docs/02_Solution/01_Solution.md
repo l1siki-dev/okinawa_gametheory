@@ -184,35 +184,35 @@ This is the unique Okinawa that attracts talent from all over the world.
 Thank you. 
 I know this report was long and emotional. You must be tired.  
 But you are here. You are here because you care about Japan and its people.  
-This is the final chapter. 
 
 We have walked through together.  
 We have seen how our money is wasted, how our security is undermined, and how Okinawa is kept poor by design.  
 
-We saw a bright hope that Okinawa can be the beacon of creativity, with beautiful beaches for extra.  
+But we also saw a bright hope: A Creative Digital Island.
 
-I want to say the most important thing:
+Now, I must ask you to do the hardest thing of all:
 **Do not hunt for villains.**
 
 ## Do not hunt for villains. There are no villains, just true believers who believed bad data.  
 
-As I explained, they are doing what's best for them. And that shouldn't be punished.  
-They believed they were doing the right thing. They are not evil people.  
-What they did was likely portrayed as "justice" in their circle.  
-Tokyo kept Okinawa poor to save all of us.  
-Local media did just what corporations do, and likely most of the people inside believed that they were doing the morally right thing.  
-They are just true believer that situated within a bad structure.  
-And other players I didn't explain in this report are the same.  
+As I explained, the politicians and bureaucrats are doing what is best for *them*.
+They are not evil. They are rational.
+To them, keeping the current system alive looks like "Justice."
+To Tokyo, sending money looked like "Stability."
+To the local media, fueling the conflict looked like "Righteousness."
+
+They are just true believers trapped in a bad structure.
 
 **The evil is not in the People. The evil is in the Structure.**
-All of this was legal. All of this was rational for the players involved.  
-But the result was a disaster for Japan.  
+All of this was legal. All of this was rational.
+But the result was a disaster for Japan.
+
 So, let's not blame people and start **fixing the structure.**
 We've already lost too much time and resources; we have to focus on what matters.  
 
 And, Remember? **"The Conflict" is their business.**
 That's what kept this scam alive for over 50 years.  
-If we start fighting each other—Right vs. Left, Mainland vs. Okinawa—we are just giving them more time and money.  
+If we start fighting each other—Right vs. Left, Mainland vs. Okinawa—we are just giving them more content for their show. We are giving them more time.
 
 **We will not fall for their trap anymore.**
 
@@ -224,45 +224,42 @@ We will not give them time to entrench.
 
 I told you that we, "the Japanese majority," are the strongest player.  
 It means **you** are the boss.  
-It's true as long as we are a democratic country. And luckily, we are.  
+But a boss who never speaks is a boss who gets ignored.  
+Your money is continue to be wasted until you raise your voice.  
+
+They fear our voice. so, **don't be silent.** That's what they want.
 
 If the majority of potential voters support ending the halmful aid, the government has to change the current policy to stay in power.  
 You don't have to wait till the next election.  
 **We can start today, right now.**
 
 To make the majority support this idea, we have to deliver this idea to them.  
-Japan is an old country. Not everyone has access internet, SNS, or YouTube.  
-We need mass media on our side. Nationwide TVs and nationwide newspapers are necessary to secure the majority.  
+Japan is an aging giant. Not everyone has access internet, SNS, or YouTube.  
+To win, we need mass media on our side. Nationwide TVs and nationwide newspapers are necessary to secure the majority.  
+But, they will not report on this "Taboo" truth unless they feel safe.
 
 ## The Strategy: Setting the comfortable ground for the mass media
 
 Japanese newspapers have a unique system that makes them loosely collective. The system is called the Kisha Club.  
-If one media moves too fast, it will be punished by others.  
-We need to build a condition that one media feels confident that the other media will follow the move.  
+A media moves too fast will be punished. Like who says different things from others get punished. "出る杭は打たれる"   
+We need to build a condition that a media feels confident that the other media will follow the move.  
 
 **This is where YOU come in.**
 
-To make them feel safe. We can build a public consensus that the majority of the Japanese will support the idea.  
-This can be done in two ways.  
-1. Spread this idea by retweet or any means.  
-2. Influential figures support this idea.  
+When you Retweet, Share, or send this to an influencer, you are not just "clicking a button."
+You are sending a signal of the change.
+You are telling the media: *"It is safe to talk about this. The audience is ready."*
+You are telling the politicians: *"The wind has changed. If you don't fix the structure, you will lose your seat."*
 
-"Spread this idea" works because this is essentially pre-voting. Who spread the idea is who likes the idea.  
-He will vote for the party that aligns with the idea in the next election. 
-Every Retweet, every Share, every Like is a signal.  
-It tells the media: *"The wind has changed."*
-It tells the politicians: *"If you don't change the policy, you will lose votes."*
-
-"Influential figures support" is the same as "spread the idea", but with a large boost.  
-Influential figures can spread the idea much faster and farther than an ordinary man.  
-
-When mass media think, "Seems like most of the Japanese will like this idea", they will follow.  
-When the government thinks, "Seems like we are going to lose the next election if we don't change the course", they will end the halmful aid.  
-And to that, you should spread this idea as far as you can.  
+This is the election. In the digital age, every day is Election Day.  
+And your smartphone is the ballot box.  
+Every Retweet is a vote cast in the open.  
+When people see your retweet, they will gain the courage to raise their voice.
 
 **You are the one who pushes the First Domino.**
 
 ## My Final Request: Retweet this report now
 **Retweet this now.**
 If you know an influential figure—a YouTuber, a politician, a professor, a journalist, an author—send this to them.  
+
 
