@@ -22,8 +22,8 @@ It is the **Art of Deception.** It is creating a beautiful lie that people pay t
 Think about the best entertainment. Shingeki no Kyojin or Game of Thrones.  
 They are full of deception.  
 
-Every good story has a struggle as a theme. 
-Okinawa people know deeply about it than any other Japanese.  
+Every good story has a struggle as a theme. 　
+Okinawa people know deeply about it.  
 They will create the stories that everyone around the world would empathize with.  
 
 Okinawans are natural-born storytellers, performers, and creators. They have the creativity in their DNA and culture.  
@@ -265,9 +265,10 @@ When people see your retweet, they will gain the courage to raise their voice.
 
 Do not let this report die in your smartphone's browsing history.  
 If you know an influential figure—a YouTuber, a politician, a professor, a journalist—send this to them.  
-Tell them you found the important information.
+Tell them **you** found the important information.
 
 **Retweet this report now.**
+
 
 
 
