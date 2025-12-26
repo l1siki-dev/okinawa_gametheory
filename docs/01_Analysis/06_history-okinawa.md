@@ -65,7 +65,7 @@ Ryukyu/Satsuma(1609 – 1880) period, Satsuma wanted to create a sugar industry 
 That's the reason.  
 Satsuma needed to develop the local population/industry, but Ryukyu was not.  
 
-## Pop growth under Satsuma (0.47%) vs. Japan (0.99%): Tax Reform & The End of Internal Colonialism
+## Pop growth under Satsuma (0.47%) vs. Japan (0.99%): Tax Reform & The End of Ryukyu's Internal Colonialism
 
 The doubling of the growth rate under modern Japan was driven by the dismantling of the Ryukyu Kingdom's punitive tax structure.  
 
@@ -587,5 +587,6 @@ As Sun Tzu said, "Know the Enemy and Yourself, you will not know defeat". (Not a
 * Satsuma is actually not that bad, at least compared to Ryukyu. Because they had incentives to develop Okinawa.  
 * Japan did even better.  
 * Okinawa's history is important/interesting than you think.  
+
 
 
