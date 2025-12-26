@@ -263,9 +263,10 @@ When people see your retweet, they will gain the courage to raise their voice.
 
 (Click the blue icon on the left)
 
-Do not let this report die in your smartphone's browsing history.
-If you know an influential figure—a YouTuber, a politician, a professor, a journalist—send this to them.
+Do not let this report die in your smartphone's browsing history.  
+If you know an influential figure—a YouTuber, a politician, a professor, a journalist—send this to them.  
 Tell them you find the important information.
 
 **Retweet this report now.**
+
 
