@@ -150,7 +150,7 @@ Okinawa needs cold, hard eyes from the outside to be audited.
 
 This is optional.  
 
-All Singaporeans are bilingual. 
+Almost all Singaporeans are bilingual. 
 If Okinawa chose to become an international hub, as they claim to be today, it would have to speak English.  
 Potentially, the US bases can provide native English speakers. Soldiers' families are likely happy to teach English. 
 You might think "There is no room" to teach English, but statistics show bilingual countries have high scores on Math and other subjects. And this aligns with my personal experience, becoming bilingual (I was 29yo when I started speaking English) has so many intellectual benefits beyond "being able to speak another language". So many I can't list here. For example, I was never able to write this report without becoming bilingual.  
@@ -261,6 +261,7 @@ When people see your retweet, they will gain the courage to raise their voice.
 ## My Final Request: Retweet this report now
 **Retweet this now.**
 If you know an influential figure—a YouTuber, a politician, a professor, a journalist, an author—send this to them.  
+
 
 
 
