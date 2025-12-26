@@ -256,10 +256,14 @@ And your smartphone is the ballot box.
 Every Retweet is a vote cast in the open.  
 When people see your retweet, they will gain the courage to raise their voice.
 
-**You are the one who pushes the First Domino.**
+## My Final Request: Retweet Now
 
-## My Final Request: Retweet this report now
-**Retweet this now.**
-If you know an influential figure—a YouTuber, a politician, a professor, a journalist, an author—send this to them.  
+**Push the first domino.**
 
+(Click the blue icon on the left)
 
+Do not let this report die in your smartphone's browsing history.
+If you know an influential figure—a YouTuber, a politician, a professor, a journalist—send this to them.
+Tell them you find the important information.
+
+**Retweet this report now.**
