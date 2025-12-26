@@ -373,7 +373,8 @@ Ryukyu had no standing navy. They were not "moving goods" through their own comm
 
 And Ryukyu didn't thrive. 
 They claim they did, but a thriving trading kingdom would never be defeated by financially broken Satsuma by naval invasion.  
-Mongol invasions failed because that was a naval invasion. Even the strongest empire at that time couldn't succeed it. The defense side has a massive advantage. It is considered the most difficult type of military campaign.  
+Mongol invasions of Japan failed because that was a naval invasion. Even the strongest empire at that time couldn't succeed it.  
+The defense side has a massive advantage on naval invasion. It is considered the most difficult type of military campaign.  
 And trade kingdom is best at naval warfare. It just doesn't make sense.  
 
 In fact, Japan at that time was much better qualified as a "Trade Kingdom".  
@@ -587,6 +588,7 @@ As Sun Tzu said, "Know the Enemy and Yourself, you will not know defeat". (Not a
 * Satsuma is actually not that bad, at least compared to Ryukyu. Because they had incentives to develop Okinawa.  
 * Japan did even better.  
 * Okinawa's history is important/interesting than you think.  
+
 
 
 
