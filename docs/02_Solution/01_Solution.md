@@ -74,7 +74,7 @@ So, how to make use of that 85% of the flat land?
 
 **We need an efficient transportation system that replaces cars.**
 Rail frees up the massive land wasted on parking lots.  
-It is **7 to 9 times** more energy-efficient than cars. 
+Also, it is **7 to 9 times** more energy-efficient than cars.  
 Rail's efficiency comes from the steel wheel. Monorail has a rubber tire, which is practically a car. Monorail is inefficient because the rubber deforms.  
 
 We don't need to dig tunnels through mountains. We don't need to wait for the US Marines to leave.  
@@ -261,6 +261,7 @@ When people see your retweet, they will gain the courage to raise their voice.
 ## My Final Request: Retweet this report now
 **Retweet this now.**
 If you know an influential figure—a YouTuber, a politician, a professor, a journalist, an author—send this to them.  
+
 
 
 
