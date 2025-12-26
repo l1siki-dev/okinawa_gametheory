@@ -140,7 +140,7 @@ They are in an "Echo Chamber." They only talk to each other, so they think this 
 The culture of the Okinawa Prefectural Government has rotted.  
 
 This is a hard part. Changing the institutional culture is difficult.  
-WE can't reeducate adults; Okinawa institutions have to exchange personnel with other prefectures.  
+We can't reeducate adults; Okinawa institutions have to exchange personnel with other prefectures.  
 
 Okinawa needs a complete Human Resources overhaul.  
 Okinawa needs to exchange its bureaucrats with other prefectures.  
@@ -261,6 +261,7 @@ When people see your retweet, they will gain the courage to raise their voice.
 ## My Final Request: Retweet this report now
 **Retweet this now.**
 If you know an influential figure—a YouTuber, a politician, a professor, a journalist, an author—send this to them.  
+
 
 
 
