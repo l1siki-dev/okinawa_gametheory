@@ -168,14 +168,12 @@ So we have to cut the promotion budget even if they scream. We had to.
 Of course, don't cut the regular aid that keeps the Okinawa government running.  
 
 ## Conclusion: Creative Digital Industry with beautiful Beaches
-*   Okinawa stops relying on the "Cheap Beach" trade.  
 *   Okinawans do not have to pay for expensive cars.  
 *   Okinawans get high-paying creative jobs.  
 *   The economy creates a product that China cannot switch off.  
-*   Okinawa gets economic independence, and the people of Okinawa become wealthier.  
-*   Okinawans will love democracy because democracy has actually provided a visible good change to them.  
+*   Okinawans will value democracy because democracy has actually provided a visible good change.  
 
-**You will enjoy a beautiful beach after the creative work.**
+**Enjoy beautiful beaches after the creative work.**
 This is the unique Okinawa that attracts talent from all over the world.  
 
 
@@ -262,3 +260,4 @@ When people see your retweet, they will gain the courage to raise their voice.
 ## My Final Request: Retweet this report now
 **Retweet this now.**
 If you know an influential figure—a YouTuber, a politician, a professor, a journalist, an author—send this to them.  
+
