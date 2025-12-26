@@ -369,10 +369,10 @@ Venice, Genoa, Carthage, the Dutch Republic, the British Empire. These were true
 Which thrived because of trade.  
 Trade is the lifeline. They have to protect it.  
 
-Ryukyu had no standing navy. They were not "moving goods" through their own commercial power; they were moving goods because China allowed them to.  
+Ryukyu had no standing navy. They were not "moving goods" through their own commercial power.
 
-And Ryukyu didn't thrive. 
-They claim they did, but a thriving trading kingdom would never be defeated by financially broken Satsuma by naval invasion.  
+Ryukyu didn't thrive. 
+Thriving trading kingdom would never be defeated by financially broken Satsuma by naval invasion.  
 Mongol invasions of Japan failed because that was a naval invasion. Even the strongest empire at that time couldn't succeed it.  
 The defense side has a massive advantage on naval invasion. It is considered the most difficult type of military campaign.  
 And trade kingdom is best at naval warfare. It just doesn't make sense.  
@@ -382,7 +382,6 @@ When the Portuguese in Macau killed Japanese sailors in the "Nossa Senhora da Gr
 A country with no navy can't do business overseas; that's the reality.  
 
 Ryukyu was "allowed" to trade because China let them. Ryukyu was a Dejima of the Ming.  
-Okinawa government's official story ignores that fact.  
 
 And people started to ignore the ban; Ryukyu lost its role as a warehouse.  
 The Okinawa Government calls it the "Great Trade Era."
@@ -588,6 +587,7 @@ As Sun Tzu said, "Know the Enemy and Yourself, you will not know defeat". (Not a
 * Satsuma is actually not that bad, at least compared to Ryukyu. Because they had incentives to develop Okinawa.  
 * Japan did even better.  
 * Okinawa's history is important/interesting than you think.  
+
 
 
 
