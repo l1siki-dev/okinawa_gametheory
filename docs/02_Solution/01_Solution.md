@@ -254,6 +254,7 @@ You are telling the politicians: *"The wind has changed. If you don't fix the st
 This is the election. In the digital age, every day is Election Day.  
 And your smartphone is the ballot box.  
 Every Retweet is a vote cast in the open.  
+
 When people see your retweet, they will gain the courage to raise their voice.
 
 ## My Final Request: Retweet Now
@@ -267,3 +268,4 @@ If you know an influential figure—a YouTuber, a politician, a professor, a jou
 Tell them you find the important information.
 
 **Retweet this report now.**
+
