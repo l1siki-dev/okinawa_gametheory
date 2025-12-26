@@ -81,7 +81,7 @@ The Meiji government eventually abolished the Head Tax (fully by 1903) and repla
 *   **The Incentive:** This reversed the economic logic of the family. A child transformed from a "Tax Object" into a **Labor Asset**. More children meant more hands to work the sugar cane fields, increasing the family's surplus income.  
 *   **The Boom:** With the state no longer penalizing reproduction, the population naturally corrected upward. The jump to 0.99% growth wasn't just about better medicine; it was the economic rationalization of survival.  
 
-## Our observation aligns with history: Under Ryukyu, commoners suffered; under Japan, they were liberated.  
+## Our observation aligns with records: Under Ryukyu, commoners suffered; under Japan, they were liberated.  
 
 The statistics of population growth tell one story, but the historical records of **Inamura Kenpu** (a Miyako-born historian) tell the human story.  
 
@@ -587,6 +587,7 @@ As Sun Tzu said, "Know the Enemy and Yourself, you will not know defeat". (Not a
 * Satsuma is actually not that bad, at least compared to Ryukyu. Because they had incentives to develop Okinawa.  
 * Japan did even better.  
 * Okinawa's history is important/interesting than you think.  
+
 
 
 
