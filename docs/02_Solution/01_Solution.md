@@ -119,7 +119,7 @@ Japan should adopt similar 'Pluralism Thresholds' that trigger automatic governm
 **JFTC and Resale Price Maintenance System(再販制度)**
 Japan has the Japan Fair Trade Commission (JFTC) that can address the problem.  
 JFTC has a concept of Collective Dominance that can be applied to the Okinawa context.  
-In economics, the Okinawa media landscape can be framed as a Cartel. They do not compete on price. They do not compete on narrative. They effectively operate as a single organism with two mouths.  
+In economics, the Okinawa media landscape can be framed as a Cartel. They do not compete on price. They do not compete on narrative. They effectively operate as a single organism with two mouths. (And they have weirdly almost the same sales numbers.)  
 Also, newspapers are getting privileged of RPMS. 
 If a newspaper, or collective, has >80% market share in a prefecture, it should lose its special legal protections until competition is restored.  
 
@@ -261,6 +261,7 @@ When people see your retweet, they will gain the courage to raise their voice.
 ## My Final Request: Retweet this report now
 **Retweet this now.**
 If you know an influential figure—a YouTuber, a politician, a professor, a journalist, an author—send this to them.  
+
 
 
 
