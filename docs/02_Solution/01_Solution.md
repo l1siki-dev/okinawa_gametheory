@@ -265,8 +265,9 @@ When people see your retweet, they will gain the courage to raise their voice.
 
 Do not let this report die in your smartphone's browsing history.  
 If you know an influential figure—a YouTuber, a politician, a professor, a journalist—send this to them.  
-Tell them you find the important information.
+Tell them you found the important information.
 
 **Retweet this report now.**
+
 
 
