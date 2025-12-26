@@ -13,6 +13,7 @@ What natural resources of the Okinawans uniquely have?
 
 As I told you in the history chapter, Okinawa is the **"Master of Fiction."**
 Historically, they survived by hiding the truth and navigating between empires with wit and performance.  
+Okinawa is the birthplace of Karate. Karate's original meaning was "China Hand"; An Okinawan changed it to "Empty Hand" and convinced the entire of Japan. Now, the Japanese are spreading their culture all over the world.  
 Some call this "lying."
 **I call it "Creativity."**	
 
@@ -260,4 +261,5 @@ When people see your retweet, they will gain the courage to raise their voice.
 ## My Final Request: Retweet this report now
 **Retweet this now.**
 If you know an influential figure—a YouTuber, a politician, a professor, a journalist, an author—send this to them.  
+
 
