@@ -153,7 +153,8 @@ This is optional.
 Almost all Singaporeans are bilingual. 
 If Okinawa chose to become an international hub, as they claim to be today, it would have to speak English.  
 Potentially, the US bases can provide native English speakers. Soldiers' families are likely happy to teach English. 
-You might think "There is no room" to teach English, but statistics show bilingual countries have high scores on Math and other subjects. And this aligns with my personal experience, becoming bilingual (I was 29yo when I started speaking English) has so many intellectual benefits beyond "being able to speak another language". So many I can't list here. For example, I was never able to write this report without becoming bilingual.  
+You might think "There is no room" to teach English, but statistics show bilingual countries have high scores on Math and other subjects. And this aligns with my personal experience, becoming bilingual has so many intellectual benefits beyond "being able to speak another language". So many I can't list here. For example, I was never able to write this report without becoming bilingual. 
+And if Okinawa were bilingual, likely we wouldn't have to tackle this entire problem in the first place, because a multi-language environment is difficult to be filled with a single ideology, because bilinguals will access diverse media and ideas. There will be no media monopoly, fewer fake histories.  
 It's likely beneficial to aim for bilingual, even if we consider the opportunity cost. 
 Japan's English education is outdated. Okinawa can become the frontier for real English education that boosts the productivity of all of Japan.  
 
@@ -261,12 +262,3 @@ When people see your retweet, they will gain the courage to raise their voice.
 ## My Final Request: Retweet this report now
 **Retweet this now.**
 If you know an influential figure—a YouTuber, a politician, a professor, a journalist, an author—send this to them.  
-
-
-
-
-
-
-
-
-
