@@ -1,10 +1,13 @@
-# History Analysis: Ryukyu was bad, Satsuma was OK, Japan is the best. 
+# History Analysis: I'm pure Okinawan, and I hate Ryukyu. 
+
+I studied Okinawa history extensively.
+And I found that Ryukyu was the enemy of Okinawa people.
 
 * "Ryukyu Kingdom was a peaceful Kingdom."
 * "Ryukyu Kingdom was a great trader."
 * "Ryukyu Kingdom was a utopia."
 
-These "Beautiful Ryukyu Kingdom" stories are all fantasy.  
+These "Beautiful Ryukyu Kingdom" stories are all lies.  
 
 The historical evidence tells that 
 * Ryukyu was not peaceful.
@@ -584,3 +587,4 @@ As Sun Tzu said, "Know the Enemy and Yourself, you will not know defeat". (Not a
 * Satsuma is actually not that bad, at least compared to Ryukyu. Because they had incentives to develop Okinawa.  
 * Japan did even better.  
 * Okinawa's history is important/interesting than you think.  
+
