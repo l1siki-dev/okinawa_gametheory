@@ -1,4 +1,4 @@
-# Solution Chapter: Building the "Unsinkable Okinawa Economy".  
+# Future of Okinawa: Creative Digital Island.  
 
 We have talked enough about the problem. Let’s talk about the future.  
 
@@ -261,5 +261,6 @@ When people see your retweet, they will gain the courage to raise their voice.
 ## My Final Request: Retweet this report now
 **Retweet this now.**
 If you know an influential figure—a YouTuber, a politician, a professor, a journalist, an author—send this to them.  
+
 
 
