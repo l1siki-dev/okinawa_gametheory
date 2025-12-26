@@ -7,6 +7,7 @@
 * read Storytelling with Data
 
 * create logo
+* Monju vs. Futenma
 
 * separate report into sections and roll release them
 
