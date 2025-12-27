@@ -73,6 +73,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true 
+  - pymdownx.arithmatex
 
 hooks:
   - docs/python/strip_number_hook.py
