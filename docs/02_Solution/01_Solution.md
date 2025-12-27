@@ -195,7 +195,7 @@ Okinawa has beautiful beaches; Fukuoka has none. Creative people are playful peo
 *   The economy creates a product that China cannot switch off.  
 *   Okinawans will value democracy because democracy has actually provided a visible good change.  
 
-**Enjoy beautiful beaches after the creative work.**
+**Enjoy beautiful beaches after the tax-free creative work.**
 This is the unique Okinawa that attracts talent from all over the world.  
 
 
@@ -291,6 +291,7 @@ If you know an influential figure—a YouTuber, a politician, a professor, a jou
 Tell them **you** found the important information.
 
 **Retweet this report now.**
+
 
 
 
