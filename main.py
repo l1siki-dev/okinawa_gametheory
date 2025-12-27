@@ -154,6 +154,8 @@ def define_env(env):
             rel_path = os.path.relpath(file_path, docs_dir).replace('\\', '/')
             if rel_path.endswith('index.md'):
                 url = rel_path.replace('index.md', '')
+            else:
+                url = rel_path.replace('.md', '')
 
             lines = content.split('\n')
             for line in lines:
