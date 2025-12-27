@@ -62,6 +62,8 @@ theme:
 plugins:
   - search
   - macros
+  - social
+  - optimize
 
 hooks:
   - docs/python/strip_number_hook.py
