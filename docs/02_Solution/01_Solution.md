@@ -184,6 +184,8 @@ Fukuoka is the best choice because
 * Fukuoka is "Startup City" (Line, Mercari, etc., have bases there). Creative Digital Island have similar goal.
 * Okinawans can imagine Fukuoka vividly.
 
+While Okinawa was begging Tokyo for higher subsidies to build another road, Fukuoka was begging Tokyo for permission to lower corporate taxes for startups. And they are successful.
+
 Let them compete; that will create two lively, creative cities.  
 Okinawa has beautiful beaches; Fukuoka has none. Creative people are playful people; this is a winnable battle.
 
@@ -289,6 +291,7 @@ If you know an influential figure—a YouTuber, a politician, a professor, a jou
 Tell them **you** found the important information.
 
 **Retweet this report now.**
+
 
 
 
