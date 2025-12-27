@@ -2,14 +2,16 @@
 * ~Choose License~
 
 * ~read Smart Brevity~
-* read Made to Stick
-* read Contagious
+* ~read Made to Stick~
+* ~read Contagious~
 * read Storytelling with Data
 
 * create logo
 * Monju vs. Futenma
+* Seasonal tourism unemployment mechanism
 
 * separate report into sections and roll release them
+* Frame roll it a day, entire report is framed as "A week" or something
 
 * use mkdocs feature to implement 3 layerd information depth
 
