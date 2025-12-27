@@ -202,7 +202,7 @@ This is the unique Okinawa that attracts talent from all over the world.
 
 
 ---
-# The conclusion: Do not hunt for the villains. Retweet this report now.  
+# The conclusion: Do not hunt for the villains. Just Retweet.  
 
 Thank you. 
 I know this report was long and emotional. You must be tired.  
@@ -291,6 +291,7 @@ If you know an influential figure—a YouTuber, a politician, a professor, a jou
 Tell them **you** found the important information.
 
 **Retweet this report now.**
+
 
 
 
