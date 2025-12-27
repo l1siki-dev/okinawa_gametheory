@@ -67,6 +67,11 @@ plugins:
   - social
   - minify
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+
+
 hooks:
   - docs/python/strip_number_hook.py
 
