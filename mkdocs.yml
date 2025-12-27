@@ -64,7 +64,6 @@ plugins:
   - search
   - macros
   - social
-  - optimize
   - minify
 
 hooks:
