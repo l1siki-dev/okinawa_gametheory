@@ -216,7 +216,7 @@ But we also saw a bright hope: A Creative Digital Island.
 Now, I must ask you to do the hardest thing of all:
 **Do not hunt for villains.**
 
-## Do not hunt for villains. There are no villains, only true believers.  
+## There are no villains, only true believers.  
 
 As I explained, the politicians and bureaucrats are doing what is best for *them*.
 They are not evil. They are rational.
@@ -291,6 +291,7 @@ If you know an influential figure—a YouTuber, a politician, a professor, a jou
 Tell them **you** found the important information.
 
 **Retweet this report now.**
+
 
 
 
