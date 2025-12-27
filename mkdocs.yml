@@ -64,6 +64,7 @@ plugins:
   - macros
   - social
   - optimize
+  - minify
 
 hooks:
   - docs/python/strip_number_hook.py
