@@ -310,6 +310,15 @@ They read the local papers not for information, but for validation. They need a 
 
 The 99.4% share is the measure of how desperate that psychological need is.
 
+## What Okinawa keeps poor isn't the bases, it's local media and politicians.
+
+Okinawa keep it's sanity by blaming the bases, which is a physical and concrete "outsider".  
+Easy villain.  
+But the truth is that media and politics keep Okinawa poor.  
+Politicians in Naha, Ryukyu Shimpo, Okinawa Times, and local TVs. These are the main drivers dragging the feet of people of Okinawa.  
+To unleash the true potential of the Okinawa people, the "Master of Fiction", we have to get rid of the force that feeds fake, uncreative, hateful stories to the Okinawa people.
+
 ## Conclusion: Stop the aid.  
 * The aid makes Okinawa hate Tokyo.  
 * The aid creates the environment in which nationalism thrives, and it requires hating outsiders just to exist because Okinawa is surrounded by real cultural superpowers, and nationalism demands acting like a peer of them.  
+
