@@ -177,11 +177,11 @@ Everyone love to talk about Taiwan and Singapore, but it's not good choice.
 * Taiwan has too large population. (15 times bigger than Okinawa)
 * Singapore is too far. (it's important that the rival feels close and concrete; Okinawans have to be able to imagine "Singaporean" vividly.)
 
-Fukuoka is the best choice because 
+Fukuoka is the best choice because it's a good barometer to measure the progress of the Creative Digital Island.
+* Fukuoka is "Startup City" (Line, Mercari, etc., have bases there). 
 * Population is almost identical: Okinawa (~1.47M) vs. Fukuoka City (~1.64M).
 * Both claim to be the "Gateway to Asia."
 * Inside the same nation, the battlefield is fair. If it feels not, we can fix it(Like we are doing in this report).
-* Fukuoka is "Startup City" (Line, Mercari, etc., have bases there). Creative Digital Island have similar goal.
 * Okinawans can imagine Fukuoka vividly.
 
 While Okinawa was begging Tokyo for higher subsidies to build another road, Fukuoka was begging Tokyo for permission to lower corporate taxes for startups. And they are successful.
@@ -291,6 +291,7 @@ If you know an influential figure—a YouTuber, a politician, a professor, a jou
 Tell them **you** found the important information.
 
 **Retweet this report now.**
+
 
 
 
