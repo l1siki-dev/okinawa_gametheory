@@ -44,7 +44,7 @@
 
 ## future plan
 * multilanguage support
-* patoreon
+* patoreon | Pre-Suasion | Bannar
 * youtube video
    
 
