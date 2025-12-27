@@ -168,14 +168,24 @@ It's time for Okinawa to get real economic independence.
 So we have to cut the promotion budget even if they scream. We had to.  
 Of course, don't cut the regular aid that keeps the Okinawa government running.  
 
-## Future 10. Rival is Fukuoka.
+## Future 10. The Rival is Fukuoka.
 
-As long as Okinawa defines its rival as Japan/Tokyo or China, which is a too high wall to climb, Okinawans have to manufacture fake stories to not feel "incapable".  
+As long as Okinawa defines its rival(enemy) as Japan/Tokyo, the US, or China, which is a too high wall to climb, Okinawans have to manufacture fake stories to not feel "incapable".  
 Okinawa needs a realistic and respectable rival that acts as an achievable goal.  
-For example, it could be Singapore, Taiwan, or Fukuoka (which is famous for startups).  
-* Taiwan has too many population
-* Singapore is too far(it's important that the rival feels close and concrete; Okinawans have to be able to imagine "Singaporean" vividly).
-* Fukuoka might be the best choice.
+
+Everyone love to talk about Taiwan and Singapore, but it's not good choice.
+* Taiwan has too large population. (15 times bigger than Okinawa)
+* Singapore is too far. (it's important that the rival feels close and concrete; Okinawans have to be able to imagine "Singaporean" vividly.)
+
+Fukuoka is the best choice because 
+* Population is almost identical: Okinawa (~1.47M) vs. Fukuoka City (~1.64M).
+* Both claim to be the "Gateway to Asia."
+* Inside the same nation, the battlefield is fair. If it feels not, we can fix it(Like we are doing in this report).
+* Fukuoka is "Startup City" (Line, Mercari, etc., have bases there). Creative Digital Island have similar goal.
+* Okinawans can imagine Fukuoka vividly.
+
+Let them compete, that will creat the lively creative city.  
+Okinawa has beautiful beaches. Creative people are playful people; this is a winnable battle.
 
 ## Conclusion: Creative Digital Industry with beautiful Beaches
 *   Okinawans do not have to pay for expensive cars.  
@@ -279,6 +289,7 @@ If you know an influential figure—a YouTuber, a politician, a professor, a jou
 Tell them **you** found the important information.
 
 **Retweet this report now.**
+
 
 
 
