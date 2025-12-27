@@ -22,13 +22,6 @@
    * Tokyo is satisfied about that Okinawa never be able to leave the house
    * (I might have miscalculated in favor of Okinawa in single magnitude, double check it.(the pie from the official document impllie that profit is 10 times smaller than the aid, 70/300 doesn't make sense))
 
-* ~mermaidjs~
-* chart.js and mkdoc
-    * visualize table data
-    * separate table data to different file
-
-* viral compatibility
-   * sns integration 
 
 * Use AI to mitigate halo effect. -> use youtube
     * Opening line is "Ask ChatGPT to analyse Okinawa politics using sientific method"
@@ -39,7 +32,15 @@
     * Okinawa's economical/political similality with resouce curse state
     * Life-expectancy comparison
 
-* create entrance page
+* ~mermaidjs~
+* ~chart.js and mkdoc~
+    * ~visualize table data~
+    * ~separate table data to different file~
+
+* ~viral compatibility~
+   * ~sns integration~ 
+
+* ~create entrance page~
 
 ## future plan
 * multilanguage support
