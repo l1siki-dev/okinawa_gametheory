@@ -168,6 +168,15 @@ It's time for Okinawa to get real economic independence.
 So we have to cut the promotion budget even if they scream. We had to.  
 Of course, don't cut the regular aid that keeps the Okinawa government running.  
 
+## Future 10. Rival is Fukuoka.
+
+As long as Okinawa defines its rival as Japan/Tokyo or China, which is a too high wall to climb, Okinawans have to manufacture fake stories to not feel "incapable".  
+Okinawa needs a realistic and respectable rival that acts as an achievable goal.  
+For example, it could be Singapore, Taiwan, or Fukuoka (which is famous for startups).  
+* Taiwan has too many population
+* Singapore is too far(it's important that the rival feels close and concrete; Okinawans have to be able to imagine "Singaporean" vividly).
+* Fukuoka might be the best choice.
+
 ## Conclusion: Creative Digital Industry with beautiful Beaches
 *   Okinawans do not have to pay for expensive cars.  
 *   Okinawans get high-paying creative jobs.  
@@ -176,6 +185,8 @@ Of course, don't cut the regular aid that keeps the Okinawa government running.
 
 **Enjoy beautiful beaches after the creative work.**
 This is the unique Okinawa that attracts talent from all over the world.  
+
+
 
 
 ---
@@ -268,6 +279,7 @@ If you know an influential figure—a YouTuber, a politician, a professor, a jou
 Tell them **you** found the important information.
 
 **Retweet this report now.**
+
 
 
 
