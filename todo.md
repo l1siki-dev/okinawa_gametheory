@@ -10,10 +10,6 @@
   - 沖縄振興予算 is a framing technique, it's likely govenment will try to relocate the aid by just dissolving it and distributing the moeny into different accounting categories. So, explicitly warn it.
   - Yen got weak because investors think that Japan can't defend itself. 
   
-- separate report
-  - sections and roll release them
-  - Frame roll it a day, entire report is framed as "A week" or something
-
 * use mkdocs feature to implement 3 layerd information depth
 
 * create comic about "Allowance" addicted 50yo child Okinawa and spoiling Tokyo
