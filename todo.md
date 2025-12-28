@@ -9,8 +9,8 @@
   - The employment efficiency of tourism comparison with Fukuoka. and other high tourism prefectures. 
   
 - separate report
- - sections and roll release them
- - Frame roll it a day, entire report is framed as "A week" or something
+  - sections and roll release them
+  - Frame roll it a day, entire report is framed as "A week" or something
 
 * use mkdocs feature to implement 3 layerd information depth
 
@@ -21,7 +21,7 @@
    * (I might have miscalculated in favor of Okinawa in single magnitude, double check it.(the pie from the official document impllie that profit is 10 times smaller than the aid, 70/300 doesn't make sense))
 
 
-* Use AI to mitigate halo effect. -> use youtube
+* Use LLM to mitigate halo effect. -> use youtube for least resistance 
     * Opening line is "Ask ChatGPT to analyse Okinawa politics using sientific method"
     * It will "anchor" the perception of the reader hard. I don't have to hastle moving their common sense.
 
