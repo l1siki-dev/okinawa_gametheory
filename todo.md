@@ -1,10 +1,12 @@
 # v0.4
 * read Storytelling with Data
 
-* create logo
-* Monju vs. Futenma
-* Seasonal tourism unemployment mechanism
-- Recent "growth" is just a result of weak yen.
+- report reinforce
+  * create logo
+  * Monju vs. Futenma
+  * Seasonal tourism unemployment mechanism
+  - Recent "growth" is just a result of weak yen.
+  - The employment efficiency of tourism comparison with Fukuoka. and other high tourism prefectures. 
   
 * separate report into sections and roll release them
 * Frame roll it a day, entire report is framed as "A week" or something
