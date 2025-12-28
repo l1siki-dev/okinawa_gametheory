@@ -8,6 +8,7 @@
   - Recent "growth" is just a result of weak yen.
   - The employment efficiency of tourism comparison with Fukuoka. and other high tourism prefectures.
   - 沖縄振興予算 is a framing technique, it's likely govenment will try to relocate the aid by just dissolving it and distributing the moeny into different accounting categories. So, explicitly warn it.
+  - Yen got weak because investors think that Japan can't defend itself. 
   
 - separate report
   - sections and roll release them
