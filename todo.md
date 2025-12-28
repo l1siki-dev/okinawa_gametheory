@@ -8,8 +8,9 @@
   - Recent "growth" is just a result of weak yen.
   - The employment efficiency of tourism comparison with Fukuoka. and other high tourism prefectures. 
   
-* separate report into sections and roll release them
-* Frame roll it a day, entire report is framed as "A week" or something
+- separate report
+ - sections and roll release them
+ - Frame roll it a day, entire report is framed as "A week" or something
 
 * use mkdocs feature to implement 3 layerd information depth
 
