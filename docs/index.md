@@ -7,10 +7,6 @@ Based on Selectorate Theory, Game Theory, Foreign Aid Paradox, Resource Curse, A
 
 © 2025 伊波りしき. This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-# Overview
-
-{{ render_dashboard() }}
-
 ---
 ## Desicion-corrupting dependency (Okinawa 107.6%; National avg 11.5%)
 Naha politicians' optimal financial strategy is vastly different from that of other prefectural governors.  
