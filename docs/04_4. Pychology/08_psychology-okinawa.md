@@ -62,7 +62,7 @@ It will be more effective if the student says, "I haven't slept, so I'm not in g
 Make the student equation a national level. Combine the effort and the natural intelligence into "Capability", that is the root of nationalism.  
 * **Percieved Capability = Percieved Achievement - Percieved Environmental Factors**
 
-To short, Cp = Ap - Ep.
+To short, Cp = Ap - Ep.  
 or C = A - E.
 
 * Perceived Capability(C) means the total perceived capability of a nation. This is the pride of nationalism. This is also a combined variable of National Natural Ability and National Effort.  
@@ -319,5 +319,6 @@ To unleash the true potential of the Okinawa people, the "Master of Fiction", we
 ## Conclusion: Stop the aid.  
 * The aid makes Okinawa hate Tokyo.  
 * The aid creates the environment in which nationalism thrives, and it requires hating outsiders just to exist because Okinawa is surrounded by real cultural superpowers, and nationalism demands acting like a peer of them.  
+
 
 
