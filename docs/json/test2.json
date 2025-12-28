@@ -1,0 +1,227 @@
+{
+  "backgroundColor": "#ffffff",
+  "title": [
+    {
+      "text": "Incoming Development Aid / Local Tax Revenue ratio(Okinawa: 9x higher than avg)\nNaha has small (or negative to get more aid) incentive to develop its economy",
+      "subtext": "Okinawa's anomalistic dependency on external cash is taking away the incentive to take care local economy/society.\nFalling life-expectancy (now dead bottom), defective economy, and victimhood media. All come from this distorted incentive.\nA classic case of Aid Curse",
+      "left": 40,
+      "top": 10
+    },
+    {
+      "subtext": "Note: Fukushima, 95%, is omitted due to the meltdown recovery. (the data is FY2017, the latest on e-Stat)\nNote: Development aid = Natl. Treasury for Construction + Others\nNote: 開発援助 = 国庫支出金:普通建設事業費支出金 + 国庫支出金:その他\nData Source: 政府統計の総合窓口（e-Stat）\n\nCreated by: りしき | github.com/lisiki-jp",
+      "bottom": 0,
+      "left": 10
+    }
+  ],
+  "graphic": [
+    {
+      "type": "image",
+      "silent": true,
+      "right": 5,
+      "bottom": 5,
+      "style": {
+        "image": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz48c3ZnIGlkPSdMYXllcl8xJyBkYXRhLW5hbWU9J0xheWVyIDEnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zycgdmlld0JveD0nMCAwIDU5IDU5Jz48ZGVmcz48c3R5bGU+IC5jbHMtMSB7IGZpbGw6ICMyYjJiMmI7IH0gLmNscy0yIHsgZmlsbDogI2ZmZjsgfSA8L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0nY2xzLTInIGQ9J001My4wNiw0My4xbC0yMy41NiwxMy42LTIzLjU2LTEzLjZWMTUuOVMyOS41LDIuMjksMjkuNSwyLjI5bDIzLjU2LDEzLjZ2MjcuMjFaJy8+PHBhdGggY2xhc3M9J2Nscy0xJyBkPSdNMjkuNS42M2wyNSwxNC40M3YyOC44N2wtMjUsMTQuNDMtMjUtMTQuNDNWMTUuMDdMMjkuNS42M1pNNTIuMzQsNDIuNjl2LTI2LjM4TDI5LjUsMy4xMiw2LjY2LDE2LjMxdjI2LjM4bDIyLjg0LDEzLjE5LDIyLjg0LTEzLjE5Wk0xMS4zLDE4Ljk5bDE4LjItMTAuNTEsMTguMiwxMC41MXYyMS4wMmwtMTguMiwxMC41MS0xOC4yLTEwLjUxdi0yMS4wMlpNMjIuMDQsMzMuOGMtLjA5LS4xNy0uMTctLjM5LS4yNi0uNTYuMTctLjYuMy0xLjIxLjUyLTEuODUuMTMtLjMuMy0uNjUuNDMtMS4wMy4yNi0uOTEuNTItMS43Ny44Mi0yLjYzLjMtLjg2LjY5LTEuNjgsMS4yMS0yLjQ2LjU2LS45NSwxLjA4LTEuOTQsMS41NS0yLjk3LjQzLS43My45MS0xLjQ3LDEuMzQtMi4xNi44Ni0xLjI5LDEuNzctMi41NCwyLjY3LTMuNzUuMjItLjIyLjQzLS40Ny42OS0uNjkuNjktLjkxLDEuMzgtMS44NSwyLjA3LTIuOC4wNC0uMTcuMDQtLjM0LDAtLjUyLS4xNy0uMDQtLjM0LS4wNC0uNTYsMC0uNTYuMjYtMS4wOC41Mi0xLjY0Ljc4LS41Mi4yMi0xLjAzLjU2LTEuNTEuOTUtMi43NiwyLjI4LTQuNzgsNS4xMy02LjA4LDguNDktLjQzLDEuMTItLjg2LDIuMjgtMS4yNSwzLjQxLS45MSwyLjkzLTEuNDIsNS45MS0xLjU1LDguOTIuMDQuMzQuMTMuNjkuMjIuOTkuMjIuNDcuNDMuNTIuNzMuMTMuNDMtLjc4Ljg2LTEuNTksMS4yOS0yLjM3LjA5LS4xNy4xNy0uMzkuMjItLjYtLjE3LjEzLS4zNC4yNi0uNTIuNDMtLjEzLjA5LS4yNi4yMi0uMzkuM1pNMzQuOTcsMTguNTRjLS42OS0uNDMtMS4zOC0uNzgtMi4xNi0xLjA4LS42NS0uMzQtMS4xMi0uMTctMS40Ny41Mi0uNDcuNjktLjkxLDEuNDItMS4zNCwyLjI0LS43MywxLjQyLTEuMzgsMi44NC0yLjA3LDQuMzEtLjA5LjA5LS4xMy4xNy0uMDkuMjYuMTMsMCwuMjItLjA0LjMtLjEzLjE3LS4zNC4zOS0uNi42LS44Ni41Ni0uNjUsMS4xNi0xLjI5LDEuNzctMS44NS4zNC0uMjIuNDctLjEzLjQzLjI2LjA5LDEuOTQuMTMsMy44OC4yMiw1LjgyLDAsLjM0LjA0LjY5LjA5LDEuMDguMDQuNjUsMCwxLjE2LS4wNCwxLjU5LS4wOS40My0uMTMuNjUtLjA5LjY5djEuNTFjLjA5LDIuNzItLjYsNS4yNi0yLjA3LDcuNTktLjgyLDEuMzQtMS45OCwyLjMzLTMuNDEsMi45N2gtLjU2di0uODZjLS4wOS4wOS0uMTMuMTMtLjIyLjE3LS42LjYtMS4xNiwxLjI1LTEuNjgsMS45LS4xNy4yNi0uMTcuNTItLjA5Ljc4LjA5LjI2LjI2LjQzLjUyLjQ3LjM5LDAsLjc4LS4wOSwxLjEyLS4yMi41Ni0uMzQsMS4wOC0uNzMsMS41NS0xLjIxLDEuMDgtLjczLDIuMTEtMS41MSwzLjEtMi4zMy4zLS4yMi42LS41Mi45MS0uODIsMS4yOS0xLjIxLDIuNTQtMi40NiwzLjc1LTMuNzkuNDMtLjQzLjg2LS44NiwxLjI1LTEuMzguNDMtLjQ3LjY5LTEuMDMuNzgtMS42NC4xNy0uMTcuMy0uMy40My0uNDMuMTMtLjA5LjIyLS4yMi4zLS4zNC4wNC0xLjA4LjA5LTIuMTYuMTctMy4yMy4wNC0yLjM3LjEzLTQuNy4zNC03LjA3LjE3LTIuMTYtLjYtMy43OS0yLjM3LTQuOTFaJy8+PC9zdmc+",
+        "width": 50,
+        "height": 50
+      }
+    }
+  ],
+
+  "tooltip": {
+    "trigger": "axis",
+    "axisPointer": {
+      "type": "shadow"
+    }
+  },
+  "grid": {
+    "top": 100,
+    "bottom": 80,
+    "left": "3%",
+    "right": "4%",
+    "containLabel": true
+  },
+  "yAxis": {
+    "type": "category",
+    "inverse": true,
+    "axisLabel": {
+      "color": "#bbbbbb"
+    },
+    "data": [
+      {
+        "value": "Okinawa (107.6%)",
+        "textStyle": {
+          "color": "crimson",
+          "fontWeight": "bold",
+          "fontSize": 14
+        }
+      },
+      "Kumamoto (41.1%)",
+      "Kagoshima (38.7%)",
+      "Nagasaki (37.9%)",
+      "Miyazaki (37.5%)",
+      "Iwate (35.6%)",
+      "Akita (34.3%)",
+      "Shimane (31.8%)",
+      "Tottori (31.7%)",
+      "Kochi (27.2%)",
+      {
+        "value": "Hokkaido (25.6%)",
+        "textStyle": {
+          "color": "#333333",
+          "fontWeight": "bold",
+          "fontSize": 14
+        }
+      },
+      "Oita (24.6%)",
+      "Yamagata (24.4%)",
+      "Wakayama (23.8%)",
+      "Saga (23.4%)",
+      "Aomori (22.4%)",
+      "Niigata (21.4%)",
+      "Miyagi (20.3%)",
+      "Tokushima (19.4%)",
+      "Fukui (18.6%)",
+      "Toyama (17.6%)",
+      "Yamaguchi (17.4%)",
+      "Yamanashi (16.6%)",
+      "Nara (15.7%)",
+      "Ishikawa (15.2%)",
+      "Ehime (14.4%)",
+      "Kagawa (13.5%)",
+      "Gifu (12.8%)",
+      {
+        "value": "Nationwide (11.5%)",
+        "textStyle": {
+          "color": "#000000",
+          "fontWeight": "bold",
+          "fontSize": 14
+        }
+      },
+      "Mie (11.2%)",
+      "Nagano (10.8%)",
+      "Fukuoka (10.4%)",
+      "Okayama (10.0%)",
+      "Hiroshima (9.7%)",
+      "Kyoto (9.6%)",
+      "Shiga (8.9%)",
+      "Tochigi (8.9%)",
+      "Gunma (8.6%)",
+      "Chiba (8.3%)",
+      "Hyogo (7.7%)",
+      "Ibaraki (6.9%)",
+      "Shizuoka (6.5%)",
+      "Saitama (4.5%)",
+      "Aichi (4.4%)",
+      "Osaka (4.2%)",
+      "Kanagawa (3.2%)",
+      {
+        "value": "Tokyo (3.1%)",
+        "textStyle": {
+          "color": "#333333",
+          "fontWeight": "bold",
+          "fontSize": 14
+        }
+      }
+    ]
+  },
+  "xAxis": {
+    "type": "value"
+  },
+  "series": [
+    {
+      "type": "bar",
+      "markLine": {
+        "symbol": "none",
+        "data": [
+          {
+            "xAxis": 11.5
+          }
+        ],
+        "label": {
+          "show": true,
+          "formatter": "Nationwide Avg\n(11.5%)",
+          "color": "green",
+          "position": "insideEndTop"
+        },
+        "lineStyle": {
+          "color": "green",
+          "type": "dashed",
+          "width": 2
+        },
+        "z": 100
+      },
+      "data": [
+        {
+          "value": 107.6,
+          "itemStyle": {
+            "color": "crimson"
+          }
+        },
+        41.1,
+        38.7,
+        37.9,
+        37.5,
+        35.6,
+        34.3,
+        31.8,
+        31.7,
+        27.2,
+        {
+          "value": 25.6,
+          "itemStyle": {
+            "color": "RoyalBlue"
+          }
+        },
+        24.6,
+        24.4,
+        23.8,
+        23.4,
+        22.4,
+        21.4,
+        20.3,
+        19.4,
+        18.6,
+        17.6,
+        17.4,
+        16.6,
+        15.7,
+        15.2,
+        14.4,
+        13.5,
+        12.8,
+        {
+          "value": 11.5,
+          "itemStyle": {
+            "color": "RoyalBlue"
+          }
+        },
+        11.2,
+        10.8,
+        10.4,
+        10,
+        9.7,
+        9.6,
+        8.9,
+        8.9,
+        8.6,
+        8.3,
+        7.7,
+        6.9,
+        6.5,
+        4.5,
+        4.4,
+        4.2,
+        3.2,
+        {
+          "value": 3.1,
+          "itemStyle": {
+            "color": "RoyalBlue"
+          }
+        }
+      ],
+      "itemStyle": {
+        "color": "#bbbbbb"
+      }
+    }
+  ]
+}
