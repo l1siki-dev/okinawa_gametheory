@@ -56,20 +56,18 @@ When the student says, "I didn't study for the exam." He is making the right-han
 That makes his "Natural intelligence" high. That's why students love to say it.  
 It will be more effective if the student says, "I haven't slept, so I'm not in good condition". Which again the right-hand side becomes bigger by claiming "Environmental Factor" was minus. 
 
-## Introducing the CAE equation: how the Percieved Capability Model works
+## Introducing the CAE: how the Percieved Capability Model works
 
 "We are capable" is the first mantra of nationalism. Yes, it's the most important thing for them.  
 Make the student equation a national level. Combine the effort and the natural intelligence into "Capability", that is the root of nationalism.  
-* **Percieved Capability = Percieved Achievement - Percieved Factors**
+* **Percieved Capability = Percieved Achievement - Percieved Environmental Factors**
 
-$$
-C_p = A_p - E_p
-$$
+To short, Cp = Ap - Ep.
+or C = A - E.
 
-To short C = A - E
-* Perceived National Capability(C) means the total perceived capability of a nation. This is the pride of nationalism. This is also a combined variable of National Natural Ability and National Effort.  
-* Perceived National Achievement(A) means the perceived greatness of national achievement. This is relatively hard to move, unless they reframe the achievement.  
-* Perceived Environmental Factor(E) means perceived factors that help an achievement, but not from the nationals. This includes Foreign Aid and Natural resources or anything useful, but not the people. This often acts as the parameter when actors manipulate the national esteem.  
+* Perceived Capability(C) means the total perceived capability of a nation. This is the pride of nationalism. This is also a combined variable of National Natural Ability and National Effort.  
+* Perceived Achievement(A) means the perceived greatness of national achievement. This is relatively hard to move, unless they reframe the achievement.  
+* Perceived Environmental Factor(E) means perceived factors that help an achievement, but not from the people(or indivisual). This includes Foreign Aid and Natural resources or anything useful, but not the people. This often acts as the parameter when actors manipulate the national esteem.  
 
 This simple "Perceived National Capability" model helps you understand any nationalism in our world.  
 
@@ -321,4 +319,5 @@ To unleash the true potential of the Okinawa people, the "Master of Fiction", we
 ## Conclusion: Stop the aid.  
 * The aid makes Okinawa hate Tokyo.  
 * The aid creates the environment in which nationalism thrives, and it requires hating outsiders just to exist because Okinawa is surrounded by real cultural superpowers, and nationalism demands acting like a peer of them.  
+
 
