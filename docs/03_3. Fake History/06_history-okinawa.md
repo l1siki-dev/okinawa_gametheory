@@ -459,7 +459,7 @@ Let's dive deeper to find out.
 * "沖縄の歴史と文化19" [https://archive.is/J2rQT](https://archive.is/J2rQT)
 * "沖縄の歴史と文化30" [https://archive.md/WFHqh](https://archive.md/WFHqh) (mirror: [https://ghostarchive.org/archive/Ioboq](https://ghostarchive.org/archive/Ioboq))
 * **"沖縄の歴史と文化31"** [https://archive.md/uxBAE](https://archive.md/uxBAE) (mirror: [https://ghostarchive.org/archive/2Sjv5](https://ghostarchive.org/archive/2Sjv5))
-* "沖縄の歴史と文化32" [https://archive.is/a6mLp](https://archive.is/a6mLp) (mirror: [https://ghostarchive.org/archive/bwF5N](https://ghostarchive.org/archive/bwF5N))
+* "沖縄の歴史と文化32" [https://archive.is/a6mLp](https://archive.is/a6mLp) (mirror: [https://ghostarchive.org/archive/p4eKi](https://ghostarchive.org/archive/p4eKi)))
 * "沖縄の歴史と文化81" [https://archive.md/5zDxS](https://archive.md/5zDxS) (mirror: [https://ghostarchive.org/archive/acCr9](https://ghostarchive.org/archive/acCr9))
 
 You notice that all pages are hard to read.  
@@ -587,6 +587,7 @@ As Sun Tzu said, "Know the Enemy and Yourself, you will not know defeat". (Not a
 * Satsuma is actually not that bad, at least compared to Ryukyu. Because they had incentives to develop Okinawa.  
 * Japan did even better.  
 * Okinawa's history is important/interesting than you think.  
+
 
 
 
