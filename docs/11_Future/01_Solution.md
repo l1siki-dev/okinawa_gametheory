@@ -166,8 +166,9 @@ Japan's English education is outdated. Okinawa can become the frontier for real 
 **Stop it.**
 This is the most important.  
 Replace it with a tax reduction for the creative digital industry.  
-It's time for Okinawa to get real economic independence.  
-So we have to cut the promotion budget even if they scream. We had to.  
+
+Let Okinawa focus on local development, not outsiders' donations.
+
 Of course, don't cut the regular aid that keeps the Okinawa government running.  
 
 ## Future 10. The Rival is Fukuoka.
@@ -293,6 +294,7 @@ If you know an influential figure—a YouTuber, a politician, a professor, a jou
 Tell them **you** found the important information.
 
 **Retweet this report now.**
+
 
 
 
