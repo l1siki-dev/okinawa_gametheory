@@ -4,7 +4,7 @@
 * create logo
 * Monju vs. Futenma
 * Seasonal tourism unemployment mechanism
-- Recent growth is just a result of weak yen.
+- Recent "growth" is just a result of weak yen.
   
 * separate report into sections and roll release them
 * Frame roll it a day, entire report is framed as "A week" or something
