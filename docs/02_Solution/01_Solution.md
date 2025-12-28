@@ -1,18 +1,19 @@
-# Solution Chapter: Building the "Unsinkable Okinawa Economy".  
+# Future of Okinawa: Creative Digital Island.  
 
 We have talked enough about the problem. Let’s talk about the future.  
 
-### Future 1. Tourism is a side business.  
+## Future 1. Tourism is a side business.  
 As we saw in "9", it has no future.  
 No investment in tourism from today.  
 But, natural visitors likely stay strong. Just let the market handle it.  
 
-### Future 2. The True Talent: "Masters of Fiction" that fuel the Creative Digital Industry.  
+## Future 2. The True Talent: "Masters of Fiction" that fuel the Creative Digital Industry.  
 So, what can Okinawa sell to the world?
 What natural resources of the Okinawans uniquely have?
 
 As I told you in the history chapter, Okinawa is the **"Master of Fiction."**
 Historically, they survived by hiding the truth and navigating between empires with wit and performance.  
+Okinawa is the birthplace of Karate. Karate's original meaning was "China Hand"; An Okinawan changed it to "Empty Hand" and convinced the entire of Japan. Now, the Japanese are spreading their culture all over the world.  
 Some call this "lying."
 **I call it "Creativity."**	
 
@@ -21,8 +22,8 @@ It is the **Art of Deception.** It is creating a beautiful lie that people pay t
 Think about the best entertainment. Shingeki no Kyojin or Game of Thrones.  
 They are full of deception.  
 
-Every good story has a struggle as a theme. 
-Okinawa people know deeply about it than any other Japanese.  
+Every good story has a struggle as a theme. 　
+Okinawa people know deeply about it.  
 They will create the stories that everyone around the world would empathize with.  
 
 Okinawans are natural-born storytellers, performers, and creators. They have the creativity in their DNA and culture.  
@@ -41,7 +42,7 @@ These are products you can sell to New York, London, and Paris instantly.
 
 Software has no shipping costs. It doesn't care that Okinawa is an island. It doesn't need a deep-water port.  
 
-### Future 3. The Physical Bottleneck: Car-free living for people and business.  
+## Future 3. The Physical Bottleneck: Car-free living for people and business.  
 But to unleash this Digital Industry, we need the right environment.  
 A Digital City requires density. Programmers, artists, and designers need to meet, mix, and collaborate.  
 
@@ -59,7 +60,7 @@ People of Okinawa have to pay billions of yen to Toyota and Saudi Arabia every y
 
 To build a creative city on a small island, we must kill the Car Dependency.  
 
-### Future 4. Introduce Trains: Convert 2 lanes of Route 58 into a High-Speed Tram.  
+## Future 4. Introduce Trains: Convert 2 lanes of Route 58 into a High-Speed Tram.  
 
 Before I talk about this, I want to quickly mythbust "The most valuable land is taken by the US".  
 Southern Plateau (where Naha is): 150 - 200 km². The US Presence is near zero.  
@@ -74,8 +75,8 @@ So, how to make use of that 85% of the flat land?
 
 **We need an efficient transportation system that replaces cars.**
 Rail frees up the massive land wasted on parking lots.  
-It is **7 to 9 times** more energy-efficient than cars. 
-Rail's efficiency comes from the steel wheel. Monorail has a rubber tire, which is practically a car. Monorail is inefficient because the rubber deforms.  
+Also, it is **7 to 9 times** more energy-efficient than cars.  
+Rail's efficiency comes from the steel wheel. Monorail has a rubber tire, which is practically a car. Rubber tire is inefficient because it deforms.  
 
 We don't need to dig tunnels through mountains. We don't need to wait for the US Marines to leave.  
 We have the land. It is right in front of us.  
@@ -87,7 +88,7 @@ Connect Naha to Chatan in 20 minutes.
 It requires no US permission. It requires no tunnels.  
 It only requires the courage to say 'No' to the Car society.  
 
-### Future 5. The "Tax-Free" Digital Zone
+## Future 5. The "Tax-Free" Digital Zone
 Once we have the Rail, we stop the "Construction Subsidies" (The 300 Billion Yen). Entirely.  
 We replace it with a **Special Tax-Free Zone.**
 
@@ -97,7 +98,7 @@ We replace it with a **Special Tax-Free Zone.**
 We use the "Aid" money to cover the tax gap.  
 This will attract talent from Tokyo, Taiwan, and Singapore.  
 
-### Future 6. dismisses the media cartel
+## Future 6. dismisses the media cartel
 
 The current generation of people of Okinawa is 'educated' from birth by local media under total control.  
 The invisible hand can't fix this 'educated' market.  
@@ -119,14 +120,14 @@ Japan should adopt similar 'Pluralism Thresholds' that trigger automatic governm
 **JFTC and Resale Price Maintenance System(再販制度)**
 Japan has the Japan Fair Trade Commission (JFTC) that can address the problem.  
 JFTC has a concept of Collective Dominance that can be applied to the Okinawa context.  
-In economics, the Okinawa media landscape can be framed as a Cartel. They do not compete on price. They do not compete on narrative. They effectively operate as a single organism with two mouths.  
+In economics, the Okinawa media landscape can be framed as a Cartel. They do not compete on price. They do not compete on narrative. They effectively operate as a single organism with two mouths. (And they have weirdly almost the same sales numbers.)  
 Also, newspapers are getting privileged of RPMS. 
 If a newspaper, or collective, has >80% market share in a prefecture, it should lose its special legal protections until competition is restored.  
 
 Addressing media dominance is essential, and we can take numerous measures that I can't list here. 
 I leave that to you and professional regulators. 
 
-### Future 7. The Institution: Human Resource Exchange.  
+## Future 7. The Institution: Human Resource Exchange.  
 "第６次沖縄県観光振興基本計画" [https://ghostarchive.org/archive/2Sjv5](https://ghostarchive.org/archive/2Sjv5)   
 I talked about how bad this "Basic Plan" is. In short, it's not a plan. It's at best a diary.  
 After reading the PDF. I find the deeper problem. 
@@ -140,24 +141,27 @@ They are in an "Echo Chamber." They only talk to each other, so they think this 
 The culture of the Okinawa Prefectural Government has rotted.  
 
 This is a hard part. Changing the institutional culture is difficult.  
-WE can't reeducate adults; Okinawa institutions have to exchange personnel with other prefectures.  
+We can't reeducate adults; Okinawa institutions have to exchange personnel with other prefectures.  
 
 Okinawa needs a complete Human Resources overhaul.  
 Okinawa needs to exchange its bureaucrats with other prefectures.  
 Okinawa needs cold, hard eyes from the outside to be audited.  
 
-### Future 8. The language: An International hub needs to be bilingual
+## Future 8. The language: An International hub needs to be bilingual
 
 This is optional.  
 
-All Singaporeans are bilingual. 
-If Okinawa chose to become an international hub, as they claim to be today, it would have to speak English.  
-Potentially, the US bases can provide native English speakers. Soldiers' families are likely happy to teach English. 
-You might think "There is no room" to teach English, but statistics show bilingual countries have high scores on Math and other subjects. And this aligns with my personal experience, becoming bilingual (I was 29yo when I started speaking English) has so many intellectual benefits beyond "being able to speak another language". So many I can't list here. For example, I was never able to write this report without becoming bilingual.  
+Almost all Singaporeans are bilingual.  
+If Okinawa chose to become an international hub, as they claim to be today, it would have to speak English.   
+Potentially, the US bases can provide native English speakers. Soldiers' families are likely happy to teach English.  
+You might think "There is no room" to teach English, but statistics show bilingual countries have high scores on Math and other subjects. And this aligns with my personal experience, becoming bilingual has so many intellectual benefits beyond "being able to speak another language". So many I can't list here. For example, I was never able to write this report without becoming bilingual.   
+And if Okinawa were bilingual, likely we wouldn't have to tackle this entire problem in the first place, because a multi-language environment is difficult to be filled with a single ideology, because bilinguals will access diverse media and ideas. There will be no media monopoly, fewer fake histories. They will gain natural critical-thinking ability because they see things from two (English and Japanese) perspectives always.  
+Also, being bilingual will give Okinawans a real feeling of "capability". Other Japanese failed to learn English. If Okinawans can do it, it gives them confidence, it gives them real capability. They will not needs daily reminder of the fake stories to not feel "incompetent".
+
 It's likely beneficial to aim for bilingual, even if we consider the opportunity cost. 
 Japan's English education is outdated. Okinawa can become the frontier for real English education that boosts the productivity of all of Japan.  
 
-### Future 9. Abolish the development aid
+## Future 9. Abolish the development aid
 
 **Stop it.**
 This is the most important.  
@@ -166,53 +170,74 @@ It's time for Okinawa to get real economic independence.
 So we have to cut the promotion budget even if they scream. We had to.  
 Of course, don't cut the regular aid that keeps the Okinawa government running.  
 
-### Conclusion: Creative Digital Industry with beautiful Beaches
-*   Okinawa stops relying on the "Cheap Beach" trade.  
+## Future 10. The Rival is Fukuoka.
+
+As long as Okinawa defines its rival(enemy) as Japan/Tokyo, the US, or China, which is a too high wall to climb, Okinawans have to manufacture fake stories to not feel "incapable".  
+Okinawa needs a realistic and respectable rival that acts as an achievable goal.  
+
+Everyone love to talk about Taiwan and Singapore, but it's not good choice.
+* Taiwan has too large population. (15 times bigger than Okinawa)
+* Singapore is too far. (it's important that the rival feels close and concrete; Okinawans have to be able to imagine "Singaporean" vividly.)
+
+Fukuoka is the best choice because it's a good barometer to measure the progress of the Creative Digital Island.
+* Fukuoka is "Startup City" (Line, Mercari, etc., have bases there). 
+* Population is almost identical: Okinawa (~1.47M) vs. Fukuoka City (~1.64M).
+* Both claim to be the "Gateway to Asia."
+* Inside the same nation, the battlefield is fair. If it feels not, we can fix it(Like we are doing in this report).
+* Okinawans can imagine Fukuoka vividly.
+
+While Okinawa was begging Tokyo for higher subsidies to build another road, Fukuoka was begging Tokyo for permission to lower corporate taxes for startups. And they are successful.
+
+Let them compete; that will create two lively, creative cities.  
+Okinawa has beautiful beaches; Fukuoka has none. Creative people are playful people; this is a winnable battle.
+
+## Conclusion: Creative Digital Industry with beautiful Beaches
 *   Okinawans do not have to pay for expensive cars.  
 *   Okinawans get high-paying creative jobs.  
 *   The economy creates a product that China cannot switch off.  
-*   Okinawa gets economic independence, and the people of Okinawa become wealthier.  
-*   Okinawans will love democracy because democracy has actually provided a visible good change to them.  
+*   Okinawans will value democracy because democracy has actually provided a visible good change.  
 
-**You will enjoy a beautiful beach after the creative work.**
+**Enjoy beautiful beaches after the tax-free creative work.**
 This is the unique Okinawa that attracts talent from all over the world.  
 
 
+
+
 ---
-# The conclusion: Do not hunt for the villains. Retweet this report now.  
+# The conclusion: Do not hunt for the villains. Just Retweet.  
 
 Thank you. 
 I know this report was long and emotional. You must be tired.  
 But you are here. You are here because you care about Japan and its people.  
-This is the final chapter. 
 
 We have walked through together.  
 We have seen how our money is wasted, how our security is undermined, and how Okinawa is kept poor by design.  
 
-We saw a bright hope that Okinawa can be the beacon of creativity, with beautiful beaches for extra.  
+But we also saw a bright hope: A Creative Digital Island.
 
-I want to say the most important thing:
+Now, I must ask you to do the hardest thing of all:
 **Do not hunt for villains.**
 
-### Do not hunt for villains. There are no villains, just true believers who believed bad data.  
+## There are no villains, only true believers.  
 
-As I explained, they are doing what's best for them. And that shouldn't be punished.  
-They believed they were doing the right thing. They are not evil people.  
-What they did was likely portrayed as "justice" in their circle.  
-Tokyo kept Okinawa poor to save all of us.  
-Local media did just what corporations do, and likely most of the people inside believed that they were doing the morally right thing.  
-They are just true believer that situated within a bad structure.  
-And other players I didn't explain in this report are the same.  
+As I explained, the politicians and bureaucrats are doing what is best for *them*.
+They are not evil. They are rational.
+To them, keeping the current system alive looks like "Justice."
+To Tokyo, sending money looked like "Stability."
+To the local media, fueling the conflict looked like "Righteousness."
+
+They are just true believers trapped in a bad structure.
 
 **The evil is not in the People. The evil is in the Structure.**
-All of this was legal. All of this was rational for the players involved.  
-But the result was a disaster for Japan.  
+All of this was legal. All of this was rational.
+But the result was a disaster for Japan.
+
 So, let's not blame people and start **fixing the structure.**
 We've already lost too much time and resources; we have to focus on what matters.  
 
 And, Remember? **"The Conflict" is their business.**
 That's what kept this scam alive for over 50 years.  
-If we start fighting each other—Right vs. Left, Mainland vs. Okinawa—we are just giving them more time and money.  
+If we start fighting each other—Right vs. Left, Mainland vs. Okinawa—we are just giving them more content for their show. We are giving them more time.
 
 **We will not fall for their trap anymore.**
 
@@ -220,49 +245,68 @@ We will not give them time to entrench.
 
 **We start dismantling this show today. Here and now.**
 
-### We start now, but how?: By entering the game.  
+## We start now, but how?: By entering the game.  
 
 I told you that we, "the Japanese majority," are the strongest player.  
 It means **you** are the boss.  
-It's true as long as we are a democratic country. And luckily, we are.  
+But a boss who never speaks is a boss who gets ignored.  
+Your money is continue to be wasted until you raise your voice.  
+
+They fear our voice. so, **don't be silent.** That's what they want.
 
 If the majority of potential voters support ending the halmful aid, the government has to change the current policy to stay in power.  
 You don't have to wait till the next election.  
 **We can start today, right now.**
 
 To make the majority support this idea, we have to deliver this idea to them.  
-Japan is an old country. Not everyone has access internet, SNS, or YouTube.  
-We need mass media on our side. Nationwide TVs and nationwide newspapers are necessary to secure the majority.  
+Japan is an aging giant. Not everyone has access internet, SNS, or YouTube.  
+To win, we need mass media on our side. Nationwide TVs and nationwide newspapers are necessary to secure the majority.  
+But, they will not report on this "Taboo" truth unless they feel safe.
 
-### The Strategy: Setting the comfortable ground for the mass media
+## The Strategy: Setting the comfortable ground for the mass media
 
 Japanese newspapers have a unique system that makes them loosely collective. The system is called the Kisha Club.  
-If one media moves too fast, it will be punished by others.  
-We need to build a condition that one media feels confident that the other media will follow the move.  
+A media moves too fast will be punished. Like who says different things from others get punished. "出る杭は打たれる"   
+We need to build a condition that a media feels confident that the other media will follow the move.  
 
 **This is where YOU come in.**
 
-To make them feel safe. We can build a public consensus that the majority of the Japanese will support the idea.  
-This can be done in two ways.  
-1. Spread this idea by retweet or any means.  
-2. Influential figures support this idea.  
+When you Retweet, Share, or send this to an influencer, you are not just "clicking a button."
+You are sending a signal of the change.
+You are telling the media: *"It is safe to talk about this. The audience is ready."*
+You are telling the politicians: *"The wind has changed. If you don't fix the structure, you will lose your seat."*
 
-"Spread this idea" works because this is essentially pre-voting. Who spread the idea is who likes the idea.  
-He will vote for the party that aligns with the idea in the next election. 
-Every Retweet, every Share, every Like is a signal.  
-It tells the media: *"The wind has changed."*
-It tells the politicians: *"If you don't change the policy, you will lose votes."*
+This is the election. In the digital age, every day is Election Day.  
+And your smartphone is the ballot box.  
+Every Retweet is a vote cast in the open.  
 
-"Influential figures support" is the same as "spread the idea", but with a large boost.  
-Influential figures can spread the idea much faster and farther than an ordinary man.  
+When people see your retweet, they will gain the courage to raise their voice.
 
-When mass media think, "Seems like most of the Japanese will like this idea", they will follow.  
-When the government thinks, "Seems like we are going to lose the next election if we don't change the course", they will end the halmful aid.  
-And to that, you should spread this idea as far as you can.  
+## My Final Request: Retweet Now
 
-**You are the one who pushes the First Domino.**
+**Push the first domino.**
 
-## My Final Request: Retweet this report now
-**Retweet this now.**
-If you know an influential figure—a YouTuber, a politician, a professor, a journalist, an author—send this to them.  
+(Click the blue icon on the left)
+
+Do not let this report die in your smartphone's browsing history.  
+If you know an influential figure—a YouTuber, a politician, a professor, a journalist—send this to them.  
+Tell them **you** found the important information.
+
+**Retweet this report now.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

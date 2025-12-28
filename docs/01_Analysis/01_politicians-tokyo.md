@@ -1,4 +1,6 @@
-# "The money you sent to Okinawa is for the Okinawa economy growth."
+# Incentive Analysis: Politicians in Tokyo
+
+"The money you sent to Okinawa is for the Okinawa economy growth."
 Every year, Tokyo hands Okinawa about 300 Billion Yen. They call it the "Okinawa Promotion Budget."
 It's been over **50 years**.  
 The total became roughly 14.8 Trillion Yen.  
@@ -10,7 +12,7 @@ The only thing he knows how to do is spend money.
 Whose fault?
 It's our fault. We have to stop this.  
 
-### Aid Curse: good things sometime hurt local development
+## Aid Curse: good things sometime hurt local development
 This phenomenon is well known among politicians and academics. It's called "Aid Curse". (a variant of the Resource Curse)
 The observation became famous in "Dead Aid: Why Aid Is Not Working and How There Is a Better Way for Africa" by Dambisa Moyo, published in 2009.  
 This book fundamentally changed the public debate on development by arguing that systemic government-to-government aid has been a "curse" rather than a blessing for African countries.  
@@ -35,7 +37,7 @@ It's called "Soft Budget Constraint" in economics.
 The money is sent to make Okinawa poor and dependent. So Tokyo can control Okinawa. (e.g., bases)
 "Okinawa Promotion" is a facade.  
 
-### Conclusion: Stop the aid.  
+## Conclusion: Stop the aid.  
 
 * The aid is hurting the Okinawa economy rather than developing it.  
 * 14.8 Trillion Yen created the poorest prefecture in Japan.  

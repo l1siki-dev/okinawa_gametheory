@@ -1,9 +1,14 @@
-# 6: "Ryukyu Kingdom was a peaceful Kingdom."
+# History Overview: I'm pure Okinawan, and I hate Ryukyu. 
 
+I studied Okinawa history extensively.  
+And I found that Ryukyu was the enemy of Okinawa people.
+
+* "Ryukyu Kingdom was a peaceful Kingdom."
 * "Ryukyu Kingdom was a great trader."
 * "Ryukyu Kingdom was a utopia."
 
-These "Beautiful Ryukyu Kingdom" stories are all fantasy.  
+These "Beautiful Ryukyu Kingdom" stories are all lies.  
+
 The historical evidence tells that 
 * Ryukyu was not peaceful.
 * Ryukyu was not a great trader.
@@ -11,7 +16,7 @@ The historical evidence tells that
 * Ryukyu was not sovereign from day one (1429).
 * Ryukyu was not even a Kingdom in a practical sense.
 
-### Start from the data: population growth.  
+## Start from the data: population growth.  
 Before the story, let's see the population growth data I calculated from trustworthy data.  
 
 | Period / Year | Regime | Pop Growth | Annual Growth | Data Type |
@@ -35,7 +40,7 @@ We can observe:
 
 We've already dismissed "Ryukyu Utopia" and "Golden Age".  
 
-### Pop growth under Ming(0.11%) and under Satsuma(0.47%): Resource Curse from Ming
+## Pop growth under Ming(0.11%) and under Satsuma(0.47%): Resource Curse from Ming
 
 The difference mainly comes from two things.  
 1. Sweet Potato(Satsuma/Kara imo)
@@ -60,7 +65,7 @@ Ryukyu/Satsuma(1609 – 1880) period, Satsuma wanted to create a sugar industry 
 That's the reason.  
 Satsuma needed to develop the local population/industry, but Ryukyu was not.  
 
-### Pop growth under Satsuma (0.47%) vs. Japan (0.99%): Tax Reform & The End of Internal Colonialism
+## Pop growth under Satsuma (0.47%) vs. Japan (0.99%): Tax Reform & The End of Ryukyu's Internal Colonialism
 
 The doubling of the growth rate under modern Japan was driven by the dismantling of the Ryukyu Kingdom's punitive tax structure.  
 
@@ -76,7 +81,7 @@ The Meiji government eventually abolished the Head Tax (fully by 1903) and repla
 *   **The Incentive:** This reversed the economic logic of the family. A child transformed from a "Tax Object" into a **Labor Asset**. More children meant more hands to work the sugar cane fields, increasing the family's surplus income.  
 *   **The Boom:** With the state no longer penalizing reproduction, the population naturally corrected upward. The jump to 0.99% growth wasn't just about better medicine; it was the economic rationalization of survival.  
 
-### Our observation aligns with history: Under Ryukyu, commoners suffered; under Japan, they were liberated.  
+## Our observation aligns with records: Under Ryukyu, commoners suffered; under Japan, they were liberated.  
 
 The statistics of population growth tell one story, but the historical records of **Inamura Kenpu** (a Miyako-born historian) tell the human story.  
 
@@ -103,19 +108,19 @@ This history contradicts the modern narrative that "Mainland Japan" has always b
 
 The population boom that followed wasn't an accident; it was the direct result of this liberation. The "Voice of Joy" in 1903 confirms that for the common people of Miyako, modernization was not oppression—it was survival.  
 
-### Is Nakamura Saint?: Likely not, he is a businessman who needs healthy labor
+## Is Nakamura Saint?: Likely not, he is a businessman who needs healthy labor
 
 We should not romanticize the reformers as pure saints. Nakamura Jusaku was a businessman who needed a mobile, healthy labor force for the modern pearl and sugar industries. However, this proves the point: Modern economic incentives are aligned with the survival of the population. The Feudal/Colonial system viewed the population as a liability to be taxed into starvation; the Modern/Capitalist system viewed them as a resource to be developed. Whether out of altruism or profit, the modern system stopped the infanticide.  
 
 There is no saint in our world; incentives can make people act like a saint or an evil person.  
 
-### Incentives can make people act as saints or act as evil.  
+## Incentives can make people act as saints or act as evil.  
 
 There are no true saints or devils in our world. Only actors responding to the world around them. Incentives can drive a businessman to act like a savior, just as they can drive a King to act like a tyrant.  
 
 The history of Ryukyu already teaches us a crucial lesson: If the incentive structure is flawed, even a benevolent ruler will produce suffering. If the structure is sound, even a greedy merchant can bring liberation.  
 
-### Why we need to know Okinawa's history: We need an honest talk based on good data.  
+## Why we need to know Okinawa's history: We need an honest talk based on good data.  
 
 Understanding real history is important because bad data is the source of misunderstanding(both Okinawa and mainland Japan), which makes real talks hard.  
 Because we believe bad data. We assume the other side is lying when the stories contradict. 
@@ -124,7 +129,7 @@ It makes the opposite side look evil. Because we want to believe that "We are on
 Understanding the history of Okinawa gives us a fair assessment of what Ryukyu, Satsuma, and Japan did.  
 Also, Okinawa's history is more important than you think. All Japanese should be familiar with it.  
 
-### Okinawa's history is important than you think
+## Okinawa's history is important than you think
 
 You think Okinawa is a tiny substory compared to mainland Japan (e.g., Sengoku-Jidai).  
 Yes, Okinawa is physically tiny.  
@@ -154,7 +159,7 @@ There will be no proof of "Non-European can defeat first-class European power" u
 
 We are here because of Okinawa.  
 
-### Population data: Satsuma-Ryukyu partners in crime.: Tax-Evading Bros
+## Population data: Satsuma-Ryukyu partners in crime.: Tax-Evading Bros
 "薩摩藩と近世琉球国の人口" by 尾口義男 page 8.  
 [https://www.pref.kagoshima.jp/ab23/reimeikan/siroyu/documents/6757_20220514171645-1.pdf](https://www.pref.kagoshima.jp/ab23/reimeikan/siroyu/documents/6757_20220514171645-1.pdf)  
 You see the beautiful table. But the data is unreliable. (Not to blame the author, he did a great job.)
@@ -184,7 +189,7 @@ They collaborated to evade tax.
 And that alliance is what defeated the Shogun in the end.  
 The "Tax-Evading Bros" funded the Modernization of Japan.  
 
-### Who brought the sugar to Okinawa?: It was actually Satsuma.  
+## Who brought the sugar to Okinawa?: It was actually Satsuma.  
 
 It's officially an Okinawan. Gima Shinjo.  
 But reality is more complex.  
@@ -210,7 +215,7 @@ The "official introduction" was likely the start of industrialization initiated(
 And southern China(Fujian in this context), where Okinawa had a contact, is the sugar cane production center in China. 
 There is no way the crop didn't spread for over 1500 years.  
 
-### Who created the Ryukyu Kingdom?: It was actually Ming to get Japanese Sulfur.  
+## Who created the Ryukyu Kingdom?: It was actually Ming to get Japanese Sulfur.  
 
 The official history credits officially an Okinawan. Sho Hashi, the King of Chuzan.  
 But reality is more complex.  
@@ -251,13 +256,13 @@ And if a Ryukyu ship carrying sulfur gets attacked by pirates on the way to Chin
 That is Ryukyu's loss, not the Emperor's.  
 The Ming effectively outsourced the logistics risk to Chusan.  
 
-### Ryukyu is never had been soverign in practical sense. 
+## Ryukyu is never had been soverign in practical sense. 
 
 It was all Ming's doing.  
 That was business of Ming. Whatever legal difinition is.  
 Ming was the boss who decide what Ryukyu do, and Ryukyu "King" was just a local manager who got business licence.  
 
-### Ryukyu is not even Kingdom in usual sense
+## Ryukyu is not even Kingdom in usual sense
 
 Famouse Kingdoms c. 1600 
 
@@ -283,7 +288,7 @@ You imagine the famouse one like Shohei Ohtani.
 The "Kingdom" title was given by Ming to run Dejima business.
 Calling Ryukyu "Kingdom" is a deceptive grouping to distort the perceived reality of the readers.
 
-### **Sotetsu-Jigoku is not a hell.** It was a Recession
+## **Sotetsu-Jigoku is not a hell.** It was a Recession
 Let’s look at the population statistics of Okinawa Prefecture.  
 [https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C%E3%81%AE%E4%BA%BA%E5%8F%A3%E7%B5%B1%E8%A8%88
 ](https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C%E3%81%AE%E4%BA%BA%E5%8F%A3%E7%B5%B1%E8%A8%88)  
@@ -308,7 +313,7 @@ And unlike the Ryukyu Kingdom era, people weren't trapped. They had **Freedom of
 
 If you call a period of population growth "Hell," you are insulting the people who survived actual genocides. The term "Sotetsu Jigoku" is an emotional label used to victimize Okinawa's history, ignoring the fact that modern Japanese rights (freedom of movement) saved them from the fate of a real feudal famine.  
 
-### Analyze the Okinawa Government's official story: Spoiler, it's a fantasy
+## Analyze the Okinawa Government's official story: Spoiler, it's a fantasy
 Let's see the authorized story from the Okinawa Government. 
 Because it has to be valid. Right?
 To learn history, we should refer to a valid source. Right?
@@ -317,7 +322,7 @@ This is the official page of from Okinawa prefecture government "History Summary
 It's a web archive because it'll likely be modified if this report becomes viral.  
 https://ghostarchive.org/archive/7orrA (mirror: https://archive.md/AitCN)
 
-### The first line of the Official Story "Peaceful Kingdom": Not ture
+## The first line of the Official Story "Peaceful Kingdom": Not ture
 
 > 昔、沖縄県は、琉球とよばれた一つの国でした。1429年、尚巴志という人物が、各地の有力者を一つにまとめました。
 
@@ -350,7 +355,7 @@ Now you can see so many problem in "昔、沖縄県は、琉球とよばれた�
 3. It was never "united" in the usual sense. Even if only counting Amami, they revolted in 1466(the first conquest), 1537, and 1571.  
 4. It ignores everything before the Ryukyu Kingdom. It is as if the first page of Japanese history read: 'Long ago, Japan was a single country called the Tokugawa Shogunate'. It's an insult to the deep history of Okinawa.  
 
-### The second line of the Official Story, "Trade Kingdom": No, it was actually Ming's "Dejima"
+## The second line of the Official Story, "Trade Kingdom": No, it was actually Ming's "Dejima"
 > 首里城を王国の中心とした琉球は、さかんに中国や日本、アジアの国々に出かけていき、たくさんの品物の売り買いを行いました。そのころの那覇の港は、海外から運ばれた物や外国人であふれたといわれます。この時代は「大交易時代」とよばれています。琉球は、「レキオ」という名前で、ポルトガルの資料にも記録されています。
 
 We already talked about it in this chapter. "Who created the Ryukyu Kingdom?"
@@ -364,11 +369,12 @@ Venice, Genoa, Carthage, the Dutch Republic, the British Empire. These were true
 Which thrived because of trade.  
 Trade is the lifeline. They have to protect it.  
 
-Ryukyu had no standing navy. They were not "moving goods" through their own commercial power; they were moving goods because China allowed them to.  
+Ryukyu had no standing navy. They were not "moving goods" through their own commercial power.
 
-And Ryukyu didn't thrive. 
-They claim they did, but a thriving trading kingdom would never be defeated by financially broken Satsuma by naval invasion.  
-Mongol invasions failed because that was a naval invasion. Even the strongest empire at that time couldn't succeed it. The defense side has a massive advantage. It is considered the most difficult type of military campaign.  
+Ryukyu didn't thrive. 
+Thriving trading kingdom would never be defeated by financially broken Satsuma by naval invasion.  
+Mongol invasions of Japan failed because that was a naval invasion. Even the strongest empire at that time couldn't succeed it.  
+The defense side has a massive advantage on naval invasion. It is considered the most difficult type of military campaign.  
 And trade kingdom is best at naval warfare. It just doesn't make sense.  
 
 In fact, Japan at that time was much better qualified as a "Trade Kingdom".  
@@ -376,13 +382,12 @@ When the Portuguese in Macau killed Japanese sailors in the "Nossa Senhora da Gr
 A country with no navy can't do business overseas; that's the reality.  
 
 Ryukyu was "allowed" to trade because China let them. Ryukyu was a Dejima of the Ming.  
-Okinawa government's official story ignores that fact.  
 
 And people started to ignore the ban; Ryukyu lost its role as a warehouse.  
 The Okinawa Government calls it the "Great Trade Era."
 A more accurate name would be the "Great Warehouse Era."
 
-### "Plausible deniability" of "for child" on pref.okinawa.jp
+## "Plausible deniability" of "for child" on pref.okinawa.jp
 
 We did just 2 lines. But I think that was enough to give you the idea.  
 The official story is a fantasy.  
@@ -445,7 +450,7 @@ So they can spread the inaccurate history while being immune to criticism.
 No normal person will reach the accurate version.  
 Only the inaccurate version became the truth, because it's from the Okinawa government authority.  
 
-### Proof of the intent: selective image quality 
+## Proof of the intent: selective image quality 
 
 You might think, "Maybe the Okinawa government is just bad at making websites."
 Maybe. 
@@ -476,7 +481,7 @@ But "沖縄の歴史と文化31" is exceptionally harder to read.
 
 "沖縄の歴史と文化31" is the lowest quality image I can find from the "adult" pages.  
 
-### **The quality difference is evidence of their intent and digital competence**: only the dangerous page is blurry.  
+## **The quality difference is evidence of their intent and digital competence**: only the dangerous page is blurry.  
 
 They made the image blurry. Only 沖縄の歴史と文化31 is blurry.  
 If they have no idea what they are doing, why is only the page specifically dangerous for their propaganda blurry?
@@ -486,7 +491,7 @@ This is a real example of the attempt to hide the history.
 
 You can see what I mean if you examine the blurry "沖縄の歴史と文化31".  
 
-### edit: only the dangerous (for their propaganda) page snapshot is immediately deleted from web.archive.org by the owner
+## edit: only the dangerous (for their propaganda) page snapshot is immediately deleted from web.archive.org by the owner
 
 "沖縄の歴史と文化8" 
 [https://web.archive.org/web/20250808012416/https://www.pref.okinawa.jp/bunkakoryu/bunkageijutsu/1009556/1009653/1009658/1002497/1002504.html](https://web.archive.org/web/20250808012416/https://www.pref.okinawa.jp/bunkakoryu/bunkageijutsu/1009556/1009653/1009658/1002497/1002504.html)
@@ -509,7 +514,7 @@ This works because if a single man takes a screenshot and uploads it, he might h
 沖縄の歴史と文化31 is the original book's page 30. You should be able to find it (the National Diet Library likely has it) if you are reading this in the distant future.  
 Original book: "沖縄の歴史と文化" published in 2000/3/31 by 沖縄県教育委員会
 
-### "Why is the tree clearer than the King?": because King tells the truth that denies the Fantasy Ryukyu
+## "Why is the tree clearer than the King?": because King tells the truth that denies the Fantasy Ryukyu
 
 Such a disgrace, isn't it? Should they be proud to present their king's 4K image?
 
@@ -533,7 +538,7 @@ The reason is obvious if you are familiar with Ryukyu's history.
 
 Page 31 lists the facts that the "Okinawa Cartel" is desperate to hide.  
 
-### Tokyo government vs. Okinawa Cartel on pref.okinawa.jp: Bureaucratic Battle
+## Tokyo government vs. Okinawa Cartel on pref.okinawa.jp: Bureaucratic Battle
 
 So, the next question is, "Why does the Okinawa government have to show this image?"
 We saw that they clearly don't want to show this to us. But there is, why?
@@ -560,7 +565,7 @@ The 1880 negotiations between Japan and Qing China had a high likelihood that th
 If Sakishima was not part of the "Ryukyu Kingdom", that would complicate things for Tokyo, too.  
 So Tokyo and Cartel can shake hands on the Sakishima(Miyako, Yaeyama) topic. Beautiful. 
 
-### Political risk that idealizes the Ryukyu: China ownership
+## Political risk that idealizes the Ryukyu: China ownership
 
 Okinawa is genetically, linguistically, culturally, historically, internationally, and legally Japan.  
 But as I explained in this chapter, the Ryukyu Kingdom is the result of Ming's action.  
@@ -572,7 +577,7 @@ End the Ryukyu worship that ignores the real history.
 Without the right understanding of the situation, no progress.  
 As Sun Tzu said, "Know the Enemy and Yourself, you will not know defeat". (Not a great choice?)
 
-### Conclusion: Stop the aid.  
+## Conclusion: Stop the aid.  
 * The aid provides the structure that the creation of hateful nationalism thrives, promoting inaccurate history.  
 * Give Okinawa a real history education.  
 * The Okinawa govt is promoting inaccurate history. 
@@ -582,3 +587,10 @@ As Sun Tzu said, "Know the Enemy and Yourself, you will not know defeat". (Not a
 * Satsuma is actually not that bad, at least compared to Ryukyu. Because they had incentives to develop Okinawa.  
 * Japan did even better.  
 * Okinawa's history is important/interesting than you think.  
+
+
+
+
+
+
+

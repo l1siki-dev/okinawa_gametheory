@@ -1,6 +1,11 @@
-site_name: "Okinawa is designed to fail"
-site_description: Why is Okinawa the poorest after 14.8 trillion yen in special development aid? From a perspective of game theory.
-site_url: https://lisiki-jp.github.io/okinawa_gametheory/
+site_name: >-
+  "Keep Okinawa Poor" The tacit understanding of Okinawa media, Naha, and Tokyo.
+site_url: https://lisiki-jp1.github.io/okinawa_gametheory/
+site_description: >-
+  "Nagatachō and Naha Love 'Poor Okinawa' | 永田町と那覇は『貧しい沖縄』が大好き"
+  "Keep Okinawa Poor" The tacit understanding of Okinawa media, Naha, and Tokyo. | 「沖縄は貧しいままにしよう」沖縄メディア、那覇、永田町の暗黙の了解。
+  14.8 Trillion Yen of "Intentional" Failure | 14.8兆円の「意図的な」失敗
+  Decoding the "Poverty Mechanism" where 14.8 Trillion Yen vanished, using data. | なぜ14.8兆円も投じて「最下位」なのか？ データが示す残酷な論理
 site_author: りしき
 
 theme:
@@ -60,6 +65,15 @@ theme:
 plugins:
   - search
   - macros
+  - social
+  - minify
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
 
 hooks:
   - docs/python/strip_number_hook.py

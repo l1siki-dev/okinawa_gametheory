@@ -1,8 +1,10 @@
-# 2: "This is the cost of National Security. We have to pay it."
+# Not great way to ensure National Security
+
+"This is the cost of National Security. We have to pay it."
 
 If this is about National Security, we shouldn't pay 300 Billion Yen to Okinawa.  
 
-### We are losing the war before it even begins. 
+## We are losing the war before it even begins. 
 
 Modern war is decided by how many missiles you stockpile.  
 
@@ -19,7 +21,7 @@ Japan only has roughly 1500 interceptors.
 In this gap, even in the best scenario, 1,000 to 1,200 can hit Tokyo. We can't intercept them mathematically.  
 The gap in total military prowess is widening. And when this ratio becomes large enough, China will have confidence to act.  
 
-### National Security Negligence by Tokyo's politicians
+## National Security Negligence by Tokyo's politicians
 
 And if this is truly about National Security, why is it even up for debate?
 If the bases are essential for Japan's survival, allowing them to be blocked by local politics is a **crime against the nation.**
@@ -41,7 +43,7 @@ As we learned in "1", this is the money to keep Okinawa weak and dependent.
 Let me repeat the current situation because it's so absurd:
 **This 300 Billion Yen is not buying Security. It is buying Vulnerability.**
 
-### Poverty is a hole in our armor: Vulnerable to Chinese influence
+## Poverty is a hole in our armor: Vulnerable to Chinese influence
 A poor, resentful population that relies on Chinese tourists or Chinese imports/exports is a population that can be manipulated by China.  
 China doesn't need to invade with tanks; they just need to turn off the switch, and the economy will collapse.  
 China can even blackmail to change sides. That is happening in other Pacific islands like Palau. Where the US is doing the "dependency" strategy.  
@@ -55,7 +57,7 @@ A rich, industrial, self-sufficient Okinawa that doesn't need Tokyo's money—an
 We are spending 300 Billion Yen a year to maintain a weak point in our armor.  
 That isn't "Defense Spending." That is **Defense Undermining.**
 
-### Conclusion: Stop the aid.  
+## Conclusion: Stop the aid.  
 
 * Because the aid has a negative effect on national security.  
 * Tokyo's politicians are neglecting their duty by enabling the local politicians to disrupt national security.  

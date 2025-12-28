@@ -1,6 +1,8 @@
-# 3: "Politicians of Tokyo want to improve the economy of Okinawa."
+# Why Nagata-chō want weak Okinawa
 
-You already know Nagata-cho actually wants the opposite, weak Okinawa. So they can be controlled.  
+"Politicians of Tokyo want to improve the economy of Okinawa."
+
+You already know Nagata-chō actually wants the opposite, weak Okinawa. So they can be controlled.  
 Here, we will explore **why** they want **absolute** control so badly. 
 They are not stupid. They know they could buy 1,000 long-range missiles every year for that money. 
 But they choose to weaken Okinawa, why? **What could be worth that amount of missiles?**
@@ -8,10 +10,10 @@ But they choose to weaken Okinawa, why? **What could be worth that amount of mis
 You might have guessed it, the bases.  
 You could be wrong.  
 
-Nagata-cho's fear is deeper than that.  
+Nagata-chō's fear is deeper than that.  
 The real reason they spent so much to ensure a weak Okinawa is to prevent **Okinawa independence**.  
 
-### Rich = Independence ?: Catalonia case
+## Rich = Independence ?: Catalonia case
 
 Have you ever heard of Catalonia?
 It's a part of the eastern coast of Spain where the beautiful Mediterranean city of Barcelona is located. Sagrada Família is there.  
@@ -31,10 +33,10 @@ It's the end of Japan's security. Important trades are going through near Okinaw
 The entire Pacific becomes a potential war zone because Okinawa is part of the "First Island Chain" that prevents the Chinese fleet from going Pacific.  
 Without maritime control, we have no future. We have no food. No oil. No resources. The stock price will vanish in one night. 
 
-This is the fundamental fear of Nagata-cho.  
+This is the fundamental fear of Nagata-chō.  
 This is why they want a weak and dependent Okinawa. 
 
-### Preparing for the worst, we end up in a worse position
+## Preparing for the worst, we end up in a worse position
 
 The ruling party is not only a politician. They are the commander of the military.  
 The military has a **duty to prepare for the worst.**
@@ -47,9 +49,9 @@ But the world is not only Japan. And we have a **non-democratic China now richer
 50 years ago, the plan might have looked perfect. But today, it looks catastrophic.  
 As I explained in "2/Poverty is a hole in our armor", poor citizens are vulnerable to influence from China.  
 
-Nagata-cho succeeded in securing a favorable economic balance between Okinawa and Tokyo by weakening Okinawa. But that's also shifting the economic balance between Okinawa and Beijing.  
+Nagata-chō succeeded in securing a favorable economic balance between Okinawa and Tokyo by weakening Okinawa. But that's also shifting the economic balance between Okinawa and Beijing.  
 
-Yes, preparing for the worst, Nagata-cho is stepping closer to the worst. 
+Yes, preparing for the worst, Nagata-chō is stepping closer to the worst. 
 And during the process, Japan was weakened because it was spending money to weaken Okinawa. While **China got weak Okinawa for free.**
 
 Did Tokyo plan the forever dependency plan 50 years ago? Maybe, maybe not. **It doesn't matter**.  
@@ -62,7 +64,7 @@ Bureaucrats in Tokyo are happy because they control the island with money. As lo
 Politicians in Okinawa are happy because they can expoit the anger to win election.  
 It is a 'Perfect Crime' where no one has to be the villain, but everyone is an accomplice.  
 
-### Solution: Democracy Armor.  
+## Solution: Democracy Armor.  
 
 My solution is this: Make Okinawa love **democracy** and make them wealthy as mainland Japanese.  
 What **China will never be able to give Okinawa is democracy**. And we have that. 
@@ -87,7 +89,7 @@ Democracy is about the majority. Okinawa has only 1.2% of the population of Japa
 And they have been **directed to conflict** with other prefectures.  
 The only people who can bring a good democracy to Okinawa are mainland Japanese, **you**.  
 
-### Why we stand against Tyrannical China
+## Why we stand against Tyrannical China
 
 Besides, if we use democracy as a tool to ignore the minority. How can we stand proud against China?
 I'm not satisfied with the phrase "Protect the Status Quo" that politicians love to use. 
@@ -97,7 +99,7 @@ After all, how can we say we aren't an American client state that is manipulated
 We will show China, the USA, and the rest of the world that democracy matters. And the Japanese will matter.  
 
 
-### Good democracy is what keeps us safe and protected.  
+## Good democracy is what keeps us safe and protected.  
 There is a strong positive correlation between egalitarian democracy and Life Expectancy. 
 
 **The Evidence:**
@@ -122,19 +124,19 @@ The US politicians are competing in "How bad(how little distribute good things)"
 They just need to be slightly better than their opponent.  
 This structure, with only two entities in the system, is called "Duopoly", which the Okinawa local media is. By a 99.4% share.  
 
-### Bonus: Real democracy and flawed democracy
+## Bonus: Real democracy and flawed democracy
 You can search "Egalitarian component index" in V-DEM. This index acts as a scoreboard for how "Good Things" (resources) are actually distributed.  
 *   **The Contrast:** While the US lags, countries like **Japan, Germany, and the Nordic states** score very high.  
 *   **The Structure:** These countries have achieved an egalitarian society (and high life expectancy) because their political systems force leaders to serve a larger coalition.  
 
-### Bonus: Nationalism is excuse to not provide real improvement.  
+## Bonus: Nationalism is excuse to not provide real improvement.  
 Why does Okinawa have strong "Nationalism"?
 Because it lets politicians secure power without distributing any goods. 
 The economy has never developed. Politicians have no good thing to provide. Or they don't have to provide because it has strong nationalism.  
 The only thing they have to offer is a story that keeps people angry with the outside world. That lets politicians win votes and stay in power. 
 Just like Russia does.  
 
-### Bonus: WW2 winners die early. Losers live longer. Because they have to distribute real "good".  
+## Bonus: WW2 winners die early. Losers live longer. Because they have to distribute real "good".  
 The US, Russia, and China have strong nationalism as "The Winner of WW2". This let them satisfy the people with just a "memory". Rulers can neglect to satisfy it's people.  
 Germany, Japan, and Italy had to distribute the real public goods to satisfy it's people, because they have no good memory of Nationalism.  
 You can see that the WW2 winners have low scores on the "Egalitarian component index", and all losers have a high score on it.  
@@ -144,7 +146,7 @@ Yes, Japanese can live longer than US citizens because we lost WW2.
 Sometimes, people say “The Japanese can't have Nationalism”, like it's a bad thing.
 The data shows that having no Nationalism is good for your health. We are lucky to not have one.
 
-### Conclusion: Stop the aid.  
+## Conclusion: Stop the aid.  
 
 * It's a tool for control that is outdated and doesn't fit the current situation.  
 * Giving good democracy is the best way to make Okinawa in team democracy. And only you, Japanese, can do that.  

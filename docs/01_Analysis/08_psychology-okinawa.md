@@ -1,4 +1,6 @@
-# 8: "If we help, they'll like us."
+# Psychology of Okinawa People 
+
+"If we help, they'll like us."
 
 Sadly, **this is not true.**
  
@@ -10,7 +12,7 @@ I touched on this in the introduction, about the weird tendency that a US aid re
 And I explain here why it happens where nationalism is strong.  
 Okinawa has strong nationalism. Where the media has a dominant presence, it gets a strong identity. Because it's good for the media business.  
 
-### Nationalism prefers the victimhood
+## Nationalism prefers the victimhood
 The fundamental axiom of Nationalism is: "We are capable. We are independent. We are the main characters of our own story."
 Nationalism will be crushed if external help is the main driver of success.  
 If Nation A got external help, in pure identity logic, they have only two choices to maintain their self-esteem.  
@@ -22,7 +24,7 @@ Because they have to find the badness of the sender.
 The offset mechanism often works with manufacturing the story.  
 I call this "Nationalism Offset".  
 
-### Example of Nationalism Offset: Soviet pay blood, US pay trucks.  
+## Example of Nationalism Offset: Soviet pay blood, US pay trucks.  
 
 The US provided $11 billion (in 1940s dollars) of trucks, food, and fuel via Lend-Lease. Without it, the Red Army might have starved or lacked mobility. 
 Stalin and subsequent Soviet historians used the Nationalism Offset.  
@@ -36,7 +38,7 @@ You can see this phenomenon around the world. Those who send aid get hated by th
 Why and how does this happen? 
 Let's start with a simple and relatable example.  
 
-### Student's Capability Equation: I didn't study for the exam
+## Student's Capability Equation: I didn't study for the exam
 
 Students love to say, "I didn't study for the exam". I have to admit I was one of them.  
 Let's analyze that because it helps to understand any nation or group, including Okinawa.  
@@ -54,7 +56,7 @@ When the student says, "I didn't study for the exam." He is making the right-han
 That makes his "Natural intelligence" high. That's why students love to say it.  
 It will be more effective if the student says, "I haven't slept, so I'm not in good condition". Which again the right-hand side becomes bigger by claiming "Environmental Factor" was minus. 
 
-### Introducing the CAE equation: how the Percieved Capability Model works
+## Introducing the CAE equation: how the Percieved Capability Model works
 
 "We are capable" is the first mantra of nationalism. Yes, it's the most important thing for them.  
 Make the student equation a national level. Combine the effort and the natural intelligence into "Capability", that is the root of nationalism.  
@@ -79,7 +81,7 @@ To raise Nationalism, which is closely related to National Capability (C), you c
 2. Make A High: e.g., Archiving more. Reframing past achievements higher.  
 3. Make E Low: e.g., Erasing good from outside. Reframing the good from outside as bad, normal, or small. Exaggerating the bad from outside.  
 
-### Russian invasion of Ukraine: offset the humiliation by introducing NATO
+## Russian invasion of Ukraine: offset the humiliation by introducing NATO
 
 Let's see how the equation helps us to understand the situation.  
 You are Putin (I'm sorry to say that), and you want to bolster nationalism because that keeps you in power.  
@@ -96,7 +98,7 @@ NATO is the biggest military. Being attacked by NATO is the worst military condi
 "We are fighting against the entire NATO" is the official narrative and is widely believed among Russians. 
 At least inside Russia, you successfully saved the perceived capability of Russia, which secures your power.  
 
-### Japan's Lost 30 Years: offset the US help
+## Japan's Lost 30 Years: offset the US help
 Did Japanese people suddenly stop working hard in 1991?
 
 Btw, losing 30 years doesn't exist in reality. Because of inflation, and Real GDP vs. the Nominal GDP.  
@@ -138,7 +140,7 @@ We had a choice to frame America as a bad guy and "offset" the help. That's what
 That's why we have the story "Lost 30 years". 
 BTW, Japan’s productivity growth per worker from 1990–2010 was actually higher than the US and Europe.  
 
-### The hardworking people in Oil countries: Offset the luck
+## The hardworking people in Oil countries: Offset the luck
 
 We saw Japan created the "hardworking" myth to save its sanity.  
 You can see this phenomenon in many nations that have experienced lucky economic growth.  
@@ -192,7 +194,7 @@ The old generation thinks Oil is a gift from god, the reward of their faith. The
 I bet after 50 years, they call themselves "the hardest working people on earth."
 And seems I'm winning the bet. Saudi Arabia is currently promoting "Vision 2030", this project effectively tries to force-feed the "Hard Work/Innovation" myth to its population.  
 
-### Okinawa and Tokyo's aid: wasted aid only created hate
+## Okinawa and Tokyo's aid: wasted aid only created hate
 
 When aid(+E) came, locals had to create the offset stories(-E) to keep C high.  
 This is one of the reasons so many exaggerated, hateful stories come from Okinawa. 
@@ -203,7 +205,7 @@ This is erase external aid(+E) but not erase offset stories(-E).
 Okinawa's economy is not improving. It's the poorest. 
 Only the offset story(-E) remains there. That's why C can remain high, and hateful victimhood is strong.  
 
-### Okinawa Nationalism's relatively small Achievement: It needs victimhood to just exist
+## Okinawa Nationalism's relatively small Achievement: It needs victimhood to just exist
 
 Okinawa has the strongest local cultural identity among Japanese prefectures. 
 And it loves to tell a story, placing itself among Japan and China as peers. (e.g., mainland Japan vs. Okinawa, Ming as a trade partner)
@@ -219,7 +221,7 @@ When the bases(or the problems) are gone, and if they can't find another victimh
 
 Yes, as long as they choose to place themselves as "peer" of China or Japan, they have to tell a story of victimhood to keep themselves sane.  
 
-### Okinawa Pref's official story: CAE offset festival.  
+## Okinawa Pref's official story: CAE offset festival.  
 [https://www.pref.okinawa.jp/kyoiku/kodomo/1002705/1002706.html](https://www.pref.okinawa.jp/kyoiku/kodomo/1002705/1002706.html) [(mirror https://ghostarchive.org/archive/7orrA)](https://ghostarchive.org/archive/7orrA)
 
 We talked about this page in "6."
@@ -234,7 +236,7 @@ We talked about this page in "6."
 | -E | Victimhood | 太平洋戦争が終わりをむかえようとする、1945（昭和20）年3月、アメリカ軍が沖縄に上陸しました。はげしい戦いが行われ、沖縄に住んでいた人々約10万人をふくむ、たくさんの人たちが亡くなりました。これが「沖縄戦」です。|
 | -E | Victimhood | 戦争が終わると、1972（昭和47）年5月15日に日本へ復帰（ふっき）するまで、沖縄はアメリカの統治（とうち）が27年間続きました。その間に米軍基地（べいぐんきち）が建設され、今もなお存在しています。|
 
-### aid dependency create high localnewspaper share.: If we address media duopoly in Okinawa, we should provide alternative pride source.
+## aid dependency create high localnewspaper share.: If we address media duopoly in Okinawa, we should provide alternative pride source.
 
 correlation: 0.579
 
@@ -302,12 +304,21 @@ Sometime Okinawa newspaper is described as a tool of aid acquisition. But not on
 Economic power prefecture doesn't need to maintain its pride. (C = A - E). They already have big enough A and have little aid from outside. Their identities are psychologically comfortable without creating a story.
 And still they can have an additional story, like Aichi. They do not require to have local story to be comfortable. That's why the high dependency prefectures almost always have a high local newspaper share.
 
-### Psychological need of Okinawa people
+## Psychological need of Okinawa people
 
 They read the local papers not for information, but for validation. They need a daily confirmation that they are the protagonists of a tragedy, not the recipients of a subsidy.
 
 The 99.4% share is the measure of how desperate that psychological need is.
 
-### Conclusion: Stop the aid.  
+## What Okinawa keeps poor isn't the bases, it's local media and politicians.
+
+Okinawa keep it's sanity by blaming the bases, which is a physical and concrete "outsider".  
+Easy villain.  
+But the truth is that media and politics keep Okinawa poor.  
+Politicians in Naha, Ryukyu Shimpo, Okinawa Times, and local TVs. These are the main drivers dragging the feet of people of Okinawa.  
+To unleash the true potential of the Okinawa people, the "Master of Fiction", we have to get rid of the force that feeds fake, uncreative, hateful stories to the Okinawa people.
+
+## Conclusion: Stop the aid.  
 * The aid makes Okinawa hate Tokyo.  
 * The aid creates the environment in which nationalism thrives, and it requires hating outsiders just to exist because Okinawa is surrounded by real cultural superpowers, and nationalism demands acting like a peer of them.  
+
