@@ -8,6 +8,7 @@ Because institutional inertia is too strong on this.
 We must stop spending money on tourism.  
 
 Quick summary
+
  - Military rent alone is generating a profit 6 times higher than tourism. The combined external aid is at least 51 times bigger than the tourism profit(and "combined" does not include every external aid, since I was using Okinawa prefecture's terminology).  
  - Return on Investment (ROI) is disastrous. Okinawa tourism industry's estimated operational profit is tiny ~68.2 Billion Yen(2024), despite substantial investment.  
  - The Okinawa tourism can't even defeat Fukuoka in inbound. Fukuoka is not even trying to be a "Tourism Kingdom".  
@@ -427,6 +428,7 @@ The Basic Plan is the confession. They have given up.
 * Luxury tourism is a trap that Okinawa doesn't want to pursue.  
 * The Okinawa government knows tourism will not work.  
 * Okinawa government's official plan for tourism, "第６次沖縄県観光振興基本計画", is a confession of giving up.  
+
 
 
 
