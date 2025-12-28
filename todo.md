@@ -16,7 +16,7 @@
    * Tokyo hands 300 Bilion yen to Okinawa, like past 50 years 
    * proudly 50yo Okinawa report that he earned 70 Billion yen using that 300 Bilion
    * Tokyo is satisfied about that Okinawa never be able to leave the house
-   * (I might have miscalculated in favor of Okinawa in single magnitude, double check it.(the pie from the official document impllie that profit is 10 times smaller than the aid, 70/300 doesn't make sense))
+   * (I might have miscalculated in favor of Okinawa in single magnitude, double check it.(the pie from the official document impllie that profit is 10 times smaller than the aid, 70/300 doesn't make sense) edit: it seems the original pie is a bit strange?. but I verified that tourism number is collect. and I will assume that govenment numbers is right. because digging takes time. current state is enough to tell a story )
 
 
 * Use LLM to mitigate halo effect. -> use youtube for least resistance 
