@@ -8,16 +8,16 @@ Because institutional inertia is too strong on this.
 We must stop spending money on tourism.  
 
 Quick summary
-* Military rent alone is generating a profit 6 times higher than tourism. The combined external aid is at least 51 times bigger than the tourism profit(and "combined" does not include every external aid, since I was using Okinawa prefecture's terminology).  
-* Return on Investment (ROI) is disastrous. Okinawa tourism industry's estimated operational profit is tiny ~68.2 Billion Yen(2024), despite substantial investment.  
-* The Okinawa tourism can't even defeat Fukuoka in inbound. Fukuoka is not even trying to be a "Tourism Kingdom".  
-* These are the result of the attempts to make tourism the best industry in Okinawa for over 50 years, with massive development aid totaling 14兆8,000億円. 
-* The math simply doesn't work; It creates low-wage workers. Okinawa has a population that is too large to rely on tourists. 
-* Beach is the sales point. And that's bad, it's commodity. Only Korean and Taiwanease are the potential main customers.  
-* And even that beach is weak. Okinawa has winter. Competitors not.  
-* Luxury tourism is a trap that Okinawa doesn't want to pursue. It will make locals servants of outsider riches.  
-* The Okinawa government likely knows tourism will not work.  
-* Okinawa government's official plan for tourism, "第６次沖縄県観光振興基本計画", can be seen as a confession of giving up.  
+ - Military rent alone is generating a profit 6 times higher than tourism. The combined external aid is at least 51 times bigger than the tourism profit(and "combined" does not include every external aid, since I was using Okinawa prefecture's terminology).  
+ - Return on Investment (ROI) is disastrous. Okinawa tourism industry's estimated operational profit is tiny ~68.2 Billion Yen(2024), despite substantial investment.  
+ - The Okinawa tourism can't even defeat Fukuoka in inbound. Fukuoka is not even trying to be a "Tourism Kingdom".  
+ - These are the result of the attempts to make tourism the best industry in Okinawa for over 50 years, with massive development aid totaling 14兆8,000億円. 
+ - The math simply doesn't work; It creates low-wage workers. Okinawa has a population that is too large to rely on tourists. 
+ - Beach is the sales point. And that's bad, it's commodity. Only Korean and Taiwanease are the potential main customers.  
+ - And even that beach is weak. Okinawa has winter. Competitors not.  
+ - Luxury tourism is a trap that Okinawa doesn't want to pursue. It will make locals servants of outsider riches.  
+ - The Okinawa government likely knows tourism will not work.  
+ - Okinawa government's official plan for tourism, "第６次沖縄県観光振興基本計画", can be seen as a confession of giving up.  
 
 ## The Hard Truth: Why Tourism is a Dead End
 
@@ -427,5 +427,6 @@ The Basic Plan is the confession. They have given up.
 * Luxury tourism is a trap that Okinawa doesn't want to pursue.  
 * The Okinawa government knows tourism will not work.  
 * Okinawa government's official plan for tourism, "第６次沖縄県観光振興基本計画", is a confession of giving up.  
+
 
 
