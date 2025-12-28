@@ -1,4 +1,4 @@
-# Future of Okinawa: Creative Digital Island.  
+# Future of Okinawa: Creative Digital Island without Aid.  
 
 We have talked enough about the problem. Let’s talk about the future.  
 
@@ -293,6 +293,7 @@ If you know an influential figure—a YouTuber, a politician, a professor, a jou
 Tell them **you** found the important information.
 
 **Retweet this report now.**
+
 
 
 
