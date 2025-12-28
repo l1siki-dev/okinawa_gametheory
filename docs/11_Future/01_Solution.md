@@ -42,7 +42,7 @@ These are products you can sell to New York, London, and Paris instantly.
 
 Software has no shipping costs. It doesn't care that Okinawa is an island. It doesn't need a deep-water port.  
 
-## Future 3. The Physical Bottleneck: Car-free living for people and business.  
+## Future 3. No more Parking lots: Car-free living for people and business.  
 But to unleash this Digital Industry, we need the right environment.  
 A Digital City requires density. Programmers, artists, and designers need to meet, mix, and collaborate.  
 
@@ -60,7 +60,7 @@ People of Okinawa have to pay billions of yen to Toyota and Saudi Arabia every y
 
 To build a creative city on a small island, we must kill the Car Dependency.  
 
-## Future 4. Introduce Trains: Convert 2 lanes of Route 58 into a High-Speed Tram.  
+## Future 4. Replace Cars with Trains: Convert 2 lanes of Route 58 into a High-Speed Tram.  
 
 Before I talk about this, I want to quickly mythbust "The most valuable land is taken by the US".  
 Southern Plateau (where Naha is): 150 - 200 km². The US Presence is near zero.  
@@ -294,6 +294,7 @@ If you know an influential figure—a YouTuber, a politician, a professor, a jou
 Tell them **you** found the important information.
 
 **Retweet this report now.**
+
 
 
 
