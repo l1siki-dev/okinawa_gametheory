@@ -1,6 +1,8 @@
 # v0.4
 
 - Address desktop user share api problem
+    -  "Repost" strategy.
+    -  create a Thread in sns, and let user repost in oneclick from the article.
 
 - rewrite the enitre report one by one, fosusing storytelling.
     - 1 Fake Tourism
