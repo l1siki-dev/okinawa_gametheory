@@ -1,4 +1,7 @@
 # v0.4
+
+- multilanguage support
+
 - rewrite the enitre report one by one, fosusing storytelling.
     - 1 Fake Tourism
     - 2 Media
@@ -194,7 +197,6 @@ others
     * Life-expectancy comparison
 
 ## future plan
-* multilanguage support
 * patoreon | Pre-Suasion | Bannar
 * youtube video
    
