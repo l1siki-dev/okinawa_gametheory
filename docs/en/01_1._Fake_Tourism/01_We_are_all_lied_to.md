@@ -11,10 +11,11 @@ But reality was cruel.
 
 I can't stay silent anymore.
 I'm pure Okinawan. Nago and Miyakojima blood runs through my veins.
-I'm here to confess the hundreds of lies.
+
+We are buried in the hundreds of lies.
 
 ## The critical lie in the official document.
-!!! info "They are mixing profit and revenue."
+!!! info "They are comparing pure cash and revenue. (hiding expenses)"
     ```
     placeholder the evidence
     revenue vs. profit
@@ -36,7 +37,8 @@ Some text
 Some text
 Some text
 
-    
+##     
+
 
 
 
