@@ -16,6 +16,7 @@ def on_nav(nav, config, files):
                 
                 # Apply the regex to strip the number
                 new_title = re.sub(r"^\d+[-_ ]+", "", new_title)
+                new_title = re.sub(r"_", " ", new_title)
                 
                 # Optional: Replace underscores with spaces and capitalize
                 # new_title = new_title.replace("_", " ").title()
