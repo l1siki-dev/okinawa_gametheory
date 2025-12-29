@@ -1,17 +1,16 @@
 # v0.4
 - rewrite the enitre report one by one, fosusing storytelling.
-    - 1. Fake Tourism
-    - 2. Media
-    - 3. Fake History
-    - 4. Emotion
-    - 5. Naha Politician
-    - 6. Nagatachō
-    - 7. National Security
-    - 9. USA
-    - 10. Futenma
+    - 1 Fake Tourism
+    - 2 Media
+    - 3 Fake History
+    - 4 Emotion
+    - 5 Naha Politician
+    - 6 Nagatachō
+    - 7 National Security
+    - 9 USA
+    - 10 Futenma
     - Future
-    - HELP ME
-  
+    - HELP ME  
 * read Storytelling with Data
 
 - report reinforce
