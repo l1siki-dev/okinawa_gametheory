@@ -14,7 +14,7 @@ I'm pure Okinawan. Nago and Miyakojima blood runs through my veins.
 I'm here to confess the hundreds of lies.
 
 ## The critical lie in the official document.
-!!! danger "They are mixing profit and revenue."
+!!! info "They are mixing profit and revenue."
     ```placeholder the evidence
     revenue vs. profit
     revenue vs. profit
@@ -23,7 +23,7 @@ I'm here to confess the hundreds of lies.
     revenue vs. profit
     revenue vs. profit
     ```
-    ??? info "(Note)"
+    ??? quote "(Note)"
         Note
         Note
         Note
@@ -31,6 +31,7 @@ I'm here to confess the hundreds of lies.
 
 
     
+
 
 
 
