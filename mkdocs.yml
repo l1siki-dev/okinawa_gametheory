@@ -72,10 +72,8 @@ plugins:
         - locale: en
           name: English
           default: true
-          link: /okinawa_gametheory/
         - locale: ja
           name: 日本語
-          link: /okinawa_gametheory/ja/
   - minify
           
 
@@ -89,6 +87,7 @@ markdown_extensions:
 
 hooks:
   - docs/python/strip_number_hook.py
+  - docs/python/set_site_url.py
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js
