@@ -14,7 +14,7 @@ I'm pure Okinawan. Nago and Miyakojima blood runs through my veins.
 I'm here to confess the hundreds of lies.
 
 ## Critical lie in an official document.
-!!!
+!!! note 
     ```placeholder the evidence
     revenue vs. profit
     ```
@@ -27,3 +27,4 @@ I'm here to confess the hundreds of lies.
 
 
     
+
