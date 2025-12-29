@@ -1,6 +1,6 @@
 # v0.4
 
-- Reading time implementation
+- Address desktop user share api problem
 
 - rewrite the enitre report one by one, fosusing storytelling.
     - 1 Fake Tourism
