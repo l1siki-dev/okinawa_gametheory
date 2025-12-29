@@ -65,15 +65,6 @@ plugins:
   - search
   - macros
   - minify
-  - i18n:
-    languages:
-        - locale: en
-          name: English
-          build: true
-          default: true
-        - locale: ja
-          name: 日本語
-          build: true
 
 
 markdown_extensions:
