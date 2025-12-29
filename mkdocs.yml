@@ -84,6 +84,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true 
+  - nl2br
 
 hooks:
   - docs/python/strip_number_hook.py
