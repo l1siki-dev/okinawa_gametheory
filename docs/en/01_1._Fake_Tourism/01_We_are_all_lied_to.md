@@ -23,7 +23,6 @@ I'm here to confess the hundreds of lies.
     revenue vs. profit
     revenue vs. profit
     ```
-
     ??? info "(Note)"
         Note
         Note
@@ -32,6 +31,7 @@ I'm here to confess the hundreds of lies.
 
 
     
+
 
 
 
