@@ -1,0 +1,6 @@
+SHA256 hash of 6keikaku2.pdf:
+0f1d6c1c3dacbea85a7ff2951bbd50db924f3315b7b832af37a4c01de04e9ca9
+
+SHA256 hash of kankoshinkokihonkeikakukaitei.pdf:
+b761dbb28a8049b049a5a5b8b3874927f41cb51ad3d4fef6f7d3ec6abfbd0b98
+
