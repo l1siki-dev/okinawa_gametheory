@@ -24,14 +24,15 @@ I'm here to confess the hundreds of lies.
     revenue vs. profit
     ```
 
-??? info "(Note)"
-    Note
-    Note
-    Note
-    Note
+    ??? info "(Note)"
+        Note
+        Note
+        Note
+        Note
 
 
     
+
 
 
 
