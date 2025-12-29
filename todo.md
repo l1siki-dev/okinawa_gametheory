@@ -1,6 +1,5 @@
 # v0.4
 
-- multilanguage support
 
 - rewrite the enitre report one by one, fosusing storytelling.
     - 1 Fake Tourism
@@ -199,7 +198,8 @@ others
 ## future plan
 * patoreon | Pre-Suasion | Bannar
 * youtube video
-   
+- multilanguage support
+
 
 
 
