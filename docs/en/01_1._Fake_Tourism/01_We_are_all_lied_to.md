@@ -25,7 +25,11 @@ I'm here to confess the hundreds of lies.
         Note
         Note
         Note
-        Note
+        We were told that tourism is the future.
+        We were told that tourism is bigger than bases.
+        We believed it.
+        We believed that the Okinawa govt and the Okinawa media are telling the truth.
+        We believed that they were the voice of us.
 
 Some text
 Some text
@@ -33,6 +37,7 @@ Some text
 Some text
 
     
+
 
 
 
