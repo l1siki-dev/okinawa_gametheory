@@ -1,4 +1,17 @@
 # v0.4
+- rewrite the enitre report one by one, fosusing storytelling.
+    - 1. Fake Tourism
+    - 2. Media
+    - 3. Fake History
+    - 4. Emotion
+    - 5. Naha Politician
+    - 6. Nagatachō
+    - 7. National Security
+    - 9. USA
+    - 10. Futenma
+    - Future
+    - HELP ME
+  
 * read Storytelling with Data
 
 - report reinforce
@@ -18,6 +31,8 @@
    * Tokyo is satisfied about that Okinawa never be able to leave the house
    * (I might have miscalculated in favor of Okinawa in single magnitude, double check it.
      *   
+
+- create SNS id that is universal among SNS.
 
 ```
 
