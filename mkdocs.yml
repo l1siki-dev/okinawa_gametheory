@@ -88,6 +88,7 @@ markdown_extensions:
 hooks:
   - docs/python/strip_number_hook.py
   - docs/python/set_site_url.py
+  - docs/python/smart_read_time.py
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js
