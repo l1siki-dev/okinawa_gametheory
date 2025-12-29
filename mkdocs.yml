@@ -66,8 +66,17 @@ plugins:
   - search
   - macros
   - social
+  - i18n:
+    languages:
+        - locale: en
+          name: English
+          build: true
+          default: true
+        - locale: ja
+          name: 日本語
+          build: true
   - minify
-
+          
 markdown_extensions:
   - admonition
   - pymdownx.details
