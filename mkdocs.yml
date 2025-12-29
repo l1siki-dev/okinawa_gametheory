@@ -66,14 +66,14 @@ plugins:
   - macros
   - minify
   - i18n:
-    docs_structure: folder # Options: 'folder' (recommended) or 'suffix'
-    fallback_to_default: true
     languages:
-      - locale: en
-        name: English
-        default: true
-      - locale: ja
-        name: 日本語
+        - locale: en
+          name: English
+          build: true
+          default: true
+        - locale: ja
+          name: 日本語
+          build: true
 
 
 markdown_extensions:
