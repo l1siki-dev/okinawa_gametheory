@@ -198,7 +198,6 @@ others
 ## future plan
 * patoreon | Pre-Suasion | Bannar
 * youtube video
-- multilanguage support
 
 
 
