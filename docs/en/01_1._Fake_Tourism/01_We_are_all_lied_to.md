@@ -15,10 +15,8 @@ I'm here to confess the hundreds of lies.
 
 ## The critical lie in the official document.
 !!! info "They are mixing profit and revenue."
-    ```placeholder the evidence
-    revenue vs. profit
-    revenue vs. profit
-    revenue vs. profit
+    ```
+    placeholder the evidence
     revenue vs. profit
     revenue vs. profit
     revenue vs. profit
@@ -29,8 +27,13 @@ I'm here to confess the hundreds of lies.
         Note
         Note
 
+Some text
+Some text
+Some text
+Some text
 
     
+
 
 
 
