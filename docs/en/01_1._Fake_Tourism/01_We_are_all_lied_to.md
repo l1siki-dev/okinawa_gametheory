@@ -15,7 +15,7 @@ I'm pure Okinawan. Nago and Miyakojima blood runs through my veins.
 We are buried in the hundreds of lies.
 
 ## The critical lie in the official document.
-!!! info "They are comparing pure cash and revenue. (hiding expenses)"
+!!! info "They are comparing pure cash and revenue (hiding expenses on tourism)."
     ```
     placeholder the evidence
     revenue vs. profit
@@ -38,6 +38,7 @@ Some text
 Some text
 
 ##     
+
 
 
 
