@@ -178,6 +178,28 @@ While Okinawa was begging Tokyo for higher subsidies to build another road, Fuku
 Let them compete; that will create two lively, creative cities.  
 Okinawa has beautiful beaches; Fukuoka has none. Creative people are playful people; this is a winnable battle.
 
+## Future 10. Other rival option: Switzerland 
+
+Switzerland was a small, poor country surrounded by empires.
+It fit Okinawa narrative.
+
+But today they are the most innovative country that is draining talent from around the world.
+They are incredibly wealthy.
+
+Okinawa can't be Switzerland. Because they have unique conditions that Okinawa can't have.
+But copying their industry model, especially strong pharmaceuticals, might work in Okinawa. 
+
+Okinawa is currently trying to be a financial hub, but I don't think it works in the expected frontline region.
+No one wants to rest their liquid asset in the potential frozen area. The black swan would create economic chaos that would require mobilizing the assets.
+
+Switzerland is strong because it's one of the least attacked places on the earth. Dispite the country having low military expenses.
+It is surrounded by NATO. And Russian riches having assets in Swiss banks. Nobody will attack them.
+
+Nobody will attack the US, because the US have massive military. Switzerland did it for zero maintenance cost.
+That's why the Swiss Franc is an incredibly strong currency. It ensures the high purchasing power that creates the wealth accumulation loop.
+
+Okinawa doesn't have that luck, but it might get an idea from the country.
+
 ## Conclusion: Creative Digital Industry with beautiful Beaches
 *   Okinawans do not have to pay for expensive cars.  
 *   Okinawans get high-paying creative jobs.  
@@ -280,6 +302,7 @@ If you know an influential figure—a YouTuber, a politician, a professor, a jou
 Tell them **you** found the important information.
 
 **Retweet this report now.**
+
 
 
 
