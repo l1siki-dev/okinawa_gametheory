@@ -189,6 +189,10 @@ They are incredibly wealthy.
 Okinawa can't be Switzerland. Because they have unique conditions that Okinawa can't have.
 But copying their industry model, especially strong pharmaceuticals, might work in Okinawa. 
 
+What Okinawa can copy relatively easily.
+- Patent focus industries
+- "The best quality in the world" schools for rich children of Asia. 
+
 Switzerland is strong because it is generating patents. Which you don't have to physically ship.
 Okinawa can do the same.
 
@@ -305,6 +309,7 @@ If you know an influential figure—a YouTuber, a politician, a professor, a jou
 Tell them **you** found the important information.
 
 **Retweet this report now.**
+
 
 
 
