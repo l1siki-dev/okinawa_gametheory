@@ -144,24 +144,10 @@ This is a hard part. Changing the institutional culture is difficult.
 We can't reeducate adults; Okinawa institutions have to exchange personnel with other prefectures.  
 
 Okinawa needs a complete Human Resources overhaul.  
-Okinawa needs to exchange its bureaucrats with other prefectures.  
+Okinawa needs to exchange its bureaucrats with those of other prefectures.  
 Okinawa needs cold, hard eyes from the outside to be audited.  
 
-## Future 8. The language: An International hub needs to be bilingual
-
-This is optional.  
-
-Almost all Singaporeans are bilingual.  
-If Okinawa chose to become an international hub, as they claim to be today, it would have to speak English.   
-Potentially, the US bases can provide native English speakers. Soldiers' families are likely happy to teach English.  
-You might think "There is no room" to teach English, but statistics show bilingual countries have high scores on Math and other subjects. And this aligns with my personal experience, becoming bilingual has so many intellectual benefits beyond "being able to speak another language". So many I can't list here. For example, I was never able to write this report without becoming bilingual.   
-And if Okinawa were bilingual, likely we wouldn't have to tackle this entire problem in the first place, because a multi-language environment is difficult to be filled with a single ideology, because bilinguals will access diverse media and ideas. There will be no media monopoly, fewer fake histories. They will gain natural critical-thinking ability because they see things from two (English and Japanese) perspectives always.  
-Also, being bilingual will give Okinawans a real feeling of "capability". Other Japanese failed to learn English. If Okinawans can do it, it gives them confidence, it gives them real capability. They will not needs daily reminder of the fake stories to not feel "incompetent".
-
-It's likely beneficial to aim for bilingual, even if we consider the opportunity cost. 
-Japan's English education is outdated. Okinawa can become the frontier for real English education that boosts the productivity of all of Japan.  
-
-## Future 9. Abolish the development aid
+## Future 8. Abolish the development aid
 
 **Stop it.**
 This is the most important.  
@@ -171,14 +157,14 @@ Let Okinawa focus on local development, not outsiders' donations.
 
 Of course, don't cut the regular aid that keeps the Okinawa government running.  
 
-## Future 10. The Rival is Fukuoka.
+## Future 9. The Rival is Fukuoka.
 
 As long as Okinawa defines its rival(enemy) as Japan/Tokyo, the US, or China, which is a too high wall to climb, Okinawans have to manufacture fake stories to not feel "incapable".  
 Okinawa needs a realistic and respectable rival that acts as an achievable goal.  
 
-Everyone love to talk about Taiwan and Singapore, but it's not good choice.
-* Taiwan has too large population. (15 times bigger than Okinawa)
-* Singapore is too far. (it's important that the rival feels close and concrete; Okinawans have to be able to imagine "Singaporean" vividly.)
+Everyone loves to talk about Taiwan and Singapore, but it's not a good choice.
+* The Taiwan population is too large. (15 times bigger than Okinawa)
+* Singapore is too far. (It's important that the rival feels close and concrete; Okinawans have to be able to imagine "Singaporean" vividly.)
 
 Fukuoka is the best choice because it's a good barometer to measure the progress of the Creative Digital Island.
 * Fukuoka is "Startup City" (Line, Mercari, etc., have bases there). 
@@ -251,11 +237,11 @@ We will not give them time to entrench.
 I told you that we, "the Japanese majority," are the strongest player.  
 It means **you** are the boss.  
 But a boss who never speaks is a boss who gets ignored.  
-Your money is continue to be wasted until you raise your voice.  
+Your money continues to be wasted until you raise your voice.  
 
-They fear our voice. so, **don't be silent.** That's what they want.
+They fear our voice. So, **don't be silent.** That's what they want.
 
-If the majority of potential voters support ending the halmful aid, the government has to change the current policy to stay in power.  
+If the majority of potential voters support ending the harmful aid, the government has to change the current policy to stay in power.  
 You don't have to wait till the next election.  
 **We can start today, right now.**
 
@@ -294,6 +280,7 @@ If you know an influential figure—a YouTuber, a politician, a professor, a jou
 Tell them **you** found the important information.
 
 **Retweet this report now.**
+
 
 
 
