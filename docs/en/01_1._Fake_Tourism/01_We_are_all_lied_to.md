@@ -1,3 +1,6 @@
+I'm pure Okinawan (Nago + Miyakojima), and here to reveal hundreds of lies deceiving you.
+Let's start quickly.
+
 # One of the handreads of lies: "Tourism is working."
 !!! info "They are comparing pure cash and revenue (hiding expenses on tourism)."
     ```
@@ -21,17 +24,9 @@ Some text
 Some text
 Some text
 
-##     
+## Grandma's 1000 Yen allowance vs. selling 1000 Yen ramen.
 
+## Fixed Graph: Tourism practically doesn't exist.
 
-
-
-
-
-
-
-
-
-
-
+## Improved Graph: Politicians have zero incentive to develop Okinawa.
 
