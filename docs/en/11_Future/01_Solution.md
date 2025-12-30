@@ -205,14 +205,14 @@ Switzerland is strong because it's one of the least attacked places on the earth
 - The Riches spent their childhood there. Precious memory there.
 - Their children attended school there. Nobody attacks where their children are.
 
+This is just one example of Cognitive Bias they are benefiting from. 
+
 1.  **Crisis happens:** (e.g., Pandemic, War).
 2.  **Availability Bias:** Investors think, "Where is safe? SWITZERLAND!" (It comes to mind first, because they have a bank account or children there, they spent their childhood there).
 3.  **Action:** They buy Francs.
 4.  **Result:** The Franc goes up.
 5.  **Confirmation Bias:** "See? I was right. The Franc went up. It is safe."
 6.  Go back to 1.
-
-This is just one example of Cognitive Bias they are benefiting from. There are more biases that make the Swiss Franc strong. I can't list here. Because this report is about Okinawa, not Switzerland 
 
 Nobody will attack the US, because the US have massive military. Switzerland did it for zero maintenance cost.
 That's why the Swiss Franc is an incredibly strong currency. It ensures the high purchasing power that creates the wealth accumulation loop.
@@ -321,6 +321,7 @@ If you know an influential figure—a YouTuber, a politician, a professor, a jou
 Tell them **you** found the important information.
 
 **Retweet this report now.**
+
 
 
 
