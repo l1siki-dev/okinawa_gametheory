@@ -200,8 +200,10 @@ Okinawa is trying to be a financial hub(iirc), but it doesn't work in the expect
 No one wants to invest their liquid assets in a potentially frozen area. The black swan would create economic chaos that would require mobilizing the assets.
 
 Switzerland is strong because it's one of the least attacked places on the earth. Dispite the country having low military expenses.
-It is surrounded by NATO. And Russian riches having assets in Swiss banks. Nobody will attack their own asset.
-And riches spent their childhood there, or their children attended school there. Nobody will attack where your childhood memories reside, or where your children are.
+- It is surrounded by NATO.
+- Many aggresive country's riches having assets in Swiss banks(because of Switzerland's "I don't care about your morals" stance). Nobody will attack their own asset.
+- The Riches spent their childhood there. Precious memory there.
+- Their children attended school there. Nobody attacks where their children are.
 
 1.  **Crisis happens:** (e.g., Pandemic, War).
 2.  **Availability Bias:** Investors think, "Where is safe? SWITZERLAND!" (It comes to mind first, because they have a bank account or children there, they spent their childhood there).
@@ -319,6 +321,7 @@ If you know an influential figure—a YouTuber, a politician, a professor, a jou
 Tell them **you** found the important information.
 
 **Retweet this report now.**
+
 
 
 
