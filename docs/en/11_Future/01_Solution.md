@@ -196,11 +196,19 @@ What Okinawa can copy relatively easily.
 Switzerland is strong because it is generating patents. Which you don't have to physically ship.
 Okinawa can do the same.
 
-Okinawa is trying to be a financial hub(iirc), but I don't think it works in the expected frontline region.
-No one wants to rest their liquid asset in the potential frozen area. The black swan would create economic chaos that would require mobilizing the assets.
+Okinawa is trying to be a financial hub(iirc), but it doesn't work in the expected frontline region.
+No one wants to invest their liquid assets in a potentially frozen area. The black swan would create economic chaos that would require mobilizing the assets.
 
 Switzerland is strong because it's one of the least attacked places on the earth. Dispite the country having low military expenses.
 It is surrounded by NATO. And Russian riches having assets in Swiss banks. Nobody will attack them.
+
+1.  **Crisis happens:** (e.g., Pandemic, War).
+2.  **Availability Bias:** Investors think, "Where is safe? SWITZERLAND!" (It comes to mind first, because they have a bank account or children there, or they spent their childhood there).
+3.  **Action:** They buy Francs.
+4.  **Result:** The Franc goes up.
+5.  **Confirmation Bias:** "See? I was right. The Franc went up. It is safe."
+
+This is just one example of Cognitive Bias they are benefiting from. There are more biases that make the Swiss Franc strong. I can't list here.
 
 Nobody will attack the US, because the US have massive military. Switzerland did it for zero maintenance cost.
 That's why the Swiss Franc is an incredibly strong currency. It ensures the high purchasing power that creates the wealth accumulation loop.
@@ -309,6 +317,7 @@ If you know an influential figure—a YouTuber, a politician, a professor, a jou
 Tell them **you** found the important information.
 
 **Retweet this report now.**
+
 
 
 
