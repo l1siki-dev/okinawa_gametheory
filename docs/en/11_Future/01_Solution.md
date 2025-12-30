@@ -192,7 +192,7 @@ But copying their industry model, especially strong pharmaceuticals, might work 
 Switzerland is strong because it is generating patents. Which you don't have to physically ship.
 Okinawa can do the same.
 
-Okinawa is currently trying to be a financial hub, but I don't think it works in the expected frontline region.
+Okinawa is trying to be a financial hub(iirc), but I don't think it works in the expected frontline region.
 No one wants to rest their liquid asset in the potential frozen area. The black swan would create economic chaos that would require mobilizing the assets.
 
 Switzerland is strong because it's one of the least attacked places on the earth. Dispite the country having low military expenses.
@@ -305,6 +305,7 @@ If you know an influential figure—a YouTuber, a politician, a professor, a jou
 Tell them **you** found the important information.
 
 **Retweet this report now.**
+
 
 
 
