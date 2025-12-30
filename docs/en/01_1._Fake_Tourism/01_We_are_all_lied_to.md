@@ -1,9 +1,9 @@
-# One of the handreads of lies: "Tourism is working."
+# First lie: "Tourism is working."
 
 I'm pure Okinawan (Nago + Miyakojima), and here to reveal hundreds of lies deceiving you.
 Let's start quickly.
 
-## Okinawa govt tricked you by comparing pure cash and revenue (hiding expenses on tourism) 
+## Okinawa govt tricked you by hiding the expenses of tourism 
 !!! info "They are comparing pure cash and revenue (hiding expenses on tourism)."
     ```
     placeholder the evidence
@@ -31,5 +31,6 @@ Some text
 ## Fixed Graph: Tourism practically doesn't exist.
 
 ## Improved Graph: Politicians have zero incentive to develop Okinawa.
+
 
 
