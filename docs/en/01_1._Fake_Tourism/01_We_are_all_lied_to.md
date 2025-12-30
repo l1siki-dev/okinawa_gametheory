@@ -1,6 +1,6 @@
 # First lie: "Tourism is working."
 
-I'm pure Okinawan (Nago + Miyakojima), and here to reveal hundreds of lies deceiving you.
+I'm pure Okinawan (Nago + Miyakojima), and here to reveal lies deceiving you.
 Let's start quickly.
 
 ## Okinawa govt tricked you by hiding the expenses of tourism 
@@ -31,6 +31,7 @@ Some text
 ## Fixed Graph: Tourism practically doesn't exist.
 
 ## Improved Graph: Politicians have zero incentive to develop Okinawa.
+
 
 
 
