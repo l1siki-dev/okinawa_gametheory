@@ -26,7 +26,7 @@ I'm pure Okinawan (Nago + Miyakojima), and here to reveal lies deceiving you.
         We believed that the Okinawa govt and the Okinawa media are telling the truth.
         We believed that they were the voice of us.
 
-=== Broken Chart
+=== "Broken Chart"
 
     ```
     placeholder the evidence revenue vs. profit
@@ -37,7 +37,7 @@ I'm pure Okinawan (Nago + Miyakojima), and here to reveal lies deceiving you.
     
     placeholder the evidence revenue vs. profit
     ```
-=== True Profit Comparison 
+=== "True Profit Comparison"
 
     | Rank | Category | Original (Revenue) | **Margin Logic** | **True Profit (Pure Cash)** |
     | :--- | :--- | :--- | :--- | :--- |
@@ -106,6 +106,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
