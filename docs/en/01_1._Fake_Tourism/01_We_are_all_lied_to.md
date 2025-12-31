@@ -43,6 +43,7 @@ I'm pure Okinawan (Nago + Miyakojima), and here to reveal lies deceiving you.
 ??? Note "Breakdown of Military-Related Receipts"
 
     *Source: Statistics on U.S. and SDF Bases in Okinawa (July 2025 Edition)*
+    
     1.  **Military Land Lease Fees (軍用地料)**
         *   **83.2 billion yen** (832 億円)
     2.  **Military Employee Income (軍雇用者所得)**
@@ -93,6 +94,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
