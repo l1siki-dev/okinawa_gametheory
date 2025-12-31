@@ -37,7 +37,7 @@ I'm pure Okinawan (Nago + Miyakojima), and here to reveal lies deceiving you.
 
 ### 1. The Exact Components of "Others" (439,544 Million Yen)
 
-Your finding of **411,321 million yen** (Social Security Benefits) is the key. The category "Others" is almost entirely composed of **Pensions & Dividends** flowing into households, rather than business revenues.
+Social Security Benefits: **411,321 million yen** is the key. The category "Others" is almost entirely composed of **Pensions & Dividends** flowing into households, as a pure cash handout from the central government.
 
 Source
 https://www.pref.okinawa.jp/toukeika/accounts/2013/acc_all.pdf
@@ -45,7 +45,7 @@ from pdf page 28: unit unit Million Yen
 　④家計（個人企業を含む）/ 受取 /（１）現金による社会保障給付 / 平成25年度: 411,321
 
 It's almost 439,544. 
-So we can assume that almost all "the other" is pure cash from the Japanese government.
+So we can assume that almost all "the other" is pure cash from outside.
 411,321 / 439,544 = 93%
 
 ## Grandma's 1000 Yen allowance vs. selling 1000 Yen ramen.
@@ -53,6 +53,7 @@ So we can assume that almost all "the other" is pure cash from the Japanese gove
 ## Fixed Graph: Tourism practically doesn't exist.
 
 ## Improved Graph: Politicians have zero incentive to develop Okinawa.
+
 
 
 
