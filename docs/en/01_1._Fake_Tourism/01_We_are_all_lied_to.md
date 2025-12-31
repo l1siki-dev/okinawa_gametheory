@@ -41,29 +41,30 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
             戦後沖縄の軍用地料の配分と女性住民運動 (2014) by 桐山節子 
             復帰後の沖縄経済の構造変化と政策課題に関する調査研究 (2009) by 南西地域産業活性化センター
 
-        ??? quote "Breakdown of Military-Related Receipts"
+        ???+ quote "Note"
 
-        *Source: Statistics on U.S. and SDF Bases in Okinawa (July 2025 Edition)*
+            Military-Related Receipts  (FY2013) is not consistance among Official document. (208,831 vs 209.200) 
+            I used 209.200 for calculations because it give me the exact breakdown.
+
+        ??? quote "Breakdown of Military-Related Receipts"
+            | Components | Amount (Million Yen) | Nature | Note |
+            | :--- | :--- | :--- | :--- |
+            | 1. Military Land Lease Fees (軍用地料) | **83,200** | **Almost Pure Cash** | This is the *majority* of Social Security 411k. (The rest is paid by local cities). |
+            | 2. Military Employee Income (軍雇用者所得) | **49,600** | **Pure Cash** | Dividends/Interest from mainland stocks/bonds. |
+            | 3. Provision of Goods and Services to U.S. Forces, etc. (米軍等への財・サービスの提供) | **65,900** | **Revenue** | Sugar, Pineapples, Call Centers (Real business revenue). |
+            | 4. Other (その他) | **10,500** | **Revenue** | Sugar, Pineapples, Call Centers (Real business revenue). |
+            | **TOTAL** | **209,200** | | |
         
-        1.  **Military Land Lease Fees (軍用地料)**
-            *   **83.2 billion yen** (832 億円)
-        2.  **Military Employee Income (軍雇用者所得)**
-            *   **49.6 billion yen** (496 億円)
-        3.  **Provision of Goods and Services to U.S. Forces, etc. (米軍等への財・サービスの提供)**
-            *   **65.9 billion yen** (659 億円)
-            *   *Note on the label:* In your text ("米軍等への 米軍基地からの要素所得財・サービスの提供"), it appears two categories may have been pasted together. "Element Income" (Factor Income) typically refers to the sum of Rent and Wages, while this specific number (659) corresponds strictly to the **Provision of Goods and Services**.
-        4.  **Other (その他)**
-            *   **10.5 billion yen** (105 億円)
-        **Total:** **209.2 billion yen**
     
         ??? quote "Breakdown of Others"
-            | Component of "Others" | Estimated Amount | Nature | Relation to your 411k |
+            | Components | Estimated Amount | Profit Efficiency | Note |
             | :--- | :--- | :--- | :--- |
-            | **1. Pensions (Direct from Outside)** | **~245,000** | **Pure Cash** | This is the *majority* of your 411k. (The rest of the 411k is paid by local cities). |
-            | **2. Property Income** | **~85,000** | **Pure Cash** | Dividends/Interest from mainland stocks/bonds. |
-            | **3. Merchandise/Service Exports** | **~110,000** | **Business** | Sugar, Pineapples, Call Centers (Real business revenue). |
+            | **1. Pensions (Direct from Outside)** | **~245,000** | 100% | This is the *majority* of Social Security 411k. (The rest is paid by local cities). |
+            | **2. Property Income** | **~85,000** | 100% | Dividends/Interest from mainland stocks/bonds. |
+            | **3. Merchandise/Service Exports** | **~110,000** | 8% (Rough estimate) | Sugar, Pineapples, Call Centers (Real business revenue). |
             | **TOTAL** | **439,544** | | |
         
+
 
 
 
@@ -85,6 +86,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
