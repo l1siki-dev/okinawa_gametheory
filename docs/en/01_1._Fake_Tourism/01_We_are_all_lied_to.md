@@ -1,6 +1,6 @@
 # First lie: "Tourism is working."
 
-I'm pure Okinawan (Nago + Miyakojima), and here to reveal lies deceiving you.
+I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
 
 === "Unordered list"
 
@@ -106,6 +106,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
