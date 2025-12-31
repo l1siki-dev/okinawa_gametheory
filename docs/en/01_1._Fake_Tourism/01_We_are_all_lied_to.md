@@ -43,7 +43,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
 
         ???+ quote ""
 
-            Military-Related Receipts  (FY2013) is not consistance among Official document. (208,831 vs 209.200) 
+            Military-Related Receipts  (FY2013) is not consistance among Official document. (208,831 vs 209,200) 
             I used 209.200 for calculations because it give me the exact breakdown.
 
         ??? quote "Breakdown of Military-Related Receipts"
@@ -86,6 +86,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
