@@ -43,7 +43,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
             - The original chart is based on the Okinawa Govt's unique concept of 県外受取.
             
         ??? info "Breakdown of Military-Related Receipts."
-            | Components                   | Estimated Amount | Profit Efficiency | Profit       | Note                                                                              |
+            | Components                   | Amount           | Profit Efficiency | Profit       | Note                                                                              |
             |------------------------------|------------------|-------------------|--------------|-----------------------------------------------------------------------------------|
             | 1. Military Land Lease Fees  | 83,200           | 100%              | **83,200**   | Paid by Govt of Japan to landowners. Pure unearned income (Transfer Payment).     |
             | 2. Military Employee Income  | 49,600           | 100%              | **49,600**   | Salaries for Japanese workers paid by Govt of Japan. (Direct Household Income).   |
@@ -81,6 +81,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
