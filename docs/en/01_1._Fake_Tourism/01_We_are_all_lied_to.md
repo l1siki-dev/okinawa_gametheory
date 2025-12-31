@@ -45,7 +45,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
             Military-Related Receipts  (FY2013) is not consistance among Official document. (208,831 vs 209,200) 
             I used 209.200 for calculations because it give me the exact breakdown.
 
-        ??? quote "Breakdown of Military-Related Receipts"
+        ??? info "Breakdown of Military-Related Receipts"
             | Components | Amount (Million Yen) | Nature | Note |
             | :--- | :--- | :--- | :--- |
             | 1. Military Land Lease Fees (軍用地料) | **83,200** | **Almost Pure Cash** | This is the *majority* of Social Security 411k. (The rest is paid by local cities). |
@@ -55,7 +55,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
             | **TOTAL** | **209,200** | | |
         
     
-        ??? quote "Breakdown of Others"
+        ??? info "Breakdown of Others"
             | Components | Estimated Amount | Profit Efficiency | Note |
             | :--- | :--- | :--- | :--- |
             | **1. Pensions (Direct from Outside)** | **~245,000** | 100% | This is the *majority* of Social Security 411k. (The rest is paid by local cities). |
@@ -85,6 +85,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
