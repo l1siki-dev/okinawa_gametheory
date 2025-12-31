@@ -3,7 +3,7 @@
 I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
 
 ## Okinawa govt tricked you by hiding the expenses of tourism 
-!!! note ""
+!!! quote ""
     === "Decieving Official Chart."
     
         ```
@@ -57,7 +57,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
             | 2. Property Income                | ~85,000          | 100%                | **~85,000**  | Dividends/Interest from mainland stocks/bonds.                                       |
             | 3. Merchandise/Service Exports    | ~110,000         | ~8% (EST)| **~8,800**   | Sugar, Pineapples, Call Centers (Real business revenue).                             |
             | TOTAL                             | 439,544          | **~77%**            | **~338,800** |                                                                                      |
-        ??? quote "Estimation of Tourism Profit Margin."
+        ??? info "Estimation of Tourism Profit Margin."
             **Estimated Profit efficiency: 6.9%**.
             The estimation is what I did for the 2024 data analysis. I assumed 2013 had the same breakdown ratio. 
             2013 likely had lower efficiency against 2024, due to lower prices. So 6.9% is likely higher than the reality.
@@ -129,6 +129,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
