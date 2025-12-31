@@ -5,31 +5,33 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
 ## Okinawa govt tricked you by hiding the expenses of tourism 
 !!! info "They are hiding expenses on tourism."
 
-   === "Decieving Official Chart"
+   !!! info "They are hiding expenses on tourism."
    
-       ```
-       placeholder the evidence revenue vs. profit
-   
-   
-       
-       
-       
-       placeholder the evidence revenue vs. profit
-       ```
-   === "True Profit Comparison"
-   
-       | Rank | Category | Original (Revenue) | **Margin Logic** | **True Profit (Pure Cash)** |
-       | :--- | :--- | :--- | :--- | :--- |
-       | **1** | **Fiscal Transfers** | 1,171,533 | **100%** (Govt Revenue) | **1,171,533** |
-       | **2** | **OTHERS (Total)** | 439,544 | *Mixed* | **~338,800** |
-       | | *(Breakdown: Pensions)* | *(330,000)* | *100% (Direct Cash)* | *330,000* |
-       | | *(Breakdown: Exports)* | *(110,000)* | *8% (Business Profit)* | *8,800* |
-       | **3** | **Military** | 208,831 | *Mixed (High Rent)* | **~145,000** |
-       | | *(Breakdown: Land Rent)* | *(~92,000)* | *~98% (Passive Income)* | *~90,000* |
-       | | *(Breakdown: Wages)* | *(~50,000)* | *100% (Direct Cash)* | *~50,000* |
-       | | *(Breakdown: Sales)* | *(~66,000)* | *8% (Business Profit)* | *~5,300* |
-       | **4** | **Tourism** | 447,868 | **8%** (Operating Profit) | **~35,800** |
-       | **5** | **Petroleum** | 65,015 | **5%** (Trading Profit) | **~3,250** |
+      === "Decieving Official Chart"
+      
+          ```
+          placeholder the evidence revenue vs. profit
+      
+      
+          
+          
+          
+          placeholder the evidence revenue vs. profit
+          ```
+      === "True Profit Comparison"
+      
+          | Rank | Category | Original (Revenue) | **Margin Logic** | **True Profit (Pure Cash)** |
+          | :--- | :--- | :--- | :--- | :--- |
+          | **1** | **Fiscal Transfers** | 1,171,533 | **100%** (Govt Revenue) | **1,171,533** |
+          | **2** | **OTHERS (Total)** | 439,544 | *Mixed* | **~338,800** |
+          | | *(Breakdown: Pensions)* | *(330,000)* | *100% (Direct Cash)* | *330,000* |
+          | | *(Breakdown: Exports)* | *(110,000)* | *8% (Business Profit)* | *8,800* |
+          | **3** | **Military** | 208,831 | *Mixed (High Rent)* | **~145,000** |
+          | | *(Breakdown: Land Rent)* | *(~92,000)* | *~98% (Passive Income)* | *~90,000* |
+          | | *(Breakdown: Wages)* | *(~50,000)* | *100% (Direct Cash)* | *~50,000* |
+          | | *(Breakdown: Sales)* | *(~66,000)* | *8% (Business Profit)* | *~5,300* |
+          | **4** | **Tourism** | 447,868 | **8%** (Operating Profit) | **~35,800** |
+          | **5** | **Petroleum** | 65,015 | **5%** (Trading Profit) | **~3,250** |
    
    ??? quote "Breakdown of Military-Related Receipts"
    
@@ -64,7 +66,6 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
        復帰後の沖縄経済の構造変化と政策課題に関する調査研究 (2009) by 南西地域産業活性化センター
 
 
-    
 
 
 
@@ -85,6 +86,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
