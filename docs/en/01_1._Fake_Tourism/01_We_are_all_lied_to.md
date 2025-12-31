@@ -64,6 +64,7 @@ I'm pure Okinawan (Nago + Miyakojima), and here to reveal lies deceiving you.
     | **TOTAL** | **439,544** | | |
 
 ??? Note "Data Sources"
+
     第５次沖縄県観光振興基本計画 (part of the latest) by 沖縄県 
     平成25年度 県民経済計算 by 沖縄県
     沖縄の米軍及び自衛隊基地（統計資料集）令和7年7月: 基地関係収入の推移 by 沖縄県
@@ -92,6 +93,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
