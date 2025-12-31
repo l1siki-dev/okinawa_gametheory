@@ -33,7 +33,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
 
     ??? quote "Data Sources"
     
-        ???+ quote ""
+        !!! quote ""
         
             第５次沖縄県観光振興基本計画 (part of the latest) by 沖縄県 
             平成25年度 県民経済計算 by 沖縄県
@@ -41,7 +41,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
             戦後沖縄の軍用地料の配分と女性住民運動 (2014) by 桐山節子 
             復帰後の沖縄経済の構造変化と政策課題に関する調査研究 (2009) by 南西地域産業活性化センター
 
-        ???+ quote ""
+        !!! quote ""
 
             Military-Related Receipts  (FY2013) is not consistance among Official document. (208,831 vs 209,200) 
             I used 209.200 for calculations because it give me the exact breakdown.
@@ -86,6 +86,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
