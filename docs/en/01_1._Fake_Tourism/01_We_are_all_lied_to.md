@@ -16,7 +16,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
         placeholder the evidence revenue vs. profit
         ```
 
-    === "True Profit Comparison."
+    === "Profit Comparison."
         | Rank | Category         | Original (Revenue) | Profit Efficiency        | **Profit (Pure Cash)** | **Relative Size (vs Fiscal)** |
         |------|------------------|--------------------|--------------------------|------------------------|-------------------------------|
         | 1    | Fiscal Transfers | 1,171,533          | 100% (Pure Cash)         | **1,171,533**          | **100%**                      |
@@ -134,6 +134,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
