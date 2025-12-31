@@ -69,9 +69,10 @@ Here is the ranking by **Net Cash/Profit** remaining in the hands of Okinawa own
 
 ## Grandma's 1000 Yen allowance vs. selling 1000 Yen ramen.
 
-## Fixed Graph: Tourism practically doesn't exist.
+## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
-## Improved Graph: Politicians have zero incentive to develop Okinawa.
+## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
