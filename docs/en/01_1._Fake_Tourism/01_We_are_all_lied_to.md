@@ -48,11 +48,31 @@ It's almost 439,544.
 So we can assume that almost all "the other" is pure cash from outside.
 411,321 / 439,544 = 93%
 
+
+### 3. The "True Profit" Comparison (FY2013)
+
+Here is the ranking by **Net Cash/Profit** remaining in the hands of Okinawa owners/residents.
+
+| Rank | Category | Original (Revenue) | **Margin Logic** | **True Profit (Pure Cash)** |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Fiscal Transfers** | 1,171,533 | **100%** (Govt Revenue) | **1,171,533** |
+| **2** | **OTHERS (Total)** | 439,544 | *Mixed* | **~338,800** |
+| | *(Breakdown: Pensions)* | *(330,000)* | *100% (Direct Cash)* | *330,000* |
+| | *(Breakdown: Exports)* | *(110,000)* | *8% (Business Profit)* | *8,800* |
+| **3** | **Military** | 208,831 | *Mixed (High Rent)* | **~145,000** |
+| | *(Breakdown: Land Rent)* | *(~92,000)* | *~98% (Passive Income)* | *~90,000* |
+| | *(Breakdown: Wages)* | *(~50,000)* | *100% (Direct Cash)* | *~50,000* |
+| | *(Breakdown: Sales)* | *(~66,000)* | *8% (Business Profit)* | *~5,300* |
+| **4** | **Tourism** | 447,868 | **8%** (Operating Profit) | **~35,800** |
+| **5** | **Petroleum** | 65,015 | **5%** (Trading Profit) | **~3,250** |
+
+
 ## Grandma's 1000 Yen allowance vs. selling 1000 Yen ramen.
 
 ## Fixed Graph: Tourism practically doesn't exist.
 
 ## Improved Graph: Politicians have zero incentive to develop Okinawa.
+
 
 
 
