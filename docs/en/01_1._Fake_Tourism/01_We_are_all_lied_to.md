@@ -17,13 +17,13 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
         ```
 
     === "True Profit Comparison."
-        | Rank | Category         | Original (Revenue) | Profit Efficiency      | **Profit (Pure Cash)** | **Relative Size (vs Fiscal)** |
-        |------|------------------|--------------------|------------------------|------------------------|-------------------------------|
-        | 1    | Fiscal Transfers | 1,171,533          | 100% (Pure Cash)       | **1,171,533**          | **100%**                      |
-        | 2    | OTHERS (Total)   | 439,544            | ~77% (High Pensions)   | **~338,800**           | **~29%**                      |
-        | 3    | Military         | 209,200            | ~67% (High Rent/Wage)  | **~139,000**           | **~12%**                      |
-        | 4    | Tourism          | 447,868            | ~8% (Operating Profit) | **~35,800**            | **~3%**                       |
-        | 5    | Petroleum        | 65,015             | ~5% (Trading Profit)   | **~3,250**             | **~0.3%**                     |
+        | Rank | Category         | Original (Revenue) | Profit Efficiency        | **Profit (Pure Cash)** | **Relative Size (vs Fiscal)** |
+        |------|------------------|--------------------|--------------------------|------------------------|-------------------------------|
+        | 1    | Fiscal Transfers | 1,171,533          | 100% (Pure Cash)         | **1,171,533**          | **100%**                      |
+        | 2    | OTHERS (Total)   | 439,544            | ~77% (High Pensions)     | **~338,800**           | **~29%**                      |
+        | 3    | Military         | 209,200            | ~67% (High Rent/Wage)    | **~139,000**           | **~12%**                      |
+        | 4    | Tourism          | 447,868            | ~6.9% (Operating Profit) | **~30,900**            | **~2.6%**                     |
+        | 5    | Petroleum        | 65,015             | ~5% (Trading Profit)     | **~3,250**             | **~0.3%**                     |
 
     ??? quote "Data Sources"
     
@@ -80,6 +80,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
