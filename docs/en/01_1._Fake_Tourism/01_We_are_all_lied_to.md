@@ -66,12 +66,23 @@ Here is the ranking by **Net Cash/Profit** remaining in the hands of Okinawa own
 | **4** | **Tourism** | 447,868 | **8%** (Operating Profit) | **~35,800** |
 | **5** | **Petroleum** | 65,015 | **5%** (Trading Profit) | **~3,250** |
 
+### 4. The Narrative Shift
+
+When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's economy looks completely different from the official graph:
+
+1.  **Fiscal Transfers & Pensions (Others)** are the absolute giants. They provide **~1.5 Trillion Yen** of pure cash with zero work/cost attached.
+2.  **Military Base Income (~145B)** is actually **4x more valuable** to the asset holders than **Tourism Profit (~36B)**.
+    *   Why? Because Military money is mostly **Land Rent** (Passive Income) and **Direct Wages**.
+    *   Tourism is a high-cost, low-margin business. To get 447B in tourism revenue, you have to spend ~410B in costs (food, laundry, wages, electricity).
+3.  **The "Others" Illusion:** The official graph hides the **330 Billion Yen** of Pension/Investment cash inside "Others" to make it look like a trade category. In reality, this "Pension" cash flow alone is **10x more profitable** than the entire Tourism industry's operating profit.
+
 
 ## Grandma's 1000 Yen allowance vs. selling 1000 Yen ramen.
 
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
