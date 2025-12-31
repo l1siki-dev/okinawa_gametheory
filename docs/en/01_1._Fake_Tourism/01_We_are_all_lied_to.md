@@ -4,7 +4,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
 
 ## Okinawa govt tricked you by hiding the expenses of tourism 
 !!! note "They are hiding expenses on tourism."
-
+   
    !!! note "They are hiding expenses on tourism."
    
       === "Decieving Official Chart"
@@ -87,6 +87,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
