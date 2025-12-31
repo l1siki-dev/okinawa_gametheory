@@ -60,6 +60,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
         ??? quote "Estimation of Tourism Profit Margin."
             **Estimated Profit efficiency: 6.9%**.
             The estimation is what I did for the 2024 data analysis. I assumed 2013 had the same breakdown ratio. 
+            2013 likely had low efficiency against 2024, due to lower prices. So 6.9% is likely higher than the reality.
 
             ##### The profit estimation: ROI disaster (Estimated tourism profit is 68.2 Billion Yen)
             > 沖縄県の観光収入はコロナ禍からV字回復し、2024年度速報値で過去最高額の9835億円を記録
@@ -128,6 +129,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
