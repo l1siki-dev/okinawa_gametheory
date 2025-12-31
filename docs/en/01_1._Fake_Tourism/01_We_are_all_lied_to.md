@@ -17,18 +17,14 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
         ```
 
     === "True Profit Comparison."
-        | Rank | Category | Original (Revenue) | **Margin Logic** | **True Profit (Pure Cash)** |
-        | :--- | :--- | :--- | :--- | :--- |
-        | **1** | **Fiscal Transfers** | 1,171,533 | **100%** (Govt Revenue) | **1,171,533** |
-        | **2** | **OTHERS (Total)** | 439,544 | *Mixed* | **~338,800** |
-        | | *(Breakdown: Pensions)* | *(330,000)* | *100% (Direct Cash)* | *330,000* |
-        | | *(Breakdown: Exports)* | *(110,000)* | *8% (Business Profit)* | *8,800* |
-        | **3** | **Military** | 208,831 | *Mixed (High Rent)* | **~145,000** |
-        | | *(Breakdown: Land Rent)* | *(~92,000)* | *~98% (Passive Income)* | *~90,000* |
-        | | *(Breakdown: Wages)* | *(~50,000)* | *100% (Direct Cash)* | *~50,000* |
-        | | *(Breakdown: Sales)* | *(~66,000)* | *8% (Business Profit)* | *~5,300* |
-        | **4** | **Tourism** | 447,868 | **8%** (Operating Profit) | **~35,800** |
-        | **5** | **Petroleum** | 65,015 | **5%** (Trading Profit) | **~3,250** |
+        | Rank | Category                   | Original (Revenue) | Profit Efficiency        | **Profit (Pure Cash)** |
+        |------|----------------------------|--------------------|--------------------------|------------------------|
+        | 1    | Fiscal Transfers           | 1,171,533          | 100% (Pure Cash)         | **1,171,533**          |
+        | 2    | OTHERS (Total)             | 439,544            | ~77% (High Pensions)     | **~338,800**           |
+        | 3    | Military                   | 209,200            | ~67% (High Rent/Wage)    | **~139,000**           |
+        | 4    | Tourism                    | 447,868            | ~8% (Operating Profit)   | **~35,800**            |
+        | 5    | Petroleum                  | 65,015             | ~5% (Trading Profit)     | **~3,250**             |
+
 
     ??? quote "Data Sources"
     
@@ -46,21 +42,21 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
             I used 209,200 for calculations because it gives me the exact breakdown, and the difference is negligible.
 
         ??? info "Breakdown of Military-Related Receipts."
-            | Components                        | Estimated Amount | Profit Efficiency   | Profit       | Note                                                                                 |
-            |-----------------------------------|------------------|---------------------|--------------|--------------------------------------------------------------------------------------|
-            | 1. Military Land Lease Fees       | 83,200           | 100%                | **83,200**   | Paid by Govt of Japan to landowners. Pure unearned income (Transfer Payment).        |
-            | 2. Military Employee Income       | 49,600           | 100%                | **49,600**   | Salaries for Japanese workers paid by Govt of Japan. (Direct Household Income).      |
-            | 3. Goods & Service Provision      | 65,900           | 10% (Rough Estimate)| **6,590**    | Construction, utilities, and supplies sold to bases. (Gross Business Revenue).       |
-            | 4. Others                         | 10,500           | 10% (Rough Estimate)| **1,050**    | Intra-base construction and tenant business activities. (Gross Business Revenue).    |
-            | **TOTAL**                         | **209,200**      | **~67%**            | **~140,440** | **High Efficiency:** Unlike tourism/exports, the majority of this is pure income.    |        
+            | Components                   | Estimated Amount | Profit Efficiency | Profit       | Note                                                                              |
+            |------------------------------|------------------|-------------------|--------------|-----------------------------------------------------------------------------------|
+            | 1. Military Land Lease Fees  | 83,200           | 100%              | **83,200**   | Paid by Govt of Japan to landowners. Pure unearned income (Transfer Payment).     |
+            | 2. Military Employee Income  | 49,600           | 100%              | **49,600**   | Salaries for Japanese workers paid by Govt of Japan. (Direct Household Income).   |
+            | 3. Goods & Service Provision | 65,900           | 10% (EST)         | **6,590**    | Construction, utilities, and supplies sold to bases. (Gross Business Revenue).    |
+            | 4. Others                    | 10,500           | 10% (EST)         | **1,050**    | Intra-base construction and tenant business activities. (Gross Business Revenue). |
+            | TOTAL                        | 209,200          | **~67%**          | **~140,440** | High Efficiency: Unlike tourism/exports, the majority of this is pure income.     |
     
         ??? info "Breakdown of Others."
             | Components                        | Estimated Amount | Profit Efficiency   | Profit       | Note                                                                                 |
             |-----------------------------------|------------------|---------------------|--------------|--------------------------------------------------------------------------------------|
             | 1. Pensions (Direct from Outside) | ~245,000         | 100%                | **~245,000** | This is the *majority* of Social Security 411k. (Local cities pay the rest).  |
             | 2. Property Income                | ~85,000          | 100%                | **~85,000**  | Dividends/Interest from mainland stocks/bonds.                                       |
-            | 3. Merchandise/Service Exports    | ~110,000         | 8% (Rough estimate) | **~8,800**   | Sugar, Pineapples, Call Centers (Real business revenue).                             |
-            | TOTAL                             | 439,544          | 77%                 | **~338,800** |                                                                                      |
+            | 3. Merchandise/Service Exports    | ~110,000         | ~8% (EST)| **~8,800**   | Sugar, Pineapples, Call Centers (Real business revenue).                             |
+            | TOTAL                             | 439,544          | **~77%**            | **~338,800** |                                                                                      |
         
 
 
@@ -84,6 +80,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
