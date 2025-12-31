@@ -4,7 +4,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
 
 ## Okinawa govt tricked you by hiding the expenses of tourism 
 !!! note ""
-    === "Decieving Official Chart"
+    === "Decieving Official Chart."
     
         ```
         placeholder the evidence revenue vs. profit
@@ -16,7 +16,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
         placeholder the evidence revenue vs. profit
         ```
 
-    === "True Profit Comparison"
+    === "True Profit Comparison."
         | Rank | Category | Original (Revenue) | **Margin Logic** | **True Profit (Pure Cash)** |
         | :--- | :--- | :--- | :--- | :--- |
         | **1** | **Fiscal Transfers** | 1,171,533 | **100%** (Govt Revenue) | **1,171,533** |
@@ -42,20 +42,19 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
 
         !!! quote ""
 
-            Military-Related Receipts  (FY2013) is not consistance among Official document. (208,831 vs 209,200) 
-            I used 209.200 for calculations because it give me the exact breakdown.
+            Military-Related Receipts  (FY2013) are inconsistent among official documents. (208,831 vs 209,200) 
+            I used 209.200 for calculations because it gives me the exact breakdown.
 
-        ??? info "Breakdown of Military-Related Receipts"
-            | Components | Amount (Million Yen) | Nature | Note |
-            | :--- | :--- | :--- | :--- |
-            | 1. Military Land Lease Fees (軍用地料) | **83,200** | **Almost Pure Cash** | This is the *majority* of Social Security 411k. (The rest is paid by local cities). |
-            | 2. Military Employee Income (軍雇用者所得) | **49,600** | **Pure Cash** | Dividends/Interest from mainland stocks/bonds. |
-            | 3. Provision of Goods and Services to U.S. Forces, etc. (米軍等への財・サービスの提供) | **65,900** | **Revenue** | Sugar, Pineapples, Call Centers (Real business revenue). |
-            | 4. Other (その他) | **10,500** | **Revenue** | Sugar, Pineapples, Call Centers (Real business revenue). |
-            | **TOTAL** | **209,200** | | |
-        
+        ??? info "Breakdown of Military-Related Receipts."
+            | Components                        | Estimated Amount | Profit Efficiency   | Profit       | Note                                                                                 |
+            |-----------------------------------|------------------|---------------------|--------------|--------------------------------------------------------------------------------------|
+            | 1. Military Land Lease Fees       | 83,200           | 100%                | **83,200**   | Paid by Govt of Japan to landowners. Pure unearned income (Transfer Payment).        |
+            | 2. Military Employee Income       | 49,600           | 100%                | **49,600**   | Salaries for Japanese workers paid by Govt of Japan. (Direct Household Income).      |
+            | 3. Goods & Service Provision      | 65,900           | 10% (Rough Estimate)| **6,590**    | Construction, utilities, and supplies sold to bases. (Gross Business Revenue).       |
+            | 4. Others                         | 10,500           | 10% (Rough Estimate)| **1,050**    | Intra-base construction and tenant business activities. (Gross Business Revenue).    |
+            | **TOTAL**                         | **209,200**      | **~67%**            | **~140,440** | **High Efficiency:** Unlike tourism/exports, the majority of this is pure income.    |        
     
-        ??? info "Breakdown of Others"
+        ??? info "Breakdown of Others."
             | Components                        | Estimated Amount | Profit Efficiency   | Profit       | Note                                                                                 |
             |-----------------------------------|------------------|---------------------|--------------|--------------------------------------------------------------------------------------|
             | 1. Pensions (Direct from Outside) | ~245,000         | 100%                | **~245,000** | This is the *majority* of Social Security 411k. (Local cities pay the rest).  |
@@ -85,6 +84,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
