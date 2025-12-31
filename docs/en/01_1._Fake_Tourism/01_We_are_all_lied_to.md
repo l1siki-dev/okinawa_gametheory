@@ -56,12 +56,12 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
         
     
         ??? info "Breakdown of Others"
-            | Components | Estimated Amount | Profit Efficiency | Note |
-            | :--- | :--- | :--- | :--- |
-            | **1. Pensions (Direct from Outside)** | **~245,000** | 100% | This is the *majority* of Social Security 411k. (The rest is paid by local cities). |
-            | **2. Property Income** | **~85,000** | 100% | Dividends/Interest from mainland stocks/bonds. |
-            | **3. Merchandise/Service Exports** | **~110,000** | 8% (Rough estimate) | Sugar, Pineapples, Call Centers (Real business revenue). |
-            | **TOTAL** | **439,544** | | |
+            | Components                            | Estimated Amount | Profit Efficiency   | Profit       | Note                                                                                 |
+            |---------------------------------------|------------------|---------------------|--------------|--------------------------------------------------------------------------------------|
+            | **1. Pensions (Direct from Outside)** | **~245,000**     | 100%                | **~245,000** | This is the *majority* of Social Security 411k. (Local cities pay the rest).  |
+            | **2. Property Income**                | **~85,000**      | 100%                | **~85,000**  | Dividends/Interest from mainland stocks/bonds.                                       |
+            | **3. Merchandise/Service Exports**    | **~110,000**     | 8% (Rough estimate) | **~8,800**   | Sugar, Pineapples, Call Centers (Real business revenue).                             |
+            | **TOTAL**                             | **439,544**      |                     |              |                                                                                      |
         
 
 
@@ -85,6 +85,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
