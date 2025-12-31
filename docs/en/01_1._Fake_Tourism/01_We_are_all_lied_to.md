@@ -72,24 +72,28 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
         Tourism revenue is not a monolith. We need to break down where that 983.5 billion yen goes and apply average profit margins for those specific industries.  
 
         **A. Accommodation (Hotels/Ryokans) ~35% of spending**
+        
         *   **Revenue Share:** approx. 344 billion yen.  
         *   **Margin:** The hotel industry typically operates on thin margins (5%), but 2024 saw significant price hikes (ADR - Average Daily Rate increased).  
         *   **Est. Margin:** 10% (High performance due to price increases).  
         *   **Profit:** ~34.4 billion yen.  
 
         **B. Shopping (Souvenirs/Retail) ~25% of spending**
+        
         *   **Revenue Share:** approx. 246 billion yen.  
         *   **Margin:** Retail operating margins in Japan are generally low.  
         *   **Est. Margin:** 4%.  
         *   **Profit:** ~9.8 billion yen.  
 
         **C. Food & Beverage ~25% of spending**
+        
         *   **Revenue Share:** approx. 246 billion yen.  
         *   **Margin:** Restaurants face high ingredient costs and labor shortages.  
         *   **Est. Margin:** 5% (Standard for healthy dining businesses).  
         *   **Profit:** ~12.3 billion yen.  
 
         **D. Transportation (Local) & Activities ~15% of spending**
+        
         *   **Revenue Share:** approx. 147 billion yen.  
         *   **Margin:** Rental cars have high margins currently due to shortages/high prices, but buses/taxis operate on very slim margins.  
         *   **Est. Margin:** 8%.  
@@ -129,6 +133,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
