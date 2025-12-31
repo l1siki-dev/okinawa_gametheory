@@ -48,6 +48,23 @@ It's almost 439,544.
 So we can assume that almost all "the other" is pure cash from outside.
 411,321 / 439,544 = 93%
 
+#### 1. The Discrepancy: 411k vs. "Others"
+
+You found **411,321 Million Yen** (Total Cash Social Security Benefits).
+This includes **ALL** cash handouts to households, regardless of the route:
+1.  **Direct from Tokyo (Japan Pension Service):** National Pension, Employees' Pension (Kousei Nenkin). -> **Counts as "Receipts from Outside" (Others)**.
+2.  **Via Local City Hall:** Livelihood Protection (Seikatsu Hogo), Child Allowance (Jido Teate), etc. -> **Counts as "Internal Flow"** (Technically, the money enters the City via "Fiscal Transfers" first, then the City pays the household. So it is *not* in the "Others" line).
+
+**The Breakdown of "Others" (439,544 Total):**
+The "Others" category is the sum of **Direct Cash from Outside** + **Exports**.
+
+| Component of "Others" | Estimated Amount | Nature | Relation to your 411k |
+| :--- | :--- | :--- | :--- |
+| **1. Pensions (Direct from Outside)** | **~245,000** | **Pure Cash** | This is the *majority* of your 411k. (The rest of the 411k is paid by local cities). |
+| **2. Property Income** | **~85,000** | **Pure Cash** | Dividends/Interest from mainland stocks/bonds. |
+| **3. Merchandise/Service Exports** | **~110,000** | **Business** | Sugar, Pineapples, Call Centers (Real business revenue). |
+| **TOTAL** | **439,544** | | |
+
 
 ### 3. The "True Profit" Comparison (FY2013)
 
@@ -76,12 +93,12 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
     *   Tourism is a high-cost, low-margin business. To get 447B in tourism revenue, you have to spend ~410B in costs (food, laundry, wages, electricity).
 3.  **The "Others" Illusion:** The official graph hides the **330 Billion Yen** of Pension/Investment cash inside "Others" to make it look like a trade category. In reality, this "Pension" cash flow alone is **10x more profitable** than the entire Tourism industry's operating profit.
 
-
 ## Grandma's 1000 Yen allowance vs. selling 1000 Yen ramen.
 
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
