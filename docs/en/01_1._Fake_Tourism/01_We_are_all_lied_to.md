@@ -25,7 +25,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
         | 4    | Tourism          | 447,868            | ~6.9% (Operating Profit) | **~30,900**            | **~2.6%**                     |
         | 5    | Petroleum        | 65,015             | ~5% (Trading Profit)     | **~3,250**             | **~0.3%**                     |
 
-    ??? quote "Data Sources"
+    ??? quote "Data Sources and Notes"
     
         !!! quote ""
         
@@ -35,76 +35,76 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
             - 戦後沖縄の軍用地料の配分と女性住民運動 (2014) by 桐山節子 
             - 復帰後の沖縄経済の構造変化と政策課題に関する調査研究 (2009) by 南西地域産業活性化センター
 
-        !!! quote ""
+    !!! quote ""
 
-            - [1] Military-Related Receipts  (FY2013) are inconsistent among official documents. (208,831 vs 209,200) 
-              I used 209,200 for calculations because it gives me the exact breakdown, and the difference is negligible.
-            - The original chart is based on the Okinawa Govt's unique concept of 県外受取.
-            
-        ??? info "Breakdown of Military-Related Receipts."
-            | Components                   | Amount           | Profit Efficiency | Profit       | Note                                                                              |
-            |------------------------------|------------------|-------------------|--------------|-----------------------------------------------------------------------------------|
-            | 1. Military Land Lease Fees  | 83,200           | 100%              | **83,200**   | Paid by Govt of Japan to landowners. Pure unearned income (Transfer Payment).     |
-            | 2. Military Employee Income  | 49,600           | 100%              | **49,600**   | Salaries for Japanese workers paid by Govt of Japan. (Direct Household Income).   |
-            | 3. Goods & Service Provision | 65,900           | 10% (EST)         | **6,590**    | Construction, utilities, and supplies sold to bases. (Gross Business Revenue).    |
-            | 4. Others                    | 10,500           | 10% (EST)         | **1,050**    | Intra-base construction and tenant business activities. (Gross Business Revenue). |
-            | TOTAL                        | 209,200          | **~67%**          | **~140,440** | High Efficiency: Unlike tourism/exports, the majority of this is pure income.     |
-    
-        ??? info "Breakdown of Others."
-            | Components                        | Estimated Amount | Profit Efficiency   | Profit       | Note                                                                                 |
-            |-----------------------------------|------------------|---------------------|--------------|--------------------------------------------------------------------------------------|
-            | 1. Pensions (Direct from Outside) | ~245,000         | 100%                | **~245,000** | This is the *majority* of Social Security 411k. (Local cities pay the rest).  |
-            | 2. Property Income                | ~85,000          | 100%                | **~85,000**  | Dividends/Interest from mainland stocks/bonds.                                       |
-            | 3. Merchandise/Service Exports    | ~110,000         | ~8% (EST)| **~8,800**   | Sugar, Pineapples, Call Centers (Real business revenue).                             |
-            | TOTAL                             | 439,544          | **~77%**            | **~338,800** |                                                                                      |
-        ??? info "Estimation of Tourism Profit Margin."
-            **Estimated Profit efficiency: 6.9%**.
-            The estimation is what I did for the 2024 data analysis. I assumed 2013 had the same breakdown ratio. 
-            2013 likely had lower efficiency against 2024, due to lower prices. So 6.9% is likely higher than the reality.
+        - [1] Military-Related Receipts  (FY2013) are inconsistent among official documents. (208,831 vs 209,200) 
+          I used 209,200 for calculations because it gives me the exact breakdown, and the difference is negligible.
+        - The original chart is based on the Okinawa Govt's unique concept of 県外受取.
+        
+    ??? info "Breakdown of Military-Related Receipts."
+        | Components                   | Amount           | Profit Efficiency | Profit       | Note                                                                              |
+        |------------------------------|------------------|-------------------|--------------|-----------------------------------------------------------------------------------|
+        | 1. Military Land Lease Fees  | 83,200           | 100%              | **83,200**   | Paid by Govt of Japan to landowners. Pure unearned income (Transfer Payment).     |
+        | 2. Military Employee Income  | 49,600           | 100%              | **49,600**   | Salaries for Japanese workers paid by Govt of Japan. (Direct Household Income).   |
+        | 3. Goods & Service Provision | 65,900           | 10% (EST)         | **6,590**    | Construction, utilities, and supplies sold to bases. (Gross Business Revenue).    |
+        | 4. Others                    | 10,500           | 10% (EST)         | **1,050**    | Intra-base construction and tenant business activities. (Gross Business Revenue). |
+        | TOTAL                        | 209,200          | **~67%**          | **~140,440** | High Efficiency: Unlike tourism/exports, the majority of this is pure income.     |
 
-            ---
-            > 沖縄県の観光収入はコロナ禍からV字回復し、2024年度速報値で過去最高額の9835億円を記録
+    ??? info "Breakdown of Others."
+        | Components                        | Estimated Amount | Profit Efficiency   | Profit       | Note                                                                                 |
+        |-----------------------------------|------------------|---------------------|--------------|--------------------------------------------------------------------------------------|
+        | 1. Pensions (Direct from Outside) | ~245,000         | 100%                | **~245,000** | This is the *majority* of Social Security 411k. (Local cities pay the rest).  |
+        | 2. Property Income                | ~85,000          | 100%                | **~85,000**  | Dividends/Interest from mainland stocks/bonds.                                       |
+        | 3. Merchandise/Service Exports    | ~110,000         | ~8% (EST)| **~8,800**   | Sugar, Pineapples, Call Centers (Real business revenue).                             |
+        | TOTAL                             | 439,544          | **~77%**            | **~338,800** |                                                                                      |
+    ??? info "Estimation of Tourism Profit Margin."
+        **Estimated Profit efficiency: 6.9%**.
+        The estimation is what I did for the 2024 data analysis. I assumed 2013 had the same breakdown ratio. 
+        2013 likely had lower efficiency against 2024, due to lower prices. So 6.9% is likely higher than the reality.
 
-            Let's estimate the profit.  
-            Tourism revenue is difficult to estimate because "tourism" involves various industries with different profit structures (hotels, transport, retail, dining).  
-            However, based on Japanese service industry standards and current economic conditions in Okinawa, we can estimate the aggregate operating profit to be roughly **between 50 billion and 80 billion yen (approx. 5% - 8% of revenue).**
+        ---
+        > 沖縄県の観光収入はコロナ禍からV字回復し、2024年度速報値で過去最高額の9835億円を記録
 
-            Tourism revenue is not a monolith. We need to break down where that 983.5 billion yen goes and apply average profit margins for those specific industries.  
+        Let's estimate the profit.  
+        Tourism revenue is difficult to estimate because "tourism" involves various industries with different profit structures (hotels, transport, retail, dining).  
+        However, based on Japanese service industry standards and current economic conditions in Okinawa, we can estimate the aggregate operating profit to be roughly **between 50 billion and 80 billion yen (approx. 5% - 8% of revenue).**
 
-            **A. Accommodation (Hotels/Ryokans) ~35% of spending**
-            *   **Revenue Share:** approx. 344 billion yen.  
-            *   **Margin:** The hotel industry typically operates on thin margins (5%), but 2024 saw significant price hikes (ADR - Average Daily Rate increased).  
-            *   **Est. Margin:** 10% (High performance due to price increases).  
-            *   **Profit:** ~34.4 billion yen.  
+        Tourism revenue is not a monolith. We need to break down where that 983.5 billion yen goes and apply average profit margins for those specific industries.  
 
-            **B. Shopping (Souvenirs/Retail) ~25% of spending**
-            *   **Revenue Share:** approx. 246 billion yen.  
-            *   **Margin:** Retail operating margins in Japan are generally low.  
-            *   **Est. Margin:** 4%.  
-            *   **Profit:** ~9.8 billion yen.  
+        **A. Accommodation (Hotels/Ryokans) ~35% of spending**
+        *   **Revenue Share:** approx. 344 billion yen.  
+        *   **Margin:** The hotel industry typically operates on thin margins (5%), but 2024 saw significant price hikes (ADR - Average Daily Rate increased).  
+        *   **Est. Margin:** 10% (High performance due to price increases).  
+        *   **Profit:** ~34.4 billion yen.  
 
-            **C. Food & Beverage ~25% of spending**
-            *   **Revenue Share:** approx. 246 billion yen.  
-            *   **Margin:** Restaurants face high ingredient costs and labor shortages.  
-            *   **Est. Margin:** 5% (Standard for healthy dining businesses).  
-            *   **Profit:** ~12.3 billion yen.  
+        **B. Shopping (Souvenirs/Retail) ~25% of spending**
+        *   **Revenue Share:** approx. 246 billion yen.  
+        *   **Margin:** Retail operating margins in Japan are generally low.  
+        *   **Est. Margin:** 4%.  
+        *   **Profit:** ~9.8 billion yen.  
 
-            **D. Transportation (Local) & Activities ~15% of spending**
-            *   **Revenue Share:** approx. 147 billion yen.  
-            *   **Margin:** Rental cars have high margins currently due to shortages/high prices, but buses/taxis operate on very slim margins.  
-            *   **Est. Margin:** 8%.  
-            *   **Profit:** ~11.7 billion yen.  
+        **C. Food & Beverage ~25% of spending**
+        *   **Revenue Share:** approx. 246 billion yen.  
+        *   **Margin:** Restaurants face high ingredient costs and labor shortages.  
+        *   **Est. Margin:** 5% (Standard for healthy dining businesses).  
+        *   **Profit:** ~12.3 billion yen.  
 
-            Summing up the estimated profits:
+        **D. Transportation (Local) & Activities ~15% of spending**
+        *   **Revenue Share:** approx. 147 billion yen.  
+        *   **Margin:** Rental cars have high margins currently due to shortages/high prices, but buses/taxis operate on very slim margins.  
+        *   **Est. Margin:** 8%.  
+        *   **Profit:** ~11.7 billion yen.  
 
-            *   Accommodation: 34.4
-            *   Shopping: 9.8
-            *   Food/Bev: 12.3
-            *   Transport/Activity: 11.7
-            *   **Total Estimated Operating Profit: ~68.2 Billion Yen**
-            *   **Total Estimated Margin: ~6.9% **
+        Summing up the estimated profits:
 
-            This falls squarely in the **50–80 billion yen** range. So, likely not far from the truth.          
+        *   Accommodation: 34.4
+        *   Shopping: 9.8
+        *   Food/Bev: 12.3
+        *   Transport/Activity: 11.7
+        *   **Total Estimated Operating Profit: ~68.2 Billion Yen**
+        *   **Total Estimated Margin: ~6.9% **
+
+        This falls squarely in the **50–80 billion yen** range. So, likely not far from the truth.          
 
 
 
@@ -129,6 +129,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
