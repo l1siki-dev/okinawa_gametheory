@@ -4,12 +4,6 @@ I'm pure Okinawan (Nago + Miyakojima), and here to reveal lies deceiving you.
 
 ## Okinawa govt tricked you by hiding the expenses of tourism 
 !!! info "They are comparing pure cash and revenue (hiding expenses on tourism)."
-    ```
-    placeholder the evidence
-    revenue vs. profit
-    revenue vs. profit
-    revenue vs. profit
-    ```
     ??? quote "(Note)"
         Note
         Note
@@ -20,68 +14,68 @@ I'm pure Okinawan (Nago + Miyakojima), and here to reveal lies deceiving you.
         We believed that the Okinawa govt and the Okinawa media are telling the truth.
         We believed that they were the voice of us.
 
-### Breakdown of Military-Related Receipts (FY2013 / Heisei 25)
-*Source: Statistics on U.S. and SDF Bases in Okinawa (July 2025 Edition)*
+=== Broken Chart
 
-1.  **Military Land Lease Fees (軍用地料)**
-    *   **83.2 billion yen** (832 億円)
-2.  **Military Employee Income (軍雇用者所得)**
-    *   **49.6 billion yen** (496 億円)
-3.  **Provision of Goods and Services to U.S. Forces, etc. (米軍等への財・サービスの提供)**
-    *   **65.9 billion yen** (659 億円)
-    *   *Note on the label:* In your text ("米軍等への 米軍基地からの要素所得財・サービスの提供"), it appears two categories may have been pasted together. "Element Income" (Factor Income) typically refers to the sum of Rent and Wages, while this specific number (659) corresponds strictly to the **Provision of Goods and Services**.
-4.  **Other (その他)**
-    *   **10.5 billion yen** (105 億円)
-
-**Total:** **209.2 billion yen**
-
-### 1. The Exact Components of "Others" (439,544 Million Yen)
-
-Social Security Benefits: **411,321 million yen** is the key. The category "Others" is almost entirely composed of **Pensions & Dividends** flowing into households, as a pure cash handout from the central government.
-
-Source
-平成25年度 県民経済計算 by 沖縄県企画部: https://www.pref.okinawa.jp/toukeika/accounts/2013/acc_all.pdf
-    - from pdf page 28: unit is Million Yen
-        - ④家計（個人企業を含む）/ 受取 /（１）現金による社会保障給付 / 平成25年度: 411,321
-
-It's almost 439,544. 
-So we can assume that almost all "the other" is pure cash from outside.
-411,321 / 439,544 = 93%
-
-#### 1. The Discrepancy: 411k vs. "Others"
-
-You found **411,321 Million Yen** (Total Cash Social Security Benefits).
-This includes **ALL** cash handouts to households, regardless of the route:
-1.  **Direct from Tokyo (Japan Pension Service):** National Pension, Employees' Pension (Kousei Nenkin). -> **Counts as "Receipts from Outside" (Others)**.
-2.  **Via Local City Hall:** Livelihood Protection (Seikatsu Hogo), Child Allowance (Jido Teate), etc. -> **Counts as "Internal Flow"** (Technically, the money enters the City via "Fiscal Transfers" first, then the City pays the household. So it is *not* in the "Others" line).
-
-**The Breakdown of "Others" (439,544 Total):**
-The "Others" category is the sum of **Direct Cash from Outside** + **Exports**.
-
-| Component of "Others" | Estimated Amount | Nature | Relation to your 411k |
-| :--- | :--- | :--- | :--- |
-| **1. Pensions (Direct from Outside)** | **~245,000** | **Pure Cash** | This is the *majority* of your 411k. (The rest of the 411k is paid by local cities). |
-| **2. Property Income** | **~85,000** | **Pure Cash** | Dividends/Interest from mainland stocks/bonds. |
-| **3. Merchandise/Service Exports** | **~110,000** | **Business** | Sugar, Pineapples, Call Centers (Real business revenue). |
-| **TOTAL** | **439,544** | | |
+    ```
+    placeholder the evidence revenue vs. profit
 
 
-### 3. The "True Profit" Comparison (FY2013)
+    
+    
+    
+    placeholder the evidence revenue vs. profit
+    ```
+=== True Profit Comparison 
 
-Here is the ranking by **Net Cash/Profit** remaining in the hands of Okinawa owners/residents.
+    | Rank | Category | Original (Revenue) | **Margin Logic** | **True Profit (Pure Cash)** |
+    | :--- | :--- | :--- | :--- | :--- |
+    | **1** | **Fiscal Transfers** | 1,171,533 | **100%** (Govt Revenue) | **1,171,533** |
+    | **2** | **OTHERS (Total)** | 439,544 | *Mixed* | **~338,800** |
+    | | *(Breakdown: Pensions)* | *(330,000)* | *100% (Direct Cash)* | *330,000* |
+    | | *(Breakdown: Exports)* | *(110,000)* | *8% (Business Profit)* | *8,800* |
+    | **3** | **Military** | 208,831 | *Mixed (High Rent)* | **~145,000** |
+    | | *(Breakdown: Land Rent)* | *(~92,000)* | *~98% (Passive Income)* | *~90,000* |
+    | | *(Breakdown: Wages)* | *(~50,000)* | *100% (Direct Cash)* | *~50,000* |
+    | | *(Breakdown: Sales)* | *(~66,000)* | *8% (Business Profit)* | *~5,300* |
+    | **4** | **Tourism** | 447,868 | **8%** (Operating Profit) | **~35,800** |
+    | **5** | **Petroleum** | 65,015 | **5%** (Trading Profit) | **~3,250** |
 
-| Rank | Category | Original (Revenue) | **Margin Logic** | **True Profit (Pure Cash)** |
-| :--- | :--- | :--- | :--- | :--- |
-| **1** | **Fiscal Transfers** | 1,171,533 | **100%** (Govt Revenue) | **1,171,533** |
-| **2** | **OTHERS (Total)** | 439,544 | *Mixed* | **~338,800** |
-| | *(Breakdown: Pensions)* | *(330,000)* | *100% (Direct Cash)* | *330,000* |
-| | *(Breakdown: Exports)* | *(110,000)* | *8% (Business Profit)* | *8,800* |
-| **3** | **Military** | 208,831 | *Mixed (High Rent)* | **~145,000** |
-| | *(Breakdown: Land Rent)* | *(~92,000)* | *~98% (Passive Income)* | *~90,000* |
-| | *(Breakdown: Wages)* | *(~50,000)* | *100% (Direct Cash)* | *~50,000* |
-| | *(Breakdown: Sales)* | *(~66,000)* | *8% (Business Profit)* | *~5,300* |
-| **4** | **Tourism** | 447,868 | **8%** (Operating Profit) | **~35,800** |
-| **5** | **Petroleum** | 65,015 | **5%** (Trading Profit) | **~3,250** |
+??? Note "Breakdown of Military-Related Receipts"
+
+    *Source: Statistics on U.S. and SDF Bases in Okinawa (July 2025 Edition)*
+    1.  **Military Land Lease Fees (軍用地料)**
+        *   **83.2 billion yen** (832 億円)
+    2.  **Military Employee Income (軍雇用者所得)**
+        *   **49.6 billion yen** (496 億円)
+    3.  **Provision of Goods and Services to U.S. Forces, etc. (米軍等への財・サービスの提供)**
+        *   **65.9 billion yen** (659 億円)
+        *   *Note on the label:* In your text ("米軍等への 米軍基地からの要素所得財・サービスの提供"), it appears two categories may have been pasted together. "Element Income" (Factor Income) typically refers to the sum of Rent and Wages, while this specific number (659) corresponds strictly to the **Provision of Goods and Services**.
+    4.  **Other (その他)**
+        *   **10.5 billion yen** (105 億円)
+    **Total:** **209.2 billion yen**
+
+??? Note "Breakdown of Others"
+ 
+    | Component of "Others" | Estimated Amount | Nature | Relation to your 411k |
+    | :--- | :--- | :--- | :--- |
+    | **1. Pensions (Direct from Outside)** | **~245,000** | **Pure Cash** | This is the *majority* of your 411k. (The rest of the 411k is paid by local cities). |
+    | **2. Property Income** | **~85,000** | **Pure Cash** | Dividends/Interest from mainland stocks/bonds. |
+    | **3. Merchandise/Service Exports** | **~110,000** | **Business** | Sugar, Pineapples, Call Centers (Real business revenue). |
+    | **TOTAL** | **439,544** | | |
+
+??? Note "Data Sources"
+    第５次沖縄県観光振興基本計画 (part of the latest) by 沖縄県 
+    平成25年度 県民経済計算 by 沖縄県
+    沖縄の米軍及び自衛隊基地（統計資料集）令和7年7月: 基地関係収入の推移 by 沖縄県
+    戦後沖縄の軍用地料の配分と女性住民運動 (2014) by 桐山節子 
+    復帰後の沖縄経済の構造変化と政策課題に関する調査研究 (2009) by 南西地域産業活性化センター
+
+
+    
+
+
+
+
 
 ### 4. The Narrative Shift
 
@@ -98,6 +92,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
