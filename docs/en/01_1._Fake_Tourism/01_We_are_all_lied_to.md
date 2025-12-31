@@ -34,7 +34,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
           | **5** | **Petroleum** | 65,015 | **5%** (Trading Profit) | **~3,250** |
 
    ???+ quote "Data Sources"
-   
+      
        第５次沖縄県観光振興基本計画 (part of the latest) by 沖縄県 
        平成25年度 県民経済計算 by 沖縄県
        沖縄の米軍及び自衛隊基地（統計資料集）令和7年7月: 基地関係収入の推移 by 沖縄県
@@ -42,7 +42,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
        復帰後の沖縄経済の構造変化と政策課題に関する調査研究 (2009) by 南西地域産業活性化センター
 
    ??? quote "Breakdown of Military-Related Receipts"
-   
+      
        *Source: Statistics on U.S. and SDF Bases in Okinawa (July 2025 Edition)*
        
        1.  **Military Land Lease Fees (軍用地料)**
@@ -57,7 +57,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
        **Total:** **209.2 billion yen**
    
    ??? quote "Breakdown of Others"
-    
+       
        | Component of "Others" | Estimated Amount | Nature | Relation to your 411k |
        | :--- | :--- | :--- | :--- |
        | **1. Pensions (Direct from Outside)** | **~245,000** | **Pure Cash** | This is the *majority* of your 411k. (The rest of the 411k is paid by local cities). |
@@ -87,6 +87,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
