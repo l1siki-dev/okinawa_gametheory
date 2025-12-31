@@ -57,7 +57,55 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
             | 2. Property Income                | ~85,000          | 100%                | **~85,000**  | Dividends/Interest from mainland stocks/bonds.                                       |
             | 3. Merchandise/Service Exports    | ~110,000         | ~8% (EST)| **~8,800**   | Sugar, Pineapples, Call Centers (Real business revenue).                             |
             | TOTAL                             | 439,544          | **~77%**            | **~338,800** |                                                                                      |
-        
+        ??? quote "Estimation of Tourism Profit Margin."
+            **Estimated Profit efficiency: 6.9%**.
+            The estimation is what I did for the 2024 data analysis. I assumed 2013 had the same breakdown ratio. 
+
+            ##### The profit estimation: ROI disaster (Estimated tourism profit is 68.2 Billion Yen)
+            > 沖縄県の観光収入はコロナ禍からV字回復し、2024年度速報値で過去最高額の9835億円を記録
+
+            Let's estimate the profit.  
+            Tourism revenue is difficult to estimate because "tourism" involves various industries with different profit structures (hotels, transport, retail, dining).  
+            However, based on Japanese service industry standards and current economic conditions in Okinawa, we can estimate the aggregate operating profit to be roughly **between 50 billion and 80 billion yen (approx. 5% - 8% of revenue).**
+
+            Tourism revenue is not a monolith. We need to break down where that 983.5 billion yen goes and apply average profit margins for those specific industries.  
+
+            **A. Accommodation (Hotels/Ryokans) ~35% of spending**
+            *   **Revenue Share:** approx. 344 billion yen.  
+            *   **Margin:** The hotel industry typically operates on thin margins (5%), but 2024 saw significant price hikes (ADR - Average Daily Rate increased).  
+            *   **Est. Margin:** 10% (High performance due to price increases).  
+            *   **Profit:** ~34.4 billion yen.  
+
+            **B. Shopping (Souvenirs/Retail) ~25% of spending**
+            *   **Revenue Share:** approx. 246 billion yen.  
+            *   **Margin:** Retail operating margins in Japan are generally low.  
+            *   **Est. Margin:** 4%.  
+            *   **Profit:** ~9.8 billion yen.  
+
+            **C. Food & Beverage ~25% of spending**
+            *   **Revenue Share:** approx. 246 billion yen.  
+            *   **Margin:** Restaurants face high ingredient costs and labor shortages.  
+            *   **Est. Margin:** 5% (Standard for healthy dining businesses).  
+            *   **Profit:** ~12.3 billion yen.  
+
+            **D. Transportation (Local) & Activities ~15% of spending**
+            *   **Revenue Share:** approx. 147 billion yen.  
+            *   **Margin:** Rental cars have high margins currently due to shortages/high prices, but buses/taxis operate on very slim margins.  
+            *   **Est. Margin:** 8%.  
+            *   **Profit:** ~11.7 billion yen.  
+
+            Summing up the estimated profits:
+
+            *   Accommodation: 34.4
+            *   Shopping: 9.8
+            *   Food/Bev: 12.3
+            *   Transport/Activity: 11.7
+            *   **Total Estimated Operating Profit: ~68.2 Billion Yen**
+            *   **Total Estimated Margin: ~6.9% **
+
+            This falls squarely in the **50–80 billion yen** range. So, likely not far from the truth.          
+
+
 
 
 
@@ -80,6 +128,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
