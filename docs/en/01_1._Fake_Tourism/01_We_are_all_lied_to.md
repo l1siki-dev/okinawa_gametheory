@@ -35,13 +35,13 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
             - 戦後沖縄の軍用地料の配分と女性住民運動 (2014) by 桐山節子 
             - 復帰後の沖縄経済の構造変化と政策課題に関する調査研究 (2009) by 南西地域産業活性化センター
 
-    !!! quote ""
-
-        - [1] Military-Related Receipts  (FY2013) are inconsistent among official documents. (208,831 vs 209,200) 
-          I used 209,200 for calculations because it gives me the exact breakdown, and the difference is negligible.
-        - The original chart is based on the Okinawa Govt's unique concept of 県外受取.
+        !!! quote ""
+    
+            - [1] Military-Related Receipts  (FY2013) are inconsistent among official documents. (208,831 vs 209,200) 
+              I used 209,200 for calculations because it gives me the exact breakdown, and the difference is negligible.
+            - The original chart is based on the Okinawa Govt's unique concept of 県外受取.
         
-    ??? info "Breakdown of Military-Related Receipts."
+    ??? quote "Breakdown of Military-Related Receipts."
         | Components                   | Amount           | Profit Efficiency | Profit       | Note                                                                              |
         |------------------------------|------------------|-------------------|--------------|-----------------------------------------------------------------------------------|
         | 1. Military Land Lease Fees  | 83,200           | 100%              | **83,200**   | Paid by Govt of Japan to landowners. Pure unearned income (Transfer Payment).     |
@@ -50,14 +50,14 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
         | 4. Others                    | 10,500           | 10% (EST)         | **1,050**    | Intra-base construction and tenant business activities. (Gross Business Revenue). |
         | TOTAL                        | 209,200          | **~67%**          | **~140,440** | High Efficiency: Unlike tourism/exports, the majority of this is pure income.     |
 
-    ??? info "Breakdown of Others."
+    ??? quote "Breakdown of Others."
         | Components                        | Estimated Amount | Profit Efficiency   | Profit       | Note                                                                                 |
         |-----------------------------------|------------------|---------------------|--------------|--------------------------------------------------------------------------------------|
         | 1. Pensions (Direct from Outside) | ~245,000         | 100%                | **~245,000** | This is the *majority* of Social Security 411k. (Local cities pay the rest).  |
         | 2. Property Income                | ~85,000          | 100%                | **~85,000**  | Dividends/Interest from mainland stocks/bonds.                                       |
         | 3. Merchandise/Service Exports    | ~110,000         | ~8% (EST)| **~8,800**   | Sugar, Pineapples, Call Centers (Real business revenue).                             |
         | TOTAL                             | 439,544          | **~77%**            | **~338,800** |                                                                                      |
-    ??? info "Estimation of Tourism Profit Margin."
+    ??? quote "Estimation of Tourism Profit Margin."
         **Estimated Profit efficiency: 6.9%**.
         The estimation is what I did for the 2024 data analysis. I assumed 2013 had the same breakdown ratio. 
         2013 likely had lower efficiency against 2024, due to lower prices. So 6.9% is likely higher than the reality.
@@ -129,6 +129,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
