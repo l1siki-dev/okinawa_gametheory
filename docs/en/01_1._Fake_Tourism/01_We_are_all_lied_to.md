@@ -56,7 +56,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
         |-----------------------------------|------------------|---------------------|--------------|--------------------------------------------------------------------------------------|
         | 1. Pensions (Direct from Outside) | ~245,000         | 100%                | **~245,000** | This is the *majority* of Social Security 411k. (Local cities pay the rest).  |
         | 2. Property Income                | ~85,000          | 100%                | **~85,000**  | Dividends/Interest from mainland stocks/bonds.                                       |
-        | 3. Merchandise/Service Exports    | ~110,000         | ~8% (EST)| **~8,800**   | Sugar, Pineapples, Call Centers (Real business revenue).                             |
+        | 3. Merchandise/Service Exports    | ~110,000         | ~8% (EST)           | **~8,800**   | Sugar, Pineapples, Call Centers (Real business revenue).                             |
         | TOTAL                             | 439,544          | **~77%**            | **~338,800** |                                                                                      |
     ??? quote "Estimation of Tourism Profit Margin."
         **Estimated Profit efficiency: 6.9%**.
@@ -134,6 +134,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
