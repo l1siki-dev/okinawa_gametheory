@@ -5,7 +5,7 @@ def on_nav(nav, config, files):
         for item in items:
             # 1. Handle items that already have a title (usually Folders)
             if item.title:
-                item.title = re.sub(r"^\d+[-_ ]+", "", item.title)
+                item.title = re.sub(r"^\d+[a-zA-Z]*[-_ ]+", "", item.title)
             
             # 2. Handle Pages (Files) that don't have a title yet
             # MkDocs usually fills this later from the H1 header, but we want 
