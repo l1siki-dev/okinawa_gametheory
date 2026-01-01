@@ -114,7 +114,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
     *   **The Package Tour Trap:** If a tourist pays **¥100,000** to a Tokyo travel agency, the prefecture counts that as **¥100,000** of "Okinawa Revenue."
     *   **The Reality:** The agency fee, flight costs (JAL/ANA), and insurance often stay in Tokyo. Only a fraction reaches the island, yet the government claims the full amount.
 
-    We will explore this on the next page and find real revenue, profit, and tax income from tourism.
+    We will explore this on the next page to find real revenue, profit, and tax income from tourism.
 
 
 ### 4. The Narrative Shift
@@ -132,6 +132,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
