@@ -1,3 +1,10 @@
+#todo: this is an empty placeholder
+- How the official "Tourism Revenue" works
+- Estimation of real revenue.
+- Quick calculation of profit and tax income.
+- Why do they fake? explanation.
+
+
 # Tourism revenue is fake in the firstplace.
 
 We learned the revenue is decieving figure to hide the poor performance of the tourism. 
