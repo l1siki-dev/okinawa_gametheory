@@ -1,7 +1,8 @@
 # v0.4
 
+- create sns accounts
 
-- rewrite the enitre report one by one, fosusing storytelling.
+- Rewrite the entire report one by one, focusing on storytelling.
     - 1 Fake Tourism
     - 2 Media
     - 3 Fake History
@@ -20,19 +21,17 @@ SHA256 hash of kankoshinkokihonkeikakukaitei.pdf: b761dbb28a8049b049a5a5b8b38749
   * create logo
   * Monju vs. Futenma
   * Seasonal tourism unemployment mechanism
-  - Recent "growth" is just a result of weak yen.
-  - The employment efficiency of tourism comparison with Fukuoka. and other high tourism prefectures.
-  - 沖縄振興予算 is a framing technique, it's likely govenment will try to relocate the aid by just dissolving it and distributing the moeny into different accounting categories. So, explicitly warn it.
+  - Recent "growth" is just a result of the weak yen.
+  - The employment efficiency of tourism compared with Fukuoka. and other high tourism prefectures.
+  - 沖縄振興予算 is a framing technique, it's likely govenment will try to relocate the aid by just dissolving it and distributing the money into different accounting categories. So, explicitly warn it.
   - Yen got weak because investors think that Japan can't defend itself. 
   
 * use mkdocs feature to implement 3 layerd information depth
 
-* create comic about "Allowance" addicted 50yo child Okinawa and spoiling Tokyo
-   * Tokyo hands 300 Bilion yen to Okinawa, like past 50 years 
-   * proudly 50yo Okinawa report that he earned 70 Billion yen using that 300 Bilion
-   * Tokyo is satisfied about that Okinawa never be able to leave the house
-   * (I might have miscalculated in favor of Okinawa in single magnitude, double check it.
-     *   
+* create a comic about an "Allowance" addicted 50-year-old child Okinawa and spoiling Tokyo
+   * Tokyo hands 300 billion yen to Okinawa, like the past 50 years 
+   * proudly 50yo Okinawa reports that he earned 70 billion yen using that 300 billion
+   * Tokyo is satisfied that Okinawa never be able to leave the house
 
 - create SNS id that is universal among SNS.
 
@@ -191,9 +190,9 @@ others
     * Opening line is "Ask ChatGPT to analyse Okinawa politics using sientific method"
     * It will "anchor" the perception of the reader hard. I don't have to hastle moving their common sense.
 
-* Prove resource curce using worldwide data
-    * prove aid curce has the same mechanism as recource curce
-    * Okinawa's economical/political similality with resouce curse state
+* Prove the resource curse using worldwide data
+    * prove the aid curse has the same mechanism as the resource curse
+    * Okinawa's economic/political similarity with resouce curse state
     * Life-expectancy comparison
 
 ## future plan
