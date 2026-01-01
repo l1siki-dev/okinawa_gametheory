@@ -110,7 +110,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
 
 !!! warning "Why 'Tourism Revenue' is Inflated"
     Not only low profitability, but the original figure from the govenment is also inflated in the first place.
-    So, the real profit from tourism is even smaller than my calculation, which used inflated figures.
+    So, the real profit from tourism is even smaller than my calculation, which used the inflated tourism figure.
     
     The official revenue figure is a "Vanity Metric" that includes:
     
@@ -134,6 +134,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
