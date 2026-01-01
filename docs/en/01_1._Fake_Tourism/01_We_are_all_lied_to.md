@@ -109,6 +109,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
 
 
 !!! warning Statistical Trick: The 'Phantom' Revenue."
+
     We learned the revenue is decieving figure to hide the poor performance of the tourism. 
     
     Not only the inefficiency, but the tourism revenue figure from the Okinawa govt itself is not real. 
@@ -139,6 +140,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
