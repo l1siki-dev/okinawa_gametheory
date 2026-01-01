@@ -279,6 +279,8 @@ Who has been practicing tourism as its main business for 50 years, since 1975, O
 They should have the proof that tourism works. Right?
 
 https://www.pref.okinawa.jp/shigoto/kankotokusan/1011671/1011741/1011762/1011752.html
+https://ghostarchive.org/archive/XFV9h
+https://archive.md/YCFl5
 
 - "第６次沖縄県観光振興基本計画" [https://web.archive.org/web/20250317205547/https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/6keikaku2.pdf](https://web.archive.org/web/20250317205547/https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/6keikaku2.pdf)  
 - "第5次沖縄県観光振興基本計画改定版" [https://web.archive.org/web/20250409094911/https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/kankoshinkokihonkeikakukaitei.pdf](https://web.archive.org/web/20250409094911/https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/kankoshinkokihonkeikakukaitei.pdf)
@@ -428,6 +430,7 @@ The Basic Plan is the confession. They have given up.
 * Luxury tourism is a trap that Okinawa doesn't want to pursue.  
 * The Okinawa government knows tourism will not work.  
 * Okinawa government's official plan for tourism, "第６次沖縄県観光振興基本計画", is a confession of giving up.  
+
 
 
 
