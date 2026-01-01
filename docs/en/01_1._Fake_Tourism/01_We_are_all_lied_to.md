@@ -108,16 +108,21 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
 
 
 
-!!! warning "Why 'Tourism Revenue' is Inflated."
-    Not only low profitability, but the original figure from the govenment is also inflated in the first place.
-    So, the real profit from tourism is even smaller than my calculation, which used the inflated tourism figure.
+!!! warning Statistical Trick: The 'Phantom' Revenue."
+    We learned the revenue is decieving figure to hide the poor performance of the tourism. 
     
-    The official revenue figure is a "Vanity Metric" that includes:
+    Not only the inefficiency, but the tourism revenue figure from the Okinawa govt itself is not real. 
+    So, the real profit from tourism is even smaller than my calculation, which used the inflated tourism figure they claim.
     
-    1.  **Non-Tourists:** Business travelers and construction workers are counted as "Tourists."
-    2.  **Phantom Money:** Money paid to travel agencies in Tokyo (Package Tours) is often counted as if it arrived in Okinawa.
-    3.  **Gross Sales:** It ignores that ~40% of this money immediately leaks out to pay for imported food, fuel, and franchise fees.
+    The official "Tourism Revenue" is calculated by asking tourists what they spent, NOT by asking local businesses what they earned.
 
+    -   **The Package Tour Trap:** If a tourist pays **¥100,000** to a Tokyo travel agency, the prefecture counts that as **¥100,000** of "Okinawa Revenue."
+    -   **The Reality:** The agency fee, flight costs (JAL/ANA), and insurance often stay in Tokyo. Only a fraction reaches the island, yet the government claims the full amount.
+
+    Not only that
+
+    -   **Non-Tourists counting:** Business travelers and construction workers are counted as "Tourists."
+    -   **Gross Sales:** It ignores that ~40% of this money immediately leaks out to pay for imported food, fuel, and franchise fees.
 
 ### 4. The Narrative Shift
 
@@ -134,6 +139,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
