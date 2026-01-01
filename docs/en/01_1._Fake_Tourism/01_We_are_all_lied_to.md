@@ -5,7 +5,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
 ## Okinawa govt tricked you by hiding the expenses of tourism 
 !!! quote ""
     === "Claim and Reality."
-        ![Claim vs. Reality](../../img/tourism_claim_vs_reality_tinified.ja.png)
+        ![Claim vs. Reality](../../img/tourism_claim_vs_reality2_tinified.jpn.png)
         
     === "Reality Table."
         | Rank | Category         | Original (Revenue) | Profit Efficiency        | **Profit (Pure Cash)** | **Relative Size (vs Fiscal)** |
@@ -125,6 +125,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
