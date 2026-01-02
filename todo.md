@@ -1,7 +1,39 @@
 # v0.4
 
-- create sns accounts
+- the Visual Capitalist style "all info in a single image."
+    - Create bar chart sections on mkdocs first.
 
+> #### **Zone 1: The Header (Top 10%)**
+> *   **Big Title:** THE OKINAWA TOURISM DECEPTION
+> *   **Sub-text:** *Comparing Official Government Claims vs. Economic Reality*
+> 
+> #### **Zone 2: The "Myth vs. Reality" Pies (Middle 40%)**
+> *   *This is your current WIP image.*
+> *   **Left (The Screenshot):** Keep the "boring" official look. Maybe add a "stamp" effect on top that says **"REVENUE (GROSS)"** in grey.
+> *   **Right (The Truth):** High contrast. Red for Tourism (tiny), Blue for Subsidies (huge). Add a stamp effect: **"PROFIT (NET)"**.
+> *   **The Connector:** Put a large arrow between them saying **"CORRECTED FOR COSTS & SUBSIDIES"**.
+> 
+> #### **Zone 3: The Reinforcement Bars (Bottom 40%)**
+> *   *This explains "Why" the pie chart changed so drastically.*
+> *   Use two horizontal bar charts to drive the point home.
+> 
+>     **Bar Chart A: "The Efficiency Gap"** (Revenue vs Profit)
+>     *   Shows *why* Tourism shrank.
+>     *   **Military:** [==========] (High Profit Margin)
+>     *   **Tourism:** [==========] (Revenue)
+>         *   [=] (Actual Profit - **Make this bright red**)
+>     *   *Caption:* "Tourism has high turnover but low profit. Military/Base income is almost pure cash."
+> 
+>     **Bar Chart B: "The Dependency Scale"** (The 'Allowance' aspect)
+>     *   Shows the "Elephant in the Room."
+>     *   **Subsidies:** [========================================] (Off the charts)
+>     *   **Tourism:** [=]
+>     *   *Caption:* "For every ¥1 of tourism profit, Okinawa receives ¥20 in subsidies."
+> 
+> #### **Zone 4: Footer (Bottom 10%)**
+> *   **Sources:** Cabinet Office, Okinawa Prefecture Economic Accounts (Year).
+> *   **Credits:** Report URL | @YourName
+> 
 - Rewrite the entire report one by one, focusing on storytelling.
     - 1 Fake Tourism
     - 2 Media
