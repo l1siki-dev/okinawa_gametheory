@@ -33,6 +33,68 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
             - The original chart is based on the Okinawa Govt's unique concept of 県外受取.
             - The original chart is on " 第5次沖縄県観光振興基本計画改定版, PDF page 20.
         
+        ??? quote "Evidense Preservation."
+            !!! info "Evidences"
+                https://archive.org/download/evidence_pdf_basicplan6.warc/okinawa_tourism_basicplan.warc.gz
+                https://archive.org/download/evidence_pdf_basicplan6.warc/evidence_pdf_basicplan5.warc.gz
+                https://archive.org/download/evidence_pdf_basicplan6.warc/evidence_pdf_basicplan6.warc.gz
+
+            ```archive_job_targets.txt
+            https://www.pref.okinawa.jp/shigoto/kankotokusan/1011671/1011741/1011762/1011752.html | okinawa_tourism_basicplan
+            https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/kankoshinkokihonkeikakukaitei.pdf | okinawa_tourism_basicplan_pdf_5
+            https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/6keikaku2.pdf | okinawa_tourism_basicplan_pdf_6
+            ```
+
+            ```archive_job.sh
+            #!/bin/bash
+
+            # 1. Input file name
+            input="archive_job_targets.txt"
+
+            # 2. Fake User-Agent (Chrome Windows)
+            UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+            # 3. Check if input file exists
+            if [ ! -f "$input" ]; then
+                echo "Error: $input not found!"
+                exit 1
+            fi
+
+            # 4. Loop through the file
+            # We use '|' as the separator
+            while IFS='|' read -r url raw_title || [ -n "$url" ]
+            do
+            # Trim whitespace from URL and Title
+            url=$(echo "$url" | xargs)
+            title=$(echo "$raw_title" | xargs)
+
+            # Skip empty lines
+            if [ -z "$url" ]; then continue; fi
+
+            # SANITIZE TITLE:
+            # Replace spaces with underscores and remove weird characters (/, :, etc)
+            # This prevents file creation errors in Linux
+            safe_title=$(echo "$title" | tr ' ' '_' | tr -cd '[:alnum:]_-')
+
+            echo "------------------------------------------------"
+            echo "Target: $url"
+            echo "Saving as: $safe_title.warc.gz"
+
+            # Execute wget
+            wget --page-requisites \
+                --warc-file="$safe_title" \
+                --user-agent="$UA" \
+                --no-verbose \
+                "$url"
+
+            # Random Sleep (30s to 120s)
+            sleeptime=$(shuf -i 30-120 -n 1)
+            echo "Done. Sleeping for $sleeptime seconds..."
+            sleep $sleeptime
+
+            done < "$input"
+            ```
+        
     ??? quote "Breakdown of Military-Related Receipts."
         | Components                   | Amount           | Profit Efficiency | Profit       | Note                                                                              |
         |------------------------------|------------------|-------------------|--------------|-----------------------------------------------------------------------------------|
@@ -132,74 +194,3 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
