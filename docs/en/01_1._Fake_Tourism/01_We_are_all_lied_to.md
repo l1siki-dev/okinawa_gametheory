@@ -33,8 +33,8 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
             - The original chart is based on the Okinawa Govt's unique concept of 県外受取.
             - The original chart is on " 第5次沖縄県観光振興基本計画改定版, PDF page 20.
         
-        ??? quote "Evidense Preservation."
-            !!! info "Evidences"
+        ??? info "Evidense Preservation."
+            !!! quote "Evidences"
                 https://archive.org/download/evidence_pdf_basicplan6.warc/okinawa_tourism_basicplan.warc.gz
                 https://archive.org/download/evidence_pdf_basicplan6.warc/evidence_pdf_basicplan5.warc.gz
                 https://archive.org/download/evidence_pdf_basicplan6.warc/evidence_pdf_basicplan6.warc.gz
@@ -194,3 +194,4 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
