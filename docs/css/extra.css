@@ -1,4 +1,13 @@
 /* Layout headers to allow the button to act as a bullet */
+.md-typeset h1 {
+  /* Use the main text color variable (auto-switches based on theme) */
+  color: var(--md-default-fg-color);
+  
+  /* Optional: The default weight is often 300 (Light). 
+     Making it bold helps it look "blacker". */
+  font-weight: 700; 
+}
+
 article h1, article h2, article h3 {
     z-index: 1; 
     display: flex !important;
