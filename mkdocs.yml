@@ -88,7 +88,10 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true 
   - nl2br
-
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      
 hooks:
   - docs/python/strip_number_hook.py
   - docs/python/set_site_url.py
