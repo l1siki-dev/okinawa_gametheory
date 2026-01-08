@@ -256,13 +256,13 @@ And if a Ryukyu ship carrying sulfur gets attacked by pirates on the way to Chin
 That is Ryukyu's loss, not the Emperor's.  
 The Ming effectively outsourced the logistics risk to Chusan.  
 
-## Ryukyu is never had been soverign in practical sense. 
+## Ryukyu had never been sovereign in a practical sense. 
 
 It was all Ming's doing.  
-That was business of Ming. Whatever legal difinition is.  
-Ming was the boss who decide what Ryukyu do, and Ryukyu "King" was just a local manager who got business licence.  
+That was the business of Ming. Whatever legal definition is.  
+Ming was the boss who decided what Ryukyu did, and the Ryukyu "King" was just a local manager who got a business licence.  
 
-## Ryukyu is not even Kingdom in usual sense
+## Ryukyu is not even a kingdom in the usual sense
 
 Famouse Kingdoms c. 1600 
 
@@ -587,6 +587,7 @@ As Sun Tzu said, "Know the Enemy and Yourself, you will not know defeat". (Not a
 * Satsuma is actually not that bad, at least compared to Ryukyu. Because they had incentives to develop Okinawa.  
 * Japan did even better.  
 * Okinawa's history is important/interesting than you think.  
+
 
 
 
