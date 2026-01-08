@@ -1,5 +1,4 @@
 ---
-title: :material-home: 
 hide:
   - navigation
   - toc
