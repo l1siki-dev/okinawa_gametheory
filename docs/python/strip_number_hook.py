@@ -20,48 +20,45 @@ def on_nav(nav, config, files):
     
     strip_number(nav.items)
 
-    # --- 2. Find the Root/Home Item (Page OR Section) ---
+    # --- 2. Find the Specific Root Index ---
     
+    # Define exactly which files count as "Root Home"
+    # This prevents '01-guide/index.md' from confusing the script.
+    ROOT_PATHS = ["index.md", "en/index.md", "ja/index.md"]
+
     home_item = None
     other_items = []
-
-    log.info("--- NAV HOOK START ---")
 
     for item in nav.items:
         is_home = False
         
-        # Debug: Print what we are seeing
-        item_type = "Section" if hasattr(item, 'children') else "Page"
-        log.info(f"Scanning item: [{item_type}] '{item.title}'")
-
-        # CASE A: It is a standalone Page (e.g. index.md at root)
+        # Check if item is a Page (File)
         if hasattr(item, 'file') and item.file:
-            if item.file.src_path.endswith("index.md"):
-                log.info(f"-> MATCH (File): {item.file.src_path}")
+            if item.file.src_path in ROOT_PATHS:
                 is_home = True
 
-        # CASE B: It is a Section (Folder) that contains index.md
-        # (e.g. The 'En' folder containing 'en/index.md')
+        # Check if item is a Section (Folder) containing the index
         elif hasattr(item, 'children') and item.children:
             first_child = item.children[0]
             if hasattr(first_child, 'file') and first_child.file:
-                if first_child.file.src_path.endswith("index.md"):
-                    log.info(f"-> MATCH (Section containing index): {first_child.file.src_path}")
+                if first_child.file.src_path in ROOT_PATHS:
                     is_home = True
 
-        # Separate the Home item from the rest
+        # Sort into buckets
         if is_home:
-            # Rename the tab to the Home Icon
-            item.title = ":material-home:"
+            # Using Unicode Emoji 🏠 is safer than :material-home:
+            # You can change this string to whatever you want.
+            item.title = "🏠 Home"
             home_item = item
         else:
             other_items.append(item)
 
     # --- 3. Rebuild Navigation ---
     if home_item:
-        log.info("-> Moving Home item to the top.")
+        # Put Home first, then everything else
         nav.items = [home_item] + other_items
     else:
-        log.warning("-> Still could not find an index.md or a folder containing it.")
+        # If no home found, leave it alone (or just stripped numbers)
+        nav.items = other_items # effectively same as original items if home not found
 
     return nav
