@@ -24,7 +24,7 @@ def on_nav(nav, config, files):
     # The logs showed that your Root is just [En] or [En, Ja].
     # We need to find the folder containing 'index.md' and promote its children to the top.
     
-    ROOT_PATHS = ["en/index.md", "ja/index.md", "index.md"]
+    ROOT_PATHS = ["en/index.md", "ja/index.md"]
     
     wrapper_folder_index = None
     
@@ -63,6 +63,6 @@ def on_nav(nav, config, files):
         first_item = nav.items[0]
         if hasattr(first_item, 'file') and first_item.file and first_item.file.src_path in ROOT_PATHS:
             log.info("🏠 Renaming first tab to Home Icon")
-            first_item.title = "🏠 Home"
+            first_item.title = "🏠"
 
     return nav
