@@ -1,7 +1,7 @@
 import re
 import logging
 
-# Set up logging to see what's happening in the console
+# Setup logging so you can see the output in your terminal
 log = logging.getLogger("mkdocs")
 
 def on_nav(nav, config, files):
@@ -21,55 +21,39 @@ def on_nav(nav, config, files):
     
     strip_number(nav.items)
 
-    # --- 2. Find and Move the Root Index ---
-    target_item = None
-    parent_list = None
+    # --- 2. Find, Rename, and Sort the Root Index ---
+    
+    home_items = []
+    other_items = []
 
-    # Helper function to find index.md recursively
-    def find_index(items, is_root=False):
-        nonlocal target_item, parent_list
+    log.info("--- NAV HOOK START ---")
+
+    for item in nav.items:
+        is_home = False
         
-        for item in items:
-            # Check if this item is a File (Page)
-            if hasattr(item, 'file') and item.file:
-                path = item.file.src_path
-                
-                # Debug: Print what we found to the console
-                if is_root:
-                    log.info(f"Root item found: '{item.title}' -> {path}")
+        # Check if this item is a Page (File) and ends with index.md
+        # This covers "index.md", "en/index.md", "ja/index.md"
+        if hasattr(item, 'file') and item.file:
+            path = item.file.src_path
+            log.info(f"Found Top-Level Page: {path}")
+            
+            if path.endswith("index.md"):
+                is_home = True
 
-                # Check for index.md or language-specific index (en/index.md)
-                if path.endswith("index.md"):
-                    # We found it!
-                    target_item = item
-                    parent_list = items
-                    return True
+        if is_home:
+            # Rename it here
+            log.info(f"-> Identifying {item.title} as HOME")
+            item.title = ":material-home:" # Or "Home" or "aaaa"
+            home_items.append(item)
+        else:
+            other_items.append(item)
 
-            # Check if this item is a Folder (Section) that might contain the index
-            # (Only check 1 level deep for the 'home' page usually)
-            if hasattr(item, 'children') and item.children:
-                if find_index(item.children):
-                    return True
-        return False
-
-    # Start the search
-    log.info("--- LOOKING FOR INDEX.MD ---")
-    find_index(nav.items, is_root=True)
-
-    # --- 3. Execute the Move ---
-    if target_item and parent_list:
-        log.info(f"MOVING: {target_item.title} to the top.")
-        
-        # Remove from its current location (could be at the end, or inside a folder)
-        parent_list.remove(target_item)
-        
-        # Rename to Icon
-        # target_item.title = ":material-home:" 
-        target_item.title = "aaaaa" 
-        
-        # Insert at the very top of the ROOT navigation
-        nav.items.insert(0, target_item)
+    # --- 3. Rebuild the Navigation ---
+    # If we found a home item, put it first.
+    if home_items:
+        nav.items = home_items + other_items
+        log.info("-> Home moved to top.")
     else:
-        log.warning("WARNING: Could not find any 'index.md' to move.")
+        log.warning("-> No top-level index.md found. Tabs order unchanged.")
 
     return nav
