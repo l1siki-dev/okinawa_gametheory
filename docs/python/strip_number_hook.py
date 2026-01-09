@@ -37,7 +37,8 @@ def on_nav(nav, config, files):
         nav.items.remove(root_index)
         
         # 2. Rename to Icon (Make sure emoji extension is on)
-        root_index.title = ":material-home:"
+        # root_index.title = ":material-home:"
+        root_index.title = "aaaa"
         
         # 3. Insert at the absolute top (Index 0)
         nav.items.insert(0, root_index)
