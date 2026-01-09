@@ -1,7 +1,6 @@
 import re
 import logging
 
-# Setup logging so you can see the output in your terminal
 log = logging.getLogger("mkdocs")
 
 def on_nav(nav, config, files):
@@ -21,9 +20,9 @@ def on_nav(nav, config, files):
     
     strip_number(nav.items)
 
-    # --- 2. Find, Rename, and Sort the Root Index ---
+    # --- 2. Find the Root/Home Item (Page OR Section) ---
     
-    home_items = []
+    home_item = None
     other_items = []
 
     log.info("--- NAV HOOK START ---")
@@ -31,29 +30,38 @@ def on_nav(nav, config, files):
     for item in nav.items:
         is_home = False
         
-        # Check if this item is a Page (File) and ends with index.md
-        # This covers "index.md", "en/index.md", "ja/index.md"
+        # Debug: Print what we are seeing
+        item_type = "Section" if hasattr(item, 'children') else "Page"
+        log.info(f"Scanning item: [{item_type}] '{item.title}'")
+
+        # CASE A: It is a standalone Page (e.g. index.md at root)
         if hasattr(item, 'file') and item.file:
-            path = item.file.src_path
-            log.info(f"Found Top-Level Page: {path}")
-            
-            if path.endswith("index.md"):
+            if item.file.src_path.endswith("index.md"):
+                log.info(f"-> MATCH (File): {item.file.src_path}")
                 is_home = True
 
+        # CASE B: It is a Section (Folder) that contains index.md
+        # (e.g. The 'En' folder containing 'en/index.md')
+        elif hasattr(item, 'children') and item.children:
+            first_child = item.children[0]
+            if hasattr(first_child, 'file') and first_child.file:
+                if first_child.file.src_path.endswith("index.md"):
+                    log.info(f"-> MATCH (Section containing index): {first_child.file.src_path}")
+                    is_home = True
+
+        # Separate the Home item from the rest
         if is_home:
-            # Rename it here
-            log.info(f"-> Identifying {item.title} as HOME")
-            item.title = ":material-home:" # Or "Home" or "aaaa"
-            home_items.append(item)
+            # Rename the tab to the Home Icon
+            item.title = ":material-home:"
+            home_item = item
         else:
             other_items.append(item)
 
-    # --- 3. Rebuild the Navigation ---
-    # If we found a home item, put it first.
-    if home_items:
-        nav.items = home_items + other_items
-        log.info("-> Home moved to top.")
+    # --- 3. Rebuild Navigation ---
+    if home_item:
+        log.info("-> Moving Home item to the top.")
+        nav.items = [home_item] + other_items
     else:
-        log.warning("-> No top-level index.md found. Tabs order unchanged.")
+        log.warning("-> Still could not find an index.md or a folder containing it.")
 
     return nav
