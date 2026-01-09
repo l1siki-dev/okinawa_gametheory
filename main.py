@@ -103,4 +103,5 @@ def define_env(env):
                     anchor = sub.lower().replace(' ', '-').replace('?', '').replace(':', '')
                     toc_lines.append(f"    - [{sub}]({url}#{anchor})")
         
-        return "\n".join(toc_lines)
+        # return "\n".join(toc_lines)
+        return "\n"
