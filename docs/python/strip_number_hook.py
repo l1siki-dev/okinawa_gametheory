@@ -20,16 +20,15 @@ def on_nav(nav, config, files):
     
     strip_number(nav.items)
 
-    # --- 2. Find the Specific Root Index ---
+    # --- 2. Find and Move Root Index (In-Place) ---
     
-    # Define exactly which files count as "Root Home"
-    # This prevents '01-guide/index.md' from confusing the script.
+    # Define your root files
     ROOT_PATHS = ["index.md", "en/index.md", "ja/index.md"]
+    
+    home_index = None
 
-    home_item = None
-    other_items = []
-
-    for item in nav.items:
+    # Iterate through the top-level items to find WHERE the home page is
+    for i, item in enumerate(nav.items):
         is_home = False
         
         # Check if item is a Page (File)
@@ -43,22 +42,24 @@ def on_nav(nav, config, files):
             if hasattr(first_child, 'file') and first_child.file:
                 if first_child.file.src_path in ROOT_PATHS:
                     is_home = True
-
-        # Sort into buckets
+        
         if is_home:
-            # Using Unicode Emoji 🏠 is safer than :material-home:
-            # You can change this string to whatever you want.
-            item.title = "🏠 Home"
-            home_item = item
-        else:
-            other_items.append(item)
+            home_index = i
+            break # Stop looking once we found it
 
-    # --- 3. Rebuild Navigation ---
-    if home_item:
-        # Put Home first, then everything else
-        nav.items = [home_item] + other_items
-    else:
-        # If no home found, leave it alone (or just stripped numbers)
-        nav.items = other_items # effectively same as original items if home not found
-
+    # --- 3. Execute the Move ---
+    if home_index is not None:
+        log.info(f"Found Home at index {home_index}. Moving to top.")
+        
+        # Get the item
+        home_item = nav.items[home_index]
+        
+        # Rename it
+        home_item.title = "🏠 Home"
+        
+        # Move it: Pop from old spot, Insert at 0
+        # This guarantees we don't lose any other tabs!
+        nav.items.pop(home_index)
+        nav.items.insert(0, home_item)
+        
     return nav
