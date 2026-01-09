@@ -1,10 +1,11 @@
 import re
 import logging
 
+# Setup logging
 log = logging.getLogger("mkdocs")
 
 def on_nav(nav, config, files):
-    # --- 1. Strip Numbers (Your existing logic) ---
+    # --- 1. Strip Numbers (Your existing code) ---
     def strip_number(items):
         for item in items:
             if item.title:
@@ -20,46 +21,58 @@ def on_nav(nav, config, files):
     
     strip_number(nav.items)
 
-    # --- 2. Find and Move Root Index (In-Place) ---
+    # --- 2. DEBUG LOG & SNIPE EXACT FILE ---
     
-    # Define your root files
-    ROOT_PATHS = ["index.md", "en/index.md", "ja/index.md"]
-    
-    home_index = None
+    # 📝 CONFIGURATION: Put the EXACT path you want to move here.
+    # Check the console logs below if this doesn't work.
+    TARGET_PATHS = ["en/index.md", "index.md", "ja/index.md"]
 
-    # Iterate through the top-level items to find WHERE the home page is
+    target_index = None
+
+    log.info("================ NAV DEBUG LOG ================")
+
     for i, item in enumerate(nav.items):
-        is_home = False
-        
-        # Check if item is a Page (File)
+        # Case A: It is a standalone File (Page)
         if hasattr(item, 'file') and item.file:
-            if item.file.src_path in ROOT_PATHS:
-                is_home = True
+            path = item.file.src_path
+            log.info(f"[{i}] TYPE: Page    | TITLE: {item.title} | PATH: {path}")
+            
+            if path in TARGET_PATHS:
+                target_index = i
 
-        # Check if item is a Section (Folder) containing the index
-        elif hasattr(item, 'children') and item.children:
-            first_child = item.children[0]
-            if hasattr(first_child, 'file') and first_child.file:
-                if first_child.file.src_path in ROOT_PATHS:
-                    is_home = True
+        # Case B: It is a Folder (Section)
+        elif hasattr(item, 'children'):
+            log.info(f"[{i}] TYPE: Section | TITLE: {item.title}")
+            
+            # Check the first file inside the folder to see if it's the index
+            if item.children and hasattr(item.children[0], 'file') and item.children[0].file:
+                child_path = item.children[0].file.src_path
+                log.info(f"    -> First Child Path: {child_path}")
+                
+                if child_path in TARGET_PATHS:
+                    target_index = i
         
-        if is_home:
-            home_index = i
-            break # Stop looking once we found it
+        else:
+             log.info(f"[{i}] TYPE: Unknown | TITLE: {item.title}")
 
-    # --- 3. Execute the Move ---
-    if home_index is not None:
-        log.info(f"Found Home at index {home_index}. Moving to top.")
+    log.info("===============================================")
+
+    # --- 3. Execute Move ---
+    if target_index is not None:
+        log.info(f"✅ FOUND target at Index [{target_index}]. Moving to TOP.")
         
-        # Get the item
-        home_item = nav.items[home_index]
+        # 1. Grab the item
+        item_to_move = nav.items[target_index]
         
-        # Rename it
-        home_item.title = "🏠 Home"
+        # 2. Rename it
+        item_to_move.title = "🏠 Home"
         
-        # Move it: Pop from old spot, Insert at 0
-        # This guarantees we don't lose any other tabs!
-        nav.items.pop(home_index)
-        nav.items.insert(0, home_item)
+        # 3. Remove from old spot
+        nav.items.pop(target_index)
         
+        # 4. Insert at the start
+        nav.items.insert(0, item_to_move)
+    else:
+        log.warning("❌ TARGET NOT FOUND. Please check the PATH in the logs above.")
+
     return nav
