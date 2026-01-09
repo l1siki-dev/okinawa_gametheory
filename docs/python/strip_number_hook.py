@@ -1,31 +1,46 @@
 import re
 
 def on_nav(nav, config, files):
+    # --- PART 1: Your existing logic to strip numbers ---
     def strip_number(items):
         for item in items:
-            # 1. Handle items that already have a title (usually Folders)
+            # Handle Folders/items with titles
             if item.title:
                 item.title = re.sub(r"^\d+[a-zA-Z]*[-_ ]+", "", item.title)
             
-            # 2. Handle Pages (Files) that don't have a title yet
-            # MkDocs usually fills this later from the H1 header, but we want 
-            # to clean the filename and set it now.
+            # Handle Pages without titles (clean filenames)
             elif hasattr(item, 'file') and item.file:
-                # Get the filename without extension (e.g., "02_why_tourism_is_not_working")
                 new_title = item.file.name 
-                
-                # Apply the regex to strip the number
                 new_title = re.sub(r"^\d+[a-zA-Z]*[-_ ]+", "", new_title)
-                
-                # Optional: Replace underscores with spaces and capitalize
                 new_title = new_title.replace("_", " ").title()
-                
-                # Assign the new title to the item
                 item.title = new_title
 
-            # 3. Recursion for nested folders
+            # Recursion
             if hasattr(item, 'children') and item.children:
                 strip_number(item.children)
     
     strip_number(nav.items)
+
+    # --- PART 2: Move index.md to top and rename ---
+    root_index = None
+    
+    # 1. Find the root index.md object
+    for item in nav.items:
+        # Check if the item is a file and specifically 'index.md'
+        if hasattr(item, 'file') and item.file and item.file.src_path == 'index.md':
+            root_index = item
+            break
+    
+    # 2. If found, move it and rename it
+    if root_index:
+        # Remove from current position (likely the end)
+        nav.items.remove(root_index)
+        
+        # Change the Title
+        # You can use text "Home" or an icon code like ":material-home:"
+        root_index.title = ":material-home:" 
+        
+        # Insert at the very beginning
+        nav.items.insert(0, root_index)
+
     return nav
