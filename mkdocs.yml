@@ -96,7 +96,6 @@ hooks:
   - docs/python/strip_number_hook.py
   - docs/python/set_site_url.py
   - docs/python/smart_read_time.py
-  - docs/python/shorten_home.py
   
 
 extra_javascript:
