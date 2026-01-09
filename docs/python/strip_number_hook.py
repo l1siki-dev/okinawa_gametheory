@@ -1,46 +1,45 @@
 import re
 
 def on_nav(nav, config, files):
-    # --- PART 1: Your existing logic to strip numbers ---
+    # --- PART 1: Strip numbers (Same as before) ---
     def strip_number(items):
         for item in items:
-            # Handle Folders/items with titles
             if item.title:
                 item.title = re.sub(r"^\d+[a-zA-Z]*[-_ ]+", "", item.title)
-            
-            # Handle Pages without titles (clean filenames)
             elif hasattr(item, 'file') and item.file:
                 new_title = item.file.name 
                 new_title = re.sub(r"^\d+[a-zA-Z]*[-_ ]+", "", new_title)
                 new_title = new_title.replace("_", " ").title()
                 item.title = new_title
 
-            # Recursion
             if hasattr(item, 'children') and item.children:
                 strip_number(item.children)
     
     strip_number(nav.items)
 
-    # --- PART 2: Move index.md to top and rename ---
+    # --- PART 2: Handle i18n Root Index ---
     root_index = None
     
-    # 1. Find the root index.md object
+    # Iterate through the TOP LEVEL items of the navigation
     for item in nav.items:
-        # Check if the item is a file and specifically 'index.md'
-        if hasattr(item, 'file') and item.file and item.file.src_path == 'index.md':
-            root_index = item
-            break
+        # We only care about Files (Pages), not Folders (Sections) at this level
+        if hasattr(item, 'file') and item.file:
+            
+            # Check the source path.
+            # Using .endswith() handles "index.md", "en/index.md", "ja/index.md"
+            if item.file.src_path.endswith("index.md"):
+                root_index = item
+                break
     
-    # 2. If found, move it and rename it
+    # Move and Rename
     if root_index:
-        # Remove from current position (likely the end)
+        # 1. Remove from current position (usually the end)
         nav.items.remove(root_index)
         
-        # Change the Title
-        # You can use text "Home" or an icon code like ":material-home:"
-        root_index.title = ":material-home:" 
+        # 2. Rename to Icon (Make sure emoji extension is on)
+        root_index.title = ":material-home:"
         
-        # Insert at the very beginning
+        # 3. Insert at the absolute top (Index 0)
         nav.items.insert(0, root_index)
 
     return nav
