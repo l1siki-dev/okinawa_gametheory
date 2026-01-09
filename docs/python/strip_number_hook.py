@@ -64,7 +64,8 @@ def on_nav(nav, config, files):
         parent_list.remove(target_item)
         
         # Rename to Icon
-        target_item.title = ":material-home:" 
+        # target_item.title = ":material-home:" 
+        target_item.title = "aaaaa" 
         
         # Insert at the very top of the ROOT navigation
         nav.items.insert(0, target_item)
