@@ -1,11 +1,10 @@
 import re
 import logging
 
-# Setup logging
 log = logging.getLogger("mkdocs")
 
 def on_nav(nav, config, files):
-    # --- 1. Strip Numbers (Your existing code) ---
+    # --- 1. Strip Numbers (Your existing logic) ---
     def strip_number(items):
         for item in items:
             if item.title:
@@ -21,58 +20,49 @@ def on_nav(nav, config, files):
     
     strip_number(nav.items)
 
-    # --- 2. DEBUG LOG & SNIPE EXACT FILE ---
+    # --- 2. DETECT AND UNWRAP LANGUAGE FOLDER ---
+    # The logs showed that your Root is just [En] or [En, Ja].
+    # We need to find the folder containing 'index.md' and promote its children to the top.
     
-    # 📝 CONFIGURATION: Put the EXACT path you want to move here.
-    # Check the console logs below if this doesn't work.
-    TARGET_PATHS = ["en/index.md", "index.md", "ja/index.md"]
-
-    target_index = None
-
-    log.info("================ NAV DEBUG LOG ================")
-
+    ROOT_PATHS = ["en/index.md", "ja/index.md", "index.md"]
+    
+    wrapper_folder_index = None
+    
+    log.info("--- CHECKING FOR WRAPPED CONTENT ---")
+    
     for i, item in enumerate(nav.items):
-        # Case A: It is a standalone File (Page)
-        if hasattr(item, 'file') and item.file:
-            path = item.file.src_path
-            log.info(f"[{i}] TYPE: Page    | TITLE: {item.title} | PATH: {path}")
-            
-            if path in TARGET_PATHS:
-                target_index = i
-
-        # Case B: It is a Folder (Section)
-        elif hasattr(item, 'children'):
-            log.info(f"[{i}] TYPE: Section | TITLE: {item.title}")
-            
-            # Check the first file inside the folder to see if it's the index
-            if item.children and hasattr(item.children[0], 'file') and item.children[0].file:
-                child_path = item.children[0].file.src_path
-                log.info(f"    -> First Child Path: {child_path}")
+        # Check if this top-level item is a Folder (Section)
+        if hasattr(item, 'children') and item.children:
+            # Check the first file inside to see if it's our index
+            first_child = item.children[0]
+            if hasattr(first_child, 'file') and first_child.file:
+                path = first_child.file.src_path
                 
-                if child_path in TARGET_PATHS:
-                    target_index = i
-        
-        else:
-             log.info(f"[{i}] TYPE: Unknown | TITLE: {item.title}")
+                if path in ROOT_PATHS:
+                    log.info(f"✅ Found wrapper folder '{item.title}' containing {path}")
+                    wrapper_folder_index = i
+                    break
 
-    log.info("===============================================")
+    # If we found a wrapper folder (like 'En'), UNWRAP it.
+    if wrapper_folder_index is not None:
+        wrapper_item = nav.items[wrapper_folder_index]
+        
+        # 1. Take the children OUT of the folder
+        new_root_items = wrapper_item.children
+        
+        log.info(f"🚀 Unwrapping {len(new_root_items)} items to the top level.")
+        
+        # 2. Replace the main nav with these children
+        # This brings '01-Guide' etc. to the main tabs!
+        nav.items = new_root_items
 
-    # --- 3. Execute Move ---
-    if target_index is not None:
-        log.info(f"✅ FOUND target at Index [{target_index}]. Moving to TOP.")
-        
-        # 1. Grab the item
-        item_to_move = nav.items[target_index]
-        
-        # 2. Rename it
-        item_to_move.title = "🏠 Home"
-        
-        # 3. Remove from old spot
-        nav.items.pop(target_index)
-        
-        # 4. Insert at the start
-        nav.items.insert(0, item_to_move)
-    else:
-        log.warning("❌ TARGET NOT FOUND. Please check the PATH in the logs above.")
+    # --- 3. RENAME HOME ICON ---
+    # Now that index.md is at the top level (index 0), rename it.
+    
+    if nav.items:
+        first_item = nav.items[0]
+        if hasattr(first_item, 'file') and first_item.file and first_item.file.src_path in ROOT_PATHS:
+            log.info("🏠 Renaming first tab to Home Icon")
+            first_item.title = "🏠 Home"
 
     return nav
