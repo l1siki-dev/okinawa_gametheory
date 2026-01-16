@@ -48,6 +48,14 @@ Okinawa is trying to fight a "Beach Resort War" against Hawaii, Thailand, and Ba
 
 By choosing to make Tourism the "Main Strategy," the Japanese government chose a battlefield where **victory is physically impossible.**
 
+### The "Scaling Deficit" (The More You Build, The Poorer You Get)
+Usually, in business, Economy of Scale kicks in (Walmart gets cheaper the bigger it gets).
+In Okinawa Tourism, **Diseconomy of Scale** kicks in.
+*   One hotel needs one road.
+*   Ten hotels need a highway, a new sewage plant, and a police station.
+*   The tax revenue from the ten hotels (active only 6 months) **does not cover the maintenance cost** of the highway and sewage plant.
+*   Therefore: **Every new hotel increases the Prefectural Deficit.**
+
 ### The "Zero Sum" Trap
 You are absolutely right. Tourism is zero-sum.
 A tourist has 5 days of vacation. They spend it *somewhere*.
@@ -269,5 +277,6 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
