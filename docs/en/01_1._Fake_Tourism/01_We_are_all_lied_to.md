@@ -6,9 +6,9 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
 
 | Month | Hawaii (Waikiki) 🇺🇸 | Okinawa (Naha) 🇯🇵 |
 | :--- | :---: | :---: |
-| **Jan** | ✅ | ❌ (Winter) |
-| **Feb** | ✅ | ❌ (Winter) |
-| **Mar** | ✅ | ❌ (Winter) |
+| **Jan** | ✅ | ❌ (Beach Closed) |
+| **Feb** | ✅ | ❌ (Beach Closed) |
+| **Mar** | ✅ | ❌ (Beach Closed) |
 | **Apr** | ✅ | 🔺 (Start?) |
 | **May** | ✅ | 🔺 **(Tsuyu/Rain)** |
 | **Jun** | ✅ | 🔺 **(Tsuyu/Rain)** |
@@ -16,8 +16,8 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
 | **Aug** | ✅ | ✅ (🌀Typhoon Risk) |
 | **Sep** | ✅ | ✅ (🌀Typhoon Risk) |
 | **Oct** | ✅ | 🔺 (End?) |
-| **Nov** | ✅ | ❌ (Winter) |
-| **Dec** | ✅ | ❌ (Winter) |
+| **Nov** | ✅ | ❌ (Beach Closed) |
+| **Dec** | ✅ | ❌ (Beach Closed) |
 | **Result** | **12 Month Cash Flow** | **3 Month Gamble** |
 
 ***
@@ -271,6 +271,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
