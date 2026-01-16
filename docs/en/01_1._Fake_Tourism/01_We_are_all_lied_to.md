@@ -5,7 +5,7 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
 ### **The "Hawaii vs. Okinawa" Reality Check**
 
 | Month | Hawaii (Waikiki) 🇺🇸 | Okinawa (Naha) 🇯🇵 |
-| :--- | :---: | :---: |
+| :--- | :--- | :--- |
 | **Jan** | ✅ | ❌ (Beach Closed) |
 | **Feb** | ✅ | ❌ (Beach Closed) |
 | **Mar** | ✅ | ❌ (Beach Closed) |
@@ -271,6 +271,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
