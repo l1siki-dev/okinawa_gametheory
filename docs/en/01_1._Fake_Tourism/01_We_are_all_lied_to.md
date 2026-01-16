@@ -1,14 +1,8 @@
 # First lie: "Tourism is working."
 
 I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
-##
 
-This makes the reality even worse. It’s not a "6-Month Business." It’s barely a **3-Month Business** (July, August, September) ... and even then, you are playing Russian Roulette with **Typhoons**.
-
-Here is the **corrected, "Brutal Reality" Table**.
-This version is even more damning.
-
-### **The "Hawaii vs. Okinawa" Reality Check (v2.0)**
+### **The "Hawaii vs. Okinawa" Reality Check**
 
 | Month | Hawaii (Waikiki) 🇺🇸 | Okinawa (Naha) 🇯🇵 |
 | :--- | :---: | :---: |
@@ -277,6 +271,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
