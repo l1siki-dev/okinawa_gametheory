@@ -10,11 +10,11 @@ I'm pure Okinawan (Nago + Miyakojima). I can't be silent anymore.
 | **Feb** | ✅ | ❌ (Winter) |
 | **Mar** | ✅ | ❌ (Winter) |
 | **Apr** | ✅ | 🔺 (Start?) |
-| **May** | ✅ | ☔ **(Tsuyu/Rain)** |
-| **Jun** | ✅ | ☔ **(Tsuyu/Rain)** |
+| **May** | ✅ | 🔺 **(Tsuyu/Rain)** |
+| **Jun** | ✅ | 🔺 **(Tsuyu/Rain)** |
 | **Jul** | ✅ | ✅ (PEAK) |
-| **Aug** | ✅ | ✅ (PEAK / 🌀Typhoon Risk) |
-| **Sep** | ✅ | ✅ (PEAK / 🌀Typhoon Risk) |
+| **Aug** | ✅ | ✅ (🌀Typhoon Risk) |
+| **Sep** | ✅ | ✅ (🌀Typhoon Risk) |
 | **Oct** | ✅ | 🔺 (End?) |
 | **Nov** | ✅ | ❌ (Winter) |
 | **Dec** | ✅ | ❌ (Winter) |
@@ -271,6 +271,7 @@ When you use this **"Profit/Incentive"** lens, the landscape of Okinawa's econom
 ## Honest Graph: Bases are 4 times bigger than tourism. Tourism practically doesn't exist.
 
 ## Honest Graph 2: Politicians have zero incentive to develop Okinawa.
+
 
 
 
